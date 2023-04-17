@@ -10,7 +10,9 @@ This is a script to parse the .tsv file outputed by Expression ATLAS.
 Input files can be gather here: https://www.ebi.ac.uk/gxa/home
 
 Things to address:
-output file name should probably be from user input. 
+-output file name should probably be from user input. 
+-Adjust code so the input file from another dictory instead of the same as the python directory
+-Where should the output file be?
 """
 def parserAtlas(file_name):
     t0= time.clock() #test code efficiency
@@ -25,6 +27,7 @@ def parserAtlas(file_name):
     outputFileName = outputFileName.split("\\")[1]
     output_path = outputFileName + ".json"
     print(output_path)
+    #Read in file. Note that this may need to adjusted 
     with open(file_name, 'r', encoding="utf8") as tsvfile:
         reader = csv.DictReader(tsvfile, delimiter='\t')
         rows = []
@@ -38,7 +41,7 @@ def parserAtlas(file_name):
             })
                     
     try:
-        os.makedirs(output_dir, exist_ok=True)
+        os.makedirs(output_dir, exist_ok=True) #!!!!!adjust this if output file needs to be in a different place!
         with open(output_path, "w", encoding ="utf8") as f:
             json.dump(rows, f, indent=4)
             #^this for loop is to make sure the output is formatted correctly. 
