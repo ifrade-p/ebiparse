@@ -1,0 +1,26 @@
+retrievable fields for atlas-experiments
+ARRAYEXPRESS
+ENSEMBL
+PUBMED
+TAXONOMY
+citation_count
+citation_count_scaled
+creation_date
+description
+disease
+domain_source
+download_count
+download_count_scaled
+full_dataset_link
+id
+last_modification_date
+name
+normalized_connections
+omics_type
+publication_date
+reanalysis_count_scaled
+sample_protocol
+search_count
+view_count
+view_count_scaled
+{'ARRAYEXPRESS': 'ArrayExpress (Repository of Microarray data)', 'ENSEMBL': 'ENSEMBL accession (only for studies based on ENSEMBL such as Proteomics)', 'PUBMED': None, 'TAXONOMY': 'References to the Organism taxonomy', 'citation_count': 'Citation Count - Score', 'citation_count_scaled': 'Citation count scaled', 'creation_date': 'Creation date', 'description': 'Description', 'disease': 'Disease', 'domain_source': 'Domain source', 'download_count': 'Download count', 'download_count_scaled': 'Download count scaled', 'full_dataset_link': 'The original link of the dataset', 'id': 'Identifier', 'last_modification_date': 'Last modification date', 'name': 'Name', 'normalized_connections': 'Normalized connections', 'omics_type': 'Omics type (for example Metabolomics, Proteomics, Genomics)', 'publication_date': 'Publication date', 'reanalysis_count_scaled': 'Reanalysis count scaled', 'sample_protocol': 'Sample processing protocol', 'search_count': 'Search Count - Score', 'view_count': 'View Count - Score', 'view_count_scaled': 'View count scaled'}

@@ -1,0 +1,4524 @@
+[
+    {
+        "Gene ref": "AT4G21070",
+        "Species": "'15 day' vs '7 day' in 'wild type'",
+        "log_2 fold change": "-9.6",
+        "Adjusted p-value": "2.78774698958865e-16",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "AT4G21070",
+        "Species": "'drought environment' vs 'normal watering' in 'vtc2 mutant'",
+        "log_2 fold change": "-5.7",
+        "Adjusted p-value": "1.28469667634632e-15",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'adipose tissue specific Cnot1 knockout' vs 'wild type phenotype' in 'brown adipose tissue'",
+        "log_2 fold change": "5.6",
+        "Adjusted p-value": "3.9312273050928e-44",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "AT4G21070",
+        "Species": "'12 day' vs '7 day' in 'wild type'",
+        "log_2 fold change": "-5.6",
+        "Adjusted p-value": "1.4458589927095e-34",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "AT4G21070",
+        "Species": "'csn5 (csn5a-2 csn5b) mutant' vs 'wild type' in 'light'",
+        "log_2 fold change": "5.4",
+        "Adjusted p-value": "0.00000598135911167763",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'apical radial glial cell' vs 'neuron'",
+        "log_2 fold change": "5.3",
+        "Adjusted p-value": "7.79633446540714e-33",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "AT4G21070",
+        "Species": "'csn3-1 mutant' vs 'wild type' in 'light'",
+        "log_2 fold change": "5.3",
+        "Adjusted p-value": "2.46331103951174e-11",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'injected in NSG mouse' vs 'none' in 'none'",
+        "log_2 fold change": "5.2",
+        "Adjusted p-value": "1.08268662326446e-259",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'injected in NSG-HLA-A2/HHD mouse' vs 'none' in 'none'",
+        "log_2 fold change": "5.2",
+        "Adjusted p-value": "7.46655366609303e-222",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "AT4G21070",
+        "Species": "'csn3-1 mutant' vs 'wild type' in 'dark'",
+        "log_2 fold change": "5.2",
+        "Adjusted p-value": "0.00000442528550940971",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "AT4G21070",
+        "Species": "'13 day' vs '7 day' in 'wild type'",
+        "log_2 fold change": "-5",
+        "Adjusted p-value": "1.12153183625751e-29",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'outer radial glial cell' vs 'neuron'",
+        "log_2 fold change": "4.9",
+        "Adjusted p-value": "2.65529725024064e-35",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "AT4G21070",
+        "Species": "'drought environment' vs 'normal watering' in 'wild type genotype'",
+        "log_2 fold change": "-4.8",
+        "Adjusted p-value": "3.27892605775425e-20",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "AT4G21070",
+        "Species": "'csn5 (csn5a-2 csn5b) mutant' vs 'wild type' in 'dark'",
+        "log_2 fold change": "4.8",
+        "Adjusted p-value": "6.43758513197309e-7",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'T-helper 2 polarising' at '5 days' vs 'no stimulus'",
+        "log_2 fold change": "4.8",
+        "Adjusted p-value": "0.0000735765700734897",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "AT4G21070",
+        "Species": "'5-aza-2-deoxycytidine 20 milligram per liter' vs 'control' in 'wild type'",
+        "log_2 fold change": "4.7",
+        "Adjusted p-value": "0.0000143157457532564",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'T-helper 1 polarising' at '5 days' vs 'no stimulus'",
+        "log_2 fold change": "4.7",
+        "Adjusted p-value": "0.000168069505811357",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "AT4G21070",
+        "Species": "'csn4-1 mutant' vs 'wild type' in 'dark'",
+        "log_2 fold change": "4.5",
+        "Adjusted p-value": "2.55972315988157e-7",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "AT4G21070",
+        "Species": "'csn4-1 mutant' vs 'wild type' in 'light'",
+        "log_2 fold change": "4.5",
+        "Adjusted p-value": "0.000014566527670275",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'T-helper 2 polarising' at '1 day' vs 'no stimulus'",
+        "log_2 fold change": "4.5",
+        "Adjusted p-value": "0.0000663715525517909",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "AT4G21070",
+        "Species": "'rhd6 WER::GFP' vs 'wild type genotype'",
+        "log_2 fold change": "4.5",
+        "Adjusted p-value": "0.0281513407453288",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "AT4G21070",
+        "Species": "'ANAC017 OEa' vs 'wild type genotype' at '3 day'",
+        "log_2 fold change": "-4.4",
+        "Adjusted p-value": "1.30625785465786e-8",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'T-helper 1 polarising' at '1 day' vs 'no stimulus'",
+        "log_2 fold change": "4.4",
+        "Adjusted p-value": "0.000111049011310731",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "AT4G21070",
+        "Species": "'drought environment' vs 'normal watering' in 'vtc2.5 mutant'",
+        "log_2 fold change": "-4.3",
+        "Adjusted p-value": "8.63276092219459e-25",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'high fat diet; 30 degree celsius' vs 'chow; 23 degree celsius' in 'brown adipose tissue'",
+        "log_2 fold change": "4.3",
+        "Adjusted p-value": "4.19695443661407e-23",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "AT4G21070",
+        "Species": "'E2Fa-DPa overexpression' vs 'wild type'",
+        "log_2 fold change": "4.3",
+        "Adjusted p-value": "0.0000201613687582219",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'conditional Kras and p53 mutation induced soft tissue sarcoma' vs 'normal'",
+        "log_2 fold change": "4.2",
+        "Adjusted p-value": "2.35120715737764e-16",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'CRISPR-Cas9 induced GNRH1 reporter; 27 day' vs 'wild type genotype; 20 day'",
+        "log_2 fold change": "-4",
+        "Adjusted p-value": "7.26020817883946e-37",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'Kit ligand' vs 'none' in 'wasp knockout'",
+        "log_2 fold change": "3.9",
+        "Adjusted p-value": "5.21607954457977e-10",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "AT4G21070",
+        "Species": "'RBRcs mutant' vs 'wild type' in 'sucrose; 1 percent'",
+        "log_2 fold change": "3.9",
+        "Adjusted p-value": "1.49741775053114e-8",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'CCl4 and diethylnitrosamine' vs 'none' in 'wild type genotype'",
+        "log_2 fold change": "3.8",
+        "Adjusted p-value": "9.41011424067523e-9",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'transgenic C3(1)-SV40Tag; 20 week' vs 'wild type; 8 week'",
+        "log_2 fold change": "3.8",
+        "Adjusted p-value": "0.0000926639473324316",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'CD3/CD28 beads' vs 'none' in 'none'",
+        "log_2 fold change": "3.7",
+        "Adjusted p-value": "2.62115574881524e-183",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'3D culture' vs '2D culture'",
+        "log_2 fold change": "-3.7",
+        "Adjusted p-value": "7.48754091504368e-97",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'5-amino-1-(5-phospho-D-ribosyl)imidazole-4-carboxamide; 0.4 millimolar' vs 'none'",
+        "log_2 fold change": "-3.7",
+        "Adjusted p-value": "2.63174465180508e-76",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'Nutlin; 5 micromolar' vs 'DMSO; 0.065 percent' in 'GL2'",
+        "log_2 fold change": "-3.7",
+        "Adjusted p-value": "8.79803542159534e-10",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'NKAES-derived NK cells' vs 'primary human NK cells' in 'none'",
+        "log_2 fold change": "3.7",
+        "Adjusted p-value": "2.37911212122201e-7",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'Rb^{lox/lox}; p130^{lox/lox}; p107+/-' vs 'wild type'",
+        "log_2 fold change": "3.7",
+        "Adjusted p-value": "0.0000010105624311666",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'adult definitive erythroid cell' vs 'primitive erythroid cell' in 'mix of orthochromatic and polychromatophilic erythroblast'",
+        "log_2 fold change": "3.7",
+        "Adjusted p-value": "0.0000134573958425896",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'myeloid lineage restricted progenitor cell' vs 'long term hematopoietic stem cell' in 'Elp3fl/fl'",
+        "log_2 fold change": "3.6",
+        "Adjusted p-value": "1.79902819120742e-26",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'PLX4720; 1 micromolar' vs 'none'",
+        "log_2 fold change": "-3.6",
+        "Adjusted p-value": "4.23600497809797e-26",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'21 percent oxygen, 37 degree Celsius, 10 percent serum' vs 'none'",
+        "log_2 fold change": "3.6",
+        "Adjusted p-value": "4.62558567305589e-23",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSGALG00000002781",
+        "Species": "'non-laying' vs 'laying'",
+        "log_2 fold change": "3.6",
+        "Adjusted p-value": "2.22895957041282e-14",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'3 day; myogenesis differentiation' vs ' 0 day; control' in '2C12-pMirn0'",
+        "log_2 fold change": "-3.6",
+        "Adjusted p-value": "3.89025358544739e-11",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'neuron' vs 'differentiating progenitor'",
+        "log_2 fold change": "-3.5",
+        "Adjusted p-value": "6.00080725119335e-102",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'6 day; osteogenesis differentiation' vs ' 0 day; control' in '2C12-pMirn378'",
+        "log_2 fold change": "-3.5",
+        "Adjusted p-value": "3.04642123555506e-10",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'ABIN1[D485N] knock-in' vs 'wild type genotype' in 'classical monocyte'",
+        "log_2 fold change": "3.5",
+        "Adjusted p-value": "2.09471566492178e-8",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'6 day; osteogenesis differentiation' vs ' 0 day; control' in '2C12-pMirn0'",
+        "log_2 fold change": "-3.4",
+        "Adjusted p-value": "1.56458939821172e-9",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'cells activated for 72 hr by adding PHA-L' vs 'control'",
+        "log_2 fold change": "3.4",
+        "Adjusted p-value": "5.57402284007377e-8",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "AT4G21070",
+        "Species": "'RBRcs mutant' vs 'wild type' in 'none'",
+        "log_2 fold change": "3.4",
+        "Adjusted p-value": "0.00000725395878305378",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'low dose IL2' vs 'none' in 'primary human NK cells'",
+        "log_2 fold change": "3.4",
+        "Adjusted p-value": "0.0000134041351256076",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "AT4G21070",
+        "Species": "'AtATM3 mutant' vs 'wild type'",
+        "log_2 fold change": "-3.4",
+        "Adjusted p-value": "0.0000348256224784496",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'HER2 Positive Breast Carcinoma; breast carcinoma' vs 'normal'",
+        "log_2 fold change": "3.3",
+        "Adjusted p-value": "1.69992567679153e-7",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'postnatal >1 year; hindlimb' vs 'embryonic day 17.5; whole forelimb and hindlimb'",
+        "log_2 fold change": "-3.3",
+        "Adjusted p-value": "1.70851199725103e-7",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'high dose IL2' vs 'none' in 'primary human NK cells'",
+        "log_2 fold change": "3.3",
+        "Adjusted p-value": "0.00001249118871508",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'lipopolysaccharide; 10 nanogram per milliliter' vs 'none' in 'Hoxb8-FL; wild type genotype'",
+        "log_2 fold change": "-3.3",
+        "Adjusted p-value": "0.000290635332087089",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'recombinant human interleukin-2; 100 unit per milliliter; 16 hour' vs 'control; 0 hour'",
+        "log_2 fold change": "3.3",
+        "Adjusted p-value": "0.00205472838257555",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'\u03b1-GalCer; 2 microgram' vs 'none' in 'Cd1d homozyous knockout'",
+        "log_2 fold change": "3.1",
+        "Adjusted p-value": "9.17714603276116e-64",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'21 percent oxygen, 37 degree Celsius, no serum' vs 'none'",
+        "log_2 fold change": "3.1",
+        "Adjusted p-value": "4.3274468549647e-15",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'NCI-H460; large cell lung carcinoma; P01' vs 'NCI-H460; large cell lung carcinoma; P0'",
+        "log_2 fold change": "3.1",
+        "Adjusted p-value": "2.28605244462522e-11",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'Kit ligand' vs 'none' in 'wild type'",
+        "log_2 fold change": "3.1",
+        "Adjusted p-value": "9.72445859149151e-11",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'6 day; myogenesis differentiation' vs ' 0 day; control' in '2C12-pMirn0'",
+        "log_2 fold change": "-3.1",
+        "Adjusted p-value": "1.86452882645064e-9",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "AT4G21070",
+        "Species": "'ANAC017 OEa' vs 'wild type genotype' at '1 day'",
+        "log_2 fold change": "-3.1",
+        "Adjusted p-value": "7.14914961088041e-9",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'PTEN null, P53-/-' vs 'wild type genotype'",
+        "log_2 fold change": "3.1",
+        "Adjusted p-value": "0.00000515133886083599",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'lipopolysaccharide; 10 nanogram per milliliter and SGC-CBP30; 10 nanogram per milliliter' vs 'none' in 'primary cell line; wild type genotype'",
+        "log_2 fold change": "-3.1",
+        "Adjusted p-value": "0.00000568620677753316",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'antibiotics, CCl4 and diethylnitrosamine' vs 'none' in 'wild type genotype'",
+        "log_2 fold change": "3.1",
+        "Adjusted p-value": "0.00000699990158145627",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'postnatal 2-3 month; hindlimb' vs 'embryonic day 17.5; whole forelimb and hindlimb'",
+        "log_2 fold change": "-3.1",
+        "Adjusted p-value": "0.000124196279794904",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'fetal definitive erythroid cell' vs 'primitive erythroid cell' in 'mix of orthochromatic and polychromatophilic erythroblast'",
+        "log_2 fold change": "3.1",
+        "Adjusted p-value": "0.00035282271142388",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "AT4G21070",
+        "Species": "'10 day' vs '7 day' in 'wild type'",
+        "log_2 fold change": "-3",
+        "Adjusted p-value": "1.07713341228455e-27",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'6 day; myogenesis differentiation' vs ' 0 day; control' in '2C12-pMirn378'",
+        "log_2 fold change": "-3",
+        "Adjusted p-value": "4.92634181758227e-10",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'3 day; myogenesis differentiation' vs ' 0 day; control' in '2C12-pMirn378'",
+        "log_2 fold change": "-3",
+        "Adjusted p-value": "5.05010910281857e-10",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'carcinoma' vs 'normal'",
+        "log_2 fold change": "3",
+        "Adjusted p-value": "1.1384170255644e-9",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'p-fluorosuberoylanilide hydroxamic acid (FSAHA); 10 micromolar' vs 'none; 0 micromolar'",
+        "log_2 fold change": "-3",
+        "Adjusted p-value": "2.81561133622658e-9",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'NCI-H460; large cell lung carcinoma; P04' vs 'NCI-H460; large cell lung carcinoma; P0'",
+        "log_2 fold change": "3",
+        "Adjusted p-value": "8.01612686223671e-9",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'CLF1' vs 'CLS1; co-culture with CAF to generate sphere'",
+        "log_2 fold change": "-3",
+        "Adjusted p-value": "4.92396159138293e-8",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'recombinant human interleukin-2; 100 unit per milliliter; 24 hour' vs 'control; 0 hour'",
+        "log_2 fold change": "3",
+        "Adjusted p-value": "0.00834205691230868",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "AT4G21070",
+        "Species": "'fbl17-1 (GK_170-E02)' vs 'wild type genotype'",
+        "log_2 fold change": "2.9",
+        "Adjusted p-value": "2.79748922755105e-26",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'3 to 5 weeks post ovulation' vs 'adult' in 'normal'",
+        "log_2 fold change": "2.9",
+        "Adjusted p-value": "1.51388494589567e-17",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'3 day; osteogenesis differentiation' vs ' 0 day; control' in '2C12-pMirn0'",
+        "log_2 fold change": "-2.9",
+        "Adjusted p-value": "4.22290986427661e-9",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'17-(allylamino)-17-demethosygeldanamycin (17-AAG); 3 micromolar' vs 'none; 0 micromolar'",
+        "log_2 fold change": "-2.9",
+        "Adjusted p-value": "8.8808342170456e-9",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'stimulated' vs 'unstimulated' in 'none'",
+        "log_2 fold change": "2.9",
+        "Adjusted p-value": "3.74589643144551e-8",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'fulvestrant' vs 'ethanol' in 'HCC-1428/LTED'",
+        "log_2 fold change": "-2.9",
+        "Adjusted p-value": "0.00000236050175883856",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'doxycycline; 0.5 microgram per milliliter; Day 4 post Neurogenin induction' vs 'control'",
+        "log_2 fold change": "-2.8",
+        "Adjusted p-value": "4.27931563205508e-107",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'TIGAR knockdown' vs 'wild type'",
+        "log_2 fold change": "-2.8",
+        "Adjusted p-value": "1.93578108385911e-63",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'human intestinal organoids derived from H9 stem cells' vs 'Undifferentiated H9 Stem Cells'",
+        "log_2 fold change": "-2.8",
+        "Adjusted p-value": "4.78025810285006e-50",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "AT4G21070",
+        "Species": "'14 day' vs '0 day'",
+        "log_2 fold change": "-2.8",
+        "Adjusted p-value": "1.20697562073529e-31",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'P-bodies (cytosolic RNP granules)' vs 'pre-sorted fraction'",
+        "log_2 fold change": "2.8",
+        "Adjusted p-value": "1.44806093225564e-26",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'Daunorubicin; 100 nanomolar' vs 'DMSO; 0.065 percent' in 'GL2'",
+        "log_2 fold change": "-2.8",
+        "Adjusted p-value": "3.59750417886392e-10",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'10 day' vs '0 day'",
+        "log_2 fold change": "-2.8",
+        "Adjusted p-value": "1.65865839569284e-8",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "AT4G21070",
+        "Species": "'atx1-1' vs 'wild type'",
+        "log_2 fold change": "2.8",
+        "Adjusted p-value": "0.00000779623852266676",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "AT4G21070",
+        "Species": "'top1a-2 mutant' vs 'wild type genotype'",
+        "log_2 fold change": "2.8",
+        "Adjusted p-value": "0.000053182019217749",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'Sod1G86R' vs 'wild type genotype' in '30 day; callosal sulcus'",
+        "log_2 fold change": "-2.8",
+        "Adjusted p-value": "0.00244755304247198",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "AT4G21070",
+        "Species": "'iron deprivation' vs 'control' in 'wild type; rosette leaf'",
+        "log_2 fold change": "2.8",
+        "Adjusted p-value": "0.0220835274482651",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'etoposide; 2.5 micromolar' vs 'none' in 'wild type genotype'",
+        "log_2 fold change": "-2.7",
+        "Adjusted p-value": "2.00414779625766e-89",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'acute graft vs. host disease; T-cell depleted bone marrow + T cells transplant' vs 'normal; T-cell depleted bone marrow transplant'",
+        "log_2 fold change": "2.7",
+        "Adjusted p-value": "4.66618089905938e-9",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'suberoylanilide hydroxamic acid 10 millimolar' vs 'none'",
+        "log_2 fold change": "-2.7",
+        "Adjusted p-value": "3.14761297270497e-8",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSRNOG00000020701",
+        "Species": "'adenovirus-mediated Nkx6.1' vs 'none'",
+        "log_2 fold change": "2.7",
+        "Adjusted p-value": "9.77308645863447e-7",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'V6.5; embryonic stem cell\u2019 vs 'wild type; endothelial'",
+        "log_2 fold change": "2.7",
+        "Adjusted p-value": "0.000019173386715022",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'ABIN1[D485N] knock-in' vs 'wild type genotype' in 'neutrophil'",
+        "log_2 fold change": "2.7",
+        "Adjusted p-value": "0.000335011176836307",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'triple-negative breast cancer; breast carcinoma' vs 'normal'",
+        "log_2 fold change": "2.7",
+        "Adjusted p-value": "0.000557286998240005",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "AT4G21070",
+        "Species": "'ANAC017 OEb' vs 'wild type genotype' at '3 day'",
+        "log_2 fold change": "-2.7",
+        "Adjusted p-value": "0.0100803920365539",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'12 hour' vs '0 hour' in 'MCF-10A-H1047R'",
+        "log_2 fold change": "2.6",
+        "Adjusted p-value": "4.99482566539723e-47",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'Alb-Cre-ERT2 / Cnot1 flox/flox' vs 'Cnot1 flox/flox' in 'none'",
+        "log_2 fold change": "2.6",
+        "Adjusted p-value": "3.71853089338859e-19",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'non-small cell lung carcinoma' vs 'normal'",
+        "log_2 fold change": "-2.6",
+        "Adjusted p-value": "3.37075279684237e-15",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "AT4G21070",
+        "Species": "'7 day' vs '0 day'",
+        "log_2 fold change": "-2.6",
+        "Adjusted p-value": "1.4926349996202e-14",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'cycloheximide; 17beta-estradiol' vs 'DMSO control; 17beta-estradiol'",
+        "log_2 fold change": "-2.6",
+        "Adjusted p-value": "1.13725466088334e-10",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'stabilization-competent' vs 'stabilization-incompetent' in '23 day; secondary reprogramming cell'",
+        "log_2 fold change": "2.6",
+        "Adjusted p-value": "0.00000187660351809933",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'osteosarcoma' vs 'control'",
+        "log_2 fold change": "2.6",
+        "Adjusted p-value": "0.000012042146893597",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'lipopolysaccharide; 10 nanogram per milliliter and PFI-1; 10 nanogram per milliliter' vs 'none' in 'primary cell line; wild type genotype'",
+        "log_2 fold change": "-2.6",
+        "Adjusted p-value": "0.000149128558956918",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'tumor' vs 'normal' in 'kidney'",
+        "log_2 fold change": "2.6",
+        "Adjusted p-value": "0.000211106015894912",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'resveratrol; 250 millimolar' vs 'vehicle; '",
+        "log_2 fold change": "-2.6",
+        "Adjusted p-value": "0.000295828160910911",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'anti-CD3 antibody; 1 microgram per milliliter' vs 'none'",
+        "log_2 fold change": "2.6",
+        "Adjusted p-value": "0.0015871507830659",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'4-hydroxy-3-methyl-but-2-enyl pyrophosphate; 1 nanomolar' vs 'none'",
+        "log_2 fold change": "2.6",
+        "Adjusted p-value": "0.00200902286763757",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'Human gammaherpesvirus 4' at '3 day' vs 'none' at '0 day'",
+        "log_2 fold change": "2.5",
+        "Adjusted p-value": "2.71053705448222e-82",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'Human gammaherpesvirus 4' at '4 day' vs 'none' at '0 day'",
+        "log_2 fold change": "2.5",
+        "Adjusted p-value": "1.3353045868719e-68",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'liver-specific Cnot1 knockout' vs 'wild type'",
+        "log_2 fold change": "2.5",
+        "Adjusted p-value": "5.91100563683269e-28",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'high fat diet' vs 'normal chow' in '28 week; Reverb\u03b1Flox2-6AdipoCre+'",
+        "log_2 fold change": "2.5",
+        "Adjusted p-value": "7.74945551097327e-23",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "AT4G21070",
+        "Species": "'Ler/Kas-2 hybrid' vs 'Kas-2' in 'wild type genotype'",
+        "log_2 fold change": "2.5",
+        "Adjusted p-value": "3.91358140629016e-14",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'pancreatic adenocarcinoma' vs 'normal'",
+        "log_2 fold change": "-2.5",
+        "Adjusted p-value": "2.41045472147171e-10",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'neurosphere in differentiation medium; 12 day' vs 'neurosphere; 0 day' in 'wild type genotype'",
+        "log_2 fold change": "-2.5",
+        "Adjusted p-value": "1.54650480360757e-9",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'cut nerve; 7 day' vs 'none'",
+        "log_2 fold change": "2.5",
+        "Adjusted p-value": "5.38591130685378e-9",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'NCI-H460; large cell lung carcinoma; P10' vs 'NCI-H460; large cell lung carcinoma; P0'",
+        "log_2 fold change": "2.5",
+        "Adjusted p-value": "1.8366831990479e-8",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "AT4G21070",
+        "Species": "'ANAC017 OEb' vs 'wild type genotype' at '1 day'",
+        "log_2 fold change": "-2.5",
+        "Adjusted p-value": "1.09756405742715e-7",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'group 3 medulloblastoma' vs 'normal'",
+        "log_2 fold change": "2.5",
+        "Adjusted p-value": "3.83917175208584e-7",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'differentiated; hAKPC-P' vs 'undifferentiated; hIPod'",
+        "log_2 fold change": "-2.5",
+        "Adjusted p-value": "0.00000124056698027773",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'DMSO-mediated cell differentiation during experiment' vs 'not cultured with DMSO' in 'interferon gamma'",
+        "log_2 fold change": "-2.5",
+        "Adjusted p-value": "0.00000192643599640246",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'PMA' vs 'vehicle' in 'ZXDC1 knockdown'",
+        "log_2 fold change": "-2.5",
+        "Adjusted p-value": "0.00000200294234718973",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'SA181; hepatocyte-like cell' vs 'SA181; embryonic stem cell'",
+        "log_2 fold change": "-2.5",
+        "Adjusted p-value": "0.0000107175955456555",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'non-triple-negative breast cancer; breast carcinoma' vs 'normal'",
+        "log_2 fold change": "2.5",
+        "Adjusted p-value": "0.0000342194221382254",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'synovial sarcoma' vs 'normal'",
+        "log_2 fold change": "2.5",
+        "Adjusted p-value": "0.000127298542133727",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'erythroblast' vs 'hematopoietic stem cell'",
+        "log_2 fold change": "2.5",
+        "Adjusted p-value": "0.00111675320608396",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'recombinant human interleukin-2; 100 unit per milliliter; 12 hour' vs 'control; 0 hour'",
+        "log_2 fold change": "2.5",
+        "Adjusted p-value": "0.007903567588983",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "AT4G21070",
+        "Species": "'1 day' vs '0 day'",
+        "log_2 fold change": "2.4",
+        "Adjusted p-value": "3.81100617346791e-117",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "AT4G21070",
+        "Species": "'2 day' vs '0 day'",
+        "log_2 fold change": "2.4",
+        "Adjusted p-value": "8.44591920215463e-70",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'12 day' vs '5 day' in 'doxycycline; 200 nanogram per milliliter; neoplasm'",
+        "log_2 fold change": "-2.4",
+        "Adjusted p-value": "1.58634934535799e-27",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'plateau transepithelial electrical resistance' vs 'monolayer control'",
+        "log_2 fold change": "-2.4",
+        "Adjusted p-value": "6.43099190126389e-9",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "AT4G21070",
+        "Species": "'bleomycin and 2, 6-dichloroisonicotinic acid' vs 'none'",
+        "log_2 fold change": "2.4",
+        "Adjusted p-value": "3.55253031183752e-8",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'mid transepithelial electrical resistance' vs 'monolayer control'",
+        "log_2 fold change": "-2.4",
+        "Adjusted p-value": "6.64907747360769e-8",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'stimulation' vs 'control'",
+        "log_2 fold change": "2.4",
+        "Adjusted p-value": "2.42303090511687e-7",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'granulocyte' vs 'hemopoietic stem cell'",
+        "log_2 fold change": "-2.4",
+        "Adjusted p-value": "3.71511741317719e-7",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'differentiated; hAKPC-P' vs 're-differentiated; hIPod'",
+        "log_2 fold change": "-2.4",
+        "Adjusted p-value": "0.00000626917930358364",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'delta-her2 overexpression' vs 'control'",
+        "log_2 fold change": "2.4",
+        "Adjusted p-value": "0.0000255421001494071",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'inh-alpha/Tag transgenic' vs 'wild type' in 'none'",
+        "log_2 fold change": "2.4",
+        "Adjusted p-value": "0.000117641976724165",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'etoposide; 2.5 micromolar' vs 'none' in 'H2afj-\u22067-KO'",
+        "log_2 fold change": "-2.3",
+        "Adjusted p-value": "4.49275396601862e-37",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'H9; hepatocyte-like cell; hepatocyte-like cell foci' vs 'H9; embryonic stem cell'",
+        "log_2 fold change": "-2.3",
+        "Adjusted p-value": "4.7188465599486e-25",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'6 to 8 weeks post ovulation' vs 'adult' in 'normal'",
+        "log_2 fold change": "2.3",
+        "Adjusted p-value": "4.95944432787953e-20",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'induced pluripotent stem cell' vs 'fibroblast of dermis' in 'normal'",
+        "log_2 fold change": "2.3",
+        "Adjusted p-value": "5.79491077925808e-15",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'tamoxifen induction at 2 months, wait 1 months' vs 'no tamoxifen induction' in 'luminal cell of prostate epithelium; Nkx3.1-CreERT2 targeted allele'",
+        "log_2 fold change": "2.3",
+        "Adjusted p-value": "1.61214582462685e-12",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "AT4G21070",
+        "Species": "'tcx2; FEZ:FEZ-GFP' vs 'wild type genotype'",
+        "log_2 fold change": "2.3",
+        "Adjusted p-value": "5.75393216095687e-9",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'chronic pancreatitis' vs 'control'",
+        "log_2 fold change": "2.3",
+        "Adjusted p-value": "1.06809792439975e-8",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'ejaculatory azoospermia; Johnsen score count 2' vs 'normal; Johnsen score count 10'",
+        "log_2 fold change": "-2.3",
+        "Adjusted p-value": "9.61299337577033e-8",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'high fat diet' vs 'normal chow' in '28 week; Reverb\u03b1Flox2-6AdipoCre-'",
+        "log_2 fold change": "2.3",
+        "Adjusted p-value": "9.65973879418206e-8",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'malignant mesothelioma; wild type' vs 'normal; wild type'",
+        "log_2 fold change": "2.3",
+        "Adjusted p-value": "3.27203778153561e-7",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'ChiPS4; hepatocyte-like cell' vs 'ChiPS4; induced pluripotent stem cell'",
+        "log_2 fold change": "-2.3",
+        "Adjusted p-value": "0.0000031731194316892",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'SARS coronavirus MA15' vs 'none' in 'wild type genotype' at '7 day'",
+        "log_2 fold change": "2.3",
+        "Adjusted p-value": "0.0000133926102735291",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'astrocyte overexpressing 7 genes' vs 'astrocyte'",
+        "log_2 fold change": "2.3",
+        "Adjusted p-value": "0.000809487564048316",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "AT4G21070",
+        "Species": "'nas4x-1 mutant' vs 'wild type' in 'iron deprivation; rosette leaf'",
+        "log_2 fold change": "-2.3",
+        "Adjusted p-value": "0.0471423125181391",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "AT4G21070",
+        "Species": "'rtel1-1' vs 'wild type genotype'",
+        "log_2 fold change": "2.2",
+        "Adjusted p-value": "1.62251496605269e-123",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'Irx3 knockout' vs 'control' at '7 day'",
+        "log_2 fold change": "-2.2",
+        "Adjusted p-value": "1.6466309184478e-93",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'THZ1 (35 nanomolar)' vs 'none'",
+        "log_2 fold change": "-2.2",
+        "Adjusted p-value": "4.17223577679004e-85",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'SARS coronavirus MA15; 4 day' vs 'mock' in 'C57BL/6J'",
+        "log_2 fold change": "2.2",
+        "Adjusted p-value": "6.82848422561861e-40",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'tamoxifen induction at 2 months, wait 3 months' vs 'no tamoxifen induction' in 'basal cell of prostate epithelium; CK5-CreERT2 transgenic line'",
+        "log_2 fold change": "2.2",
+        "Adjusted p-value": "2.73942521743598e-18",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'Triple knockout (Zfp36-/-, TNFR1-/-, TNFR2-/-)' vs 'wild type'",
+        "log_2 fold change": "2.2",
+        "Adjusted p-value": "6.88270192270609e-18",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'colorectal carcinoma' vs 'normal'",
+        "log_2 fold change": "-2.2",
+        "Adjusted p-value": "4.2784538937488e-11",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'180 day' vs '1 day'",
+        "log_2 fold change": "-2.2",
+        "Adjusted p-value": "6.34908614927841e-10",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'lipopolysaccharide; 10 nanogram per milliliter' vs 'none' in 'primary cell line; wild type genotype'",
+        "log_2 fold change": "-2.2",
+        "Adjusted p-value": "3.88513654705275e-9",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'neurosphere in differentiation medium; 12 day' vs 'neurosphere; 0 day' in 'Cstb knockout'",
+        "log_2 fold change": "-2.2",
+        "Adjusted p-value": "1.17728538431754e-8",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "AT4G21070",
+        "Species": "'bleomycin' vs 'none'",
+        "log_2 fold change": "2.2",
+        "Adjusted p-value": "1.45427361412361e-8",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'low transepithelial electrical resistance' vs 'monolayer control'",
+        "log_2 fold change": "-2.2",
+        "Adjusted p-value": "7.90270330020412e-8",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'BRD4 inhibitor JQ1' vs 'none' in 'Mel202'",
+        "log_2 fold change": "-2.2",
+        "Adjusted p-value": "9.58526281926344e-7",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'Braf activated' vs 'untreated'",
+        "log_2 fold change": "-2.2",
+        "Adjusted p-value": "0.00000382516131347402",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'SARS coronavirus MA15; 10^4 PFU' vs 'none' at '7 day'",
+        "log_2 fold change": "2.2",
+        "Adjusted p-value": "0.00000969967529002937",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'ejaculatory azoospermia; Johnsen score count 2' vs 'ejaculatory azoospermia; Johnsen score count 5'",
+        "log_2 fold change": "-2.2",
+        "Adjusted p-value": "0.0000203977185888572",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'96 hour after induction of differentiation' vs 'induction of differentiation'",
+        "log_2 fold change": "-2.2",
+        "Adjusted p-value": "0.0000460878480187636",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'ejaculatory azoospermia; Johnsen score count 2' vs 'ejaculatory azoospermia; Johnsen score count 8'",
+        "log_2 fold change": "-2.2",
+        "Adjusted p-value": "0.0000527179348862787",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'familial hemophagocytic lymphohistiocytosis 5' vs 'normal'",
+        "log_2 fold change": "2.2",
+        "Adjusted p-value": "0.0000604057816595378",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'144 hour after induction of differentiation' vs 'induction of differentiation'",
+        "log_2 fold change": "-2.2",
+        "Adjusted p-value": "0.0000792767272060586",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'brown adipose tissue' vs 'white adipose tissue' in 'chow; 23 degree celsius'",
+        "log_2 fold change": "-2.2",
+        "Adjusted p-value": "0.00053830354039908",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'astrocyte overexpressing 4 genes' vs 'astrocyte'",
+        "log_2 fold change": "2.2",
+        "Adjusted p-value": "0.00142255009862756",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSRNOG00000020701",
+        "Species": "'zinc replenishment after zinc deficient diet' vs 'control diet'",
+        "log_2 fold change": "-2.2",
+        "Adjusted p-value": "0.001939145287943",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'control; 36 hour after partial hepatechtomy' vs 'control; before partial hepatechtomy'",
+        "log_2 fold change": "2.2",
+        "Adjusted p-value": "0.00333553465571285",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "AT4G21070",
+        "Species": "'abscisic acid' vs 'ethanol'",
+        "log_2 fold change": "-2.2",
+        "Adjusted p-value": "0.00334240983581024",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'Debaryomyces hansenii' at '24 hour' vs 'none' at '0 hour'",
+        "log_2 fold change": "-2.1",
+        "Adjusted p-value": "1.02096655847272e-64",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'liver-specific Cnot3 knockout' vs 'wild type'",
+        "log_2 fold change": "2.1",
+        "Adjusted p-value": "1.09513852800813e-18",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'breast carcinoma' vs 'normal'",
+        "log_2 fold change": "-2.1",
+        "Adjusted p-value": "6.2653125514615e-11",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'90 day' vs '1 day'",
+        "log_2 fold change": "-2.1",
+        "Adjusted p-value": "7.74127844009219e-9",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'365 day' vs '1 day'",
+        "log_2 fold change": "-2.1",
+        "Adjusted p-value": "7.94452887442633e-9",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'60 day' vs '1 day'",
+        "log_2 fold change": "-2.1",
+        "Adjusted p-value": "3.61925033415573e-8",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'osteoblast culture 27 day' vs '0 day'",
+        "log_2 fold change": "-2.1",
+        "Adjusted p-value": "3.71690161224264e-8",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'tumor' vs 'normal'",
+        "log_2 fold change": "2.1",
+        "Adjusted p-value": "1.03910862924606e-7",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'DMSO control; 17beta-estradiol' vs 'DMSO control; control (ethanol vehicle)'",
+        "log_2 fold change": "2.1",
+        "Adjusted p-value": "0.00000104059054812212",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'transplanted secondary tumors' vs 'normal' in 'kidney'",
+        "log_2 fold change": "2.1",
+        "Adjusted p-value": "0.00000218834252358674",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'SARS coronavirus MA15' vs 'none' in 'wild type genotype' at '7 day'",
+        "log_2 fold change": "2.1",
+        "Adjusted p-value": "0.00000282912200284465",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'Braf activated' vs 'empty vector'",
+        "log_2 fold change": "-2.1",
+        "Adjusted p-value": "0.00000305789172253446",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'resveratrol; 150 millimolar' vs 'vehicle; '",
+        "log_2 fold change": "-2.1",
+        "Adjusted p-value": "0.00000556477391683981",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'AsPC-1; pancreatic adenocarcinoma; P04' vs 'AsPC-1; pancreatic adenocarcinoma; P0'",
+        "log_2 fold change": "2.1",
+        "Adjusted p-value": "0.0000057672684497763",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "AT4G21070",
+        "Species": "'iron deprivation' vs. 'control' at '24 hours' in 'shoot' of 'Kas-1' ecotype",
+        "log_2 fold change": "2.1",
+        "Adjusted p-value": "0.00000712759493790131",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'liver tumor' vs 'adjacent non-tumor tissue'",
+        "log_2 fold change": "2.1",
+        "Adjusted p-value": "0.0000158177464612987",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'AsPC-1; pancreatic adenocarcinoma; P10' vs 'AsPC-1; pancreatic adenocarcinoma; P0'",
+        "log_2 fold change": "2.1",
+        "Adjusted p-value": "0.0000173290379892102",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "AT4G21070",
+        "Species": "'0.1 mM nitrate' vs '10 mM nitrate' in 'MtNPF1.7 expression'",
+        "log_2 fold change": "-2.1",
+        "Adjusted p-value": "0.000122844469454325",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'SARS coronavirus MA15; 10^3 PFU' vs 'none' at '7 day'",
+        "log_2 fold change": "2.1",
+        "Adjusted p-value": "0.000330895783516954",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "AT4G21070",
+        "Species": "'abscisic acid and dimethylthiourea' vs 'ethanol'",
+        "log_2 fold change": "-2.1",
+        "Adjusted p-value": "0.00232089608855938",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'transgenic C3(1)-SV40Tag; 12 week' vs 'wild type; 8 week'",
+        "log_2 fold change": "2.1",
+        "Adjusted p-value": "0.0053030036718652",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'metastatic melanoma; non-responder' vs 'normal; not applicable'",
+        "log_2 fold change": "2.1",
+        "Adjusted p-value": "0.0130585158891954",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'extraembryonic endoderm stem cell; grown in XEN cell medium' vs 'mouse embryonic fibroblast; control'",
+        "log_2 fold change": "2",
+        "Adjusted p-value": "1.35106617038964e-39",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'24 hour' vs '0 hour' in 'MCF-10A-H1047R'",
+        "log_2 fold change": "2",
+        "Adjusted p-value": "6.88262336084858e-29",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'H9; hepatocyte-like cell; all cells' vs 'H9; embryonic stem cell'",
+        "log_2 fold change": "-2",
+        "Adjusted p-value": "1.46342349027454e-24",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "' neural stem cell' vs 'induced pluripotent stem cell' in 'normal'",
+        "log_2 fold change": "-2",
+        "Adjusted p-value": "3.46060865696003e-21",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'730 day' vs '1 day'",
+        "log_2 fold change": "-2",
+        "Adjusted p-value": "2.19739149677467e-8",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'transfection with GFP-FOXP3 cDNA' vs 'transfection with GFP cDNA'",
+        "log_2 fold change": "-2",
+        "Adjusted p-value": "0.00000982935854382431",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'SARS coronavirus MA15' vs 'none' at '4 day'",
+        "log_2 fold change": "2",
+        "Adjusted p-value": "0.0000248597387911004",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'SARS coronavirus MA15' vs 'none' at '7 day'",
+        "log_2 fold change": "2",
+        "Adjusted p-value": "0.0000400601342671577",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'cyclophosphamide-induced cystitis' vs 'normal'",
+        "log_2 fold change": "2",
+        "Adjusted p-value": "0.0000422115479691911",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'hepatobiliary carcinoma' vs 'normal'",
+        "log_2 fold change": "-2",
+        "Adjusted p-value": "0.0000822006528552623",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'lung carcinoma' vs 'normal' in 'Epcam+CD11b-CD11c- epithelial cell'",
+        "log_2 fold change": "2",
+        "Adjusted p-value": "0.000326662054372251",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'uterine leiomyosarcoma' vs 'normal'",
+        "log_2 fold change": "2",
+        "Adjusted p-value": "0.000427836415202888",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'SARS coronavirus MA15; 10^5 PFU' vs 'none' at '7 day'",
+        "log_2 fold change": "2",
+        "Adjusted p-value": "0.00090105280848207",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'ejaculatory azoospermia; Johnsen score count 2' vs 'ejaculatory azoospermia; Johnsen score count 7'",
+        "log_2 fold change": "-2",
+        "Adjusted p-value": "0.00115232172827867",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "AT4G21070",
+        "Species": "'8h semi-in vivo pollen tube' vs '4h pollen tube'",
+        "log_2 fold change": "2",
+        "Adjusted p-value": "0.0017667178708201",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'clear cell sarcoma; TATCre' vs 'control'",
+        "log_2 fold change": "2",
+        "Adjusted p-value": "0.00179994846474368",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'SGC-CBP30; 10 nanogram per milliliter' vs 'none' in 'primary cell line; wild type genotype'",
+        "log_2 fold change": "-2",
+        "Adjusted p-value": "0.00290067834582009",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'recombinant human interleukin-2; 100 unit per milliliter; 10 hour' vs 'control; 0 hour'",
+        "log_2 fold change": "2",
+        "Adjusted p-value": "0.0351234696345037",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'130 week' vs '13 week' in 'spleen'",
+        "log_2 fold change": "2",
+        "Adjusted p-value": "0.0455024936309833",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "AT4G21070",
+        "Species": "'cbp80; atxr5; atxr6 triple loss of function mutant' vs 'wild type genotype'",
+        "log_2 fold change": "1.9",
+        "Adjusted p-value": "2.97184148400256e-33",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'Tumor Necrosis Factor' vs 'none'",
+        "log_2 fold change": "1.9",
+        "Adjusted p-value": "2.60985081324596e-18",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'Human gammaherpesvirus 4' at '5 day' vs 'none' at '0 day'",
+        "log_2 fold change": "1.9",
+        "Adjusted p-value": "5.57383796956859e-16",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'ethanol; 17beta-estradiol' vs 'ethanol; control'",
+        "log_2 fold change": "1.9",
+        "Adjusted p-value": "1.04007414646251e-11",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'glioblastoma' vs 'control'",
+        "log_2 fold change": "1.9",
+        "Adjusted p-value": "1.21075722854625e-9",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'ejaculatory azoospermia; Johnsen score count 3.2' vs 'normal; Johnsen score count 10'",
+        "log_2 fold change": "-1.9",
+        "Adjusted p-value": "1.71850281605185e-9",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'wild type; SARS MA15; 7 day' vs 'wild type; mock'",
+        "log_2 fold change": "1.9",
+        "Adjusted p-value": "4.82368922803624e-8",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'induced pluripotent stem cell' vs 'fibroblast of dermis' in 'Klinefelter's syndrome'",
+        "log_2 fold change": "1.9",
+        "Adjusted p-value": "8.77385704386178e-8",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'medulloblastoma' vs 'normal'",
+        "log_2 fold change": "1.9",
+        "Adjusted p-value": "1.37947902530044e-7",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'DMSO-mediated cell differentiation prior to experiment' vs 'not cultured with DMSO' in 'none'",
+        "log_2 fold change": "-1.9",
+        "Adjusted p-value": "2.44704615523935e-7",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'Mycobacterium tuberculosis H37Rv' vs 'none' in 'TNF-alpha knockout'",
+        "log_2 fold change": "1.9",
+        "Adjusted p-value": "6.47873680067432e-7",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'anti-CD3/CSA' vs 'anti-CD3' in 'cyclosporine-sensitive'",
+        "log_2 fold change": "-1.9",
+        "Adjusted p-value": "0.00000105233737061514",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'PD 0332991 1 micromolar' vs 'vehicle'",
+        "log_2 fold change": "-1.9",
+        "Adjusted p-value": "0.00000381331031792305",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'Mycobacterium tuberculosis; C57BL/6J; 30 day' vs 'control; C57BL/6J; 0 day'",
+        "log_2 fold change": "1.9",
+        "Adjusted p-value": "0.00000432764409392876",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'PC-3/M; adenocarcinoma prostate PC-3 subline isolated from liver metastasis in mice; P10' vs 'PC-3/M; adenocarcinoma prostate PC-3 subline isolated from liver metastasis in mice; P0'",
+        "log_2 fold change": "1.9",
+        "Adjusted p-value": "0.00000591999777724718",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'human-Mfn2 T111A/S442A-overexpressing (Mfn2AA)' vs 'wild type' in '5 week; left ventricle'",
+        "log_2 fold change": "1.9",
+        "Adjusted p-value": "0.0000128266661743446",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'DMSO-mediated cell differentiation prior to experiment' vs 'not cultured with DMSO' in 'interferon gamma'",
+        "log_2 fold change": "-1.9",
+        "Adjusted p-value": "0.0000177874930512594",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'24 hour' vs '0 hour'",
+        "log_2 fold change": "1.9",
+        "Adjusted p-value": "0.0000190710290920555",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'SARS coronavirus MA15' vs 'none' in 'Tnfrsf1a/1b -/-' at '4 day'",
+        "log_2 fold change": "1.9",
+        "Adjusted p-value": "0.0000193924791277677",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'sonic hedgehog group medulloblastoma' vs 'normal'",
+        "log_2 fold change": "1.9",
+        "Adjusted p-value": "0.0000306650312290871",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'AsPC-1; pancreatic adenocarcinoma; P01' vs 'AsPC-1; pancreatic adenocarcinoma; P0'",
+        "log_2 fold change": "1.9",
+        "Adjusted p-value": "0.000054287077518469",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'hypoxia' vs 'normoxia' in 'SW982'",
+        "log_2 fold change": "-1.9",
+        "Adjusted p-value": "0.000206984649140528",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'SOD1-G93A transgenic' vs 'wild type' at 'day 130/end-stage' in 'B6/SJL'",
+        "log_2 fold change": "1.9",
+        "Adjusted p-value": "0.000221202335871735",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "AT4G21070",
+        "Species": "'Sei-0 x Col-0 F1 hybrid' vs 'Col-0' in 'Pseudomonas syringae pv. tomato str. DC3000' at '1 day'",
+        "log_2 fold change": "1.9",
+        "Adjusted p-value": "0.000599401568820432",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "AT4G21070",
+        "Species": "'tcx2; WOX5:GFP' vs 'wild type genotype'",
+        "log_2 fold change": "1.9",
+        "Adjusted p-value": "0.00109312547411318",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'Cbfb+/MYH11' vs 'control of Cbfb+/MYH11'",
+        "log_2 fold change": "1.9",
+        "Adjusted p-value": "0.00289334996768542",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'PFI-1; 10 nanogram per milliliter' vs 'none' in 'primary cell line; wild type genotype'",
+        "log_2 fold change": "-1.9",
+        "Adjusted p-value": "0.00736273305956981",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "AT4G21070",
+        "Species": "'pil5-1' vs 'wild type' in 'far-red light'",
+        "log_2 fold change": "1.9",
+        "Adjusted p-value": "0.0197248763120559",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'BAG6 homozygous knockout' vs 'wild type genotype'",
+        "log_2 fold change": "-1.8",
+        "Adjusted p-value": "4.35101639294155e-35",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "AT4G21070",
+        "Species": "'hyl1; atxr5; atxr6 triple loss of function mutant' vs 'wild type genotype'",
+        "log_2 fold change": "1.8",
+        "Adjusted p-value": "1.46759592160648e-23",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'Helicobacter hepaticus' vs 'none' in 'Alpk1 homozygous knockout'",
+        "log_2 fold change": "-1.8",
+        "Adjusted p-value": "8.29405081330185e-16",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSSSCG00000022101",
+        "Species": "'post-traumatic osteoarthritis' at '1 day' vs 'normal' at '0 day'",
+        "log_2 fold change": "1.8",
+        "Adjusted p-value": "3.79558418642213e-13",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'epithelium-specific Apc knockout' vs 'wild type'",
+        "log_2 fold change": "1.8",
+        "Adjusted p-value": "4.39995200438952e-11",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'24 hours with hMSC Adipogenic Differentiation Bullet Kit' vs 'none' in 'polysome'",
+        "log_2 fold change": "-1.8",
+        "Adjusted p-value": "3.50840424549112e-10",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'induced pluripotent stem cell' vs 'cardiac muscle cell'",
+        "log_2 fold change": "1.8",
+        "Adjusted p-value": "3.6913904973339e-10",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'Human gammaherpesvirus 4' at '8 day' vs 'none' at '0 day'",
+        "log_2 fold change": "1.8",
+        "Adjusted p-value": "9.81835561813245e-10",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'tamoxifen induction at 2 months, wait 6 months' vs 'no tamoxifen induction' in 'basal cell of prostate epithelium; CK5-CreERT2 transgenic line'",
+        "log_2 fold change": "1.8",
+        "Adjusted p-value": "1.05294426047923e-8",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'induced extraembryonic endoderm stem cell; grown in ES cell medium' vs 'mouse embryonic fibroblast; control'",
+        "log_2 fold change": "1.8",
+        "Adjusted p-value": "1.28161916822713e-8",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'30 day' vs '1 day'",
+        "log_2 fold change": "-1.8",
+        "Adjusted p-value": "1.8534259303502e-8",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'M-CSF' at '3 day' vs 'none' at '0 day'",
+        "log_2 fold change": "1.8",
+        "Adjusted p-value": "2.18995856751068e-8",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'S2N; tumorigenic; spheres' vs 'S2; non-tumorigenic; spheres'",
+        "log_2 fold change": "1.8",
+        "Adjusted p-value": "4.82244966079975e-8",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'neoplasm' vs 'normal tissue adjacent to neoplasm'",
+        "log_2 fold change": "1.8",
+        "Adjusted p-value": "6.34551568675196e-8",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'CXCR3 knockout; SARS MA15; 2 day' vs 'CXCR3 knockout; mock'",
+        "log_2 fold change": "1.8",
+        "Adjusted p-value": "1.15870228556163e-7",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'adipose tissue specific Cnot1 knockout' vs 'wild type phenotype' in 'inguinal fat pad'",
+        "log_2 fold change": "1.8",
+        "Adjusted p-value": "1.49562476801822e-7",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'undifferentiated' vs 'differentiated; rosiglitazone' in 'A/J'",
+        "log_2 fold change": "-1.8",
+        "Adjusted p-value": "0.00000278440056419767",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'PC-3/M; adenocarcinoma prostate PC-3 subline isolated from liver metastasis in mice; P04' vs 'PC-3/M; adenocarcinoma prostate PC-3 subline isolated from liver metastasis in mice; P0'",
+        "log_2 fold change": "1.8",
+        "Adjusted p-value": "0.00000367645889998932",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'cetrorelix; 3 milligram per kilogram' vs 'none' in 'inh-alpha/Tag transgenic'",
+        "log_2 fold change": "-1.8",
+        "Adjusted p-value": "0.00000423629631916286",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'primitive neuroectodermal tumor' vs 'normal'",
+        "log_2 fold change": "1.8",
+        "Adjusted p-value": "0.000195946643514774",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'AZD5069; 100 milligram per kilogram' vs 'none'",
+        "log_2 fold change": "-1.8",
+        "Adjusted p-value": "0.000203672771577809",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'lapatinib and foretinib' vs 'DMSO' in 'acquired resistant to lapatinib'",
+        "log_2 fold change": "-1.8",
+        "Adjusted p-value": "0.000212834287557032",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'ejaculatory azoospermia; Johnsen score count 3.2' vs 'ejaculatory azoospermia; Johnsen score count 5'",
+        "log_2 fold change": "-1.8",
+        "Adjusted p-value": "0.000396576733051996",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "AT4G21070",
+        "Species": "'Meloidogyne incognita infested region' vs 'Meloidogyne incognita non-infested region' at '14 day'",
+        "log_2 fold change": "1.8",
+        "Adjusted p-value": "0.00072413361982193",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'renin-expression' vs 'control'",
+        "log_2 fold change": "-1.8",
+        "Adjusted p-value": "0.00177464345431211",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSRNOG00000020701",
+        "Species": "'squamous cell carcinoma' vs 'normal' in 'epithelial cell'",
+        "log_2 fold change": "1.8",
+        "Adjusted p-value": "0.00185171706435539",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'transgenic C3(1)-SV40Tag; 16 week' vs 'wild type; 8 week'",
+        "log_2 fold change": "1.8",
+        "Adjusted p-value": "0.00861313592882589",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'epithelium-specific mutant beta-catenin expression' vs 'wild type'",
+        "log_2 fold change": "1.7",
+        "Adjusted p-value": "3.34314922103195e-19",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'epithelium-specific Apc; Bcl9; Bcl9l knockout' vs 'wild type'",
+        "log_2 fold change": "1.7",
+        "Adjusted p-value": "2.99726157291434e-18",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'lipopolysaccharide' vs 'none' in 'systemic-onset juvenile idiopathic arthritis'",
+        "log_2 fold change": "-1.7",
+        "Adjusted p-value": "1.65224514098487e-15",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'wild type genotype; SARS MA15; 7 day' vs 'wild type genotype; mock'",
+        "log_2 fold change": "1.7",
+        "Adjusted p-value": "8.17942637883085e-11",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'lipopolysaccharide; 10 nanogram per milliliter' vs 'none' in 'primary cell line; MEF2C/D knockout'",
+        "log_2 fold change": "-1.7",
+        "Adjusted p-value": "9.5403490636513e-9",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'lipopolysaccharide' vs 'none' in 'normal'",
+        "log_2 fold change": "-1.7",
+        "Adjusted p-value": "1.25188550983021e-8",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'wormy, worm left; Trichuris muris' vs 'control; non wormy' in 'caecum'",
+        "log_2 fold change": "1.7",
+        "Adjusted p-value": "2.16768591786775e-8",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'siRNA-HMGA1' vs 'control'",
+        "log_2 fold change": "-1.7",
+        "Adjusted p-value": "5.52500294749023e-8",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'M-CSF and FSL-1' at '3 day' vs 'none' at '0 day'",
+        "log_2 fold change": "1.7",
+        "Adjusted p-value": "1.05606624839989e-7",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'SR; poorly differentiated B cell origin leukemia; P04' vs 'SR; poorly differentiated B cell origin leukemia; P0'",
+        "log_2 fold change": "1.7",
+        "Adjusted p-value": "1.49376658170587e-7",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'21 day' vs '1 day'",
+        "log_2 fold change": "-1.7",
+        "Adjusted p-value": "1.9036937752707e-7",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'EPZ6438; 10x lowest cytotoxic concentration' vs 'DMSO' in 'WSU_DLCL2' at '4 day'",
+        "log_2 fold change": "-1.7",
+        "Adjusted p-value": "4.72181068759342e-7",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'TIMP1 knockout; SARS MA15; 7 day' vs 'TIMP1 knockout; mock'",
+        "log_2 fold change": "1.7",
+        "Adjusted p-value": "0.00000111634635076145",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'Hypoxia' vs 'Normoxia' in 'A2780; None'",
+        "log_2 fold change": "-1.7",
+        "Adjusted p-value": "0.00000163439319890823",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'medulloblastoma, large-cell' vs 'normal'",
+        "log_2 fold change": "1.7",
+        "Adjusted p-value": "0.0000129527451538324",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'hyperglycemic condition' vs 'non-diabetic condition'",
+        "log_2 fold change": "-1.7",
+        "Adjusted p-value": "0.0000136373933554498",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSRNOG00000020701",
+        "Species": "'allopurinol; 150 milligram per kilogram' vs 'none' in 'allopurinol; kidney' at '4 day'",
+        "log_2 fold change": "1.7",
+        "Adjusted p-value": "0.0000149052330952159",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'PC-3/M; adenocarcinoma prostate PC-3 subline isolated from liver metastasis in mice; P01' vs 'PC-3/M; adenocarcinoma prostate PC-3 subline isolated from liver metastasis in mice; P0'",
+        "log_2 fold change": "1.7",
+        "Adjusted p-value": "0.0000247047054042087",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'Med23 siRNA knockdown' vs 'control'",
+        "log_2 fold change": "-1.7",
+        "Adjusted p-value": "0.000043453033039789",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'3.3 microgram per milliliter; edelfosine' vs 'none' in 'stimulated'",
+        "log_2 fold change": "-1.7",
+        "Adjusted p-value": "0.0000485138642962025",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSGALG00000002781",
+        "Species": "'Fowlpox virus FP9' vs 'mock' at '24 hour'",
+        "log_2 fold change": "-1.7",
+        "Adjusted p-value": "0.0000798667374237056",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'medulloblastoma' vs 'normal'",
+        "log_2 fold change": "1.7",
+        "Adjusted p-value": "0.000140319860853661",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'Rb;E2f8 knock-out' vs 'wild type'",
+        "log_2 fold change": "1.7",
+        "Adjusted p-value": "0.000192554971592647",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSRNOG00000020701",
+        "Species": "'WY-14643; 10 milligram per kilogram' vs 'none' in 'WY-14643; liver' at '4 day'",
+        "log_2 fold change": "1.7",
+        "Adjusted p-value": "0.00121388739948082",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'SARS coronavirus MA15 nsp16 -/-' vs 'none' at '7 day'",
+        "log_2 fold change": "1.7",
+        "Adjusted p-value": "0.00166675288040914",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'human-Mfn2 T111A/S442A-overexpressing (Mfn2AA)' vs 'tet-off control' in '5 week; left ventricle'",
+        "log_2 fold change": "1.7",
+        "Adjusted p-value": "0.00174571803044482",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'intraductal papillary-mucinous neoplasm (IPMN)' vs 'normal'",
+        "log_2 fold change": "1.7",
+        "Adjusted p-value": "0.00463275057275209",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'hypoxia' vs 'normal atmospheric oxygen pressure' in 'high metastatic cell line'",
+        "log_2 fold change": "-1.7",
+        "Adjusted p-value": "0.00572412979394911",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'bone marrow macrophage; co-cultured with breast cancer cell line 4T1.2' vs 'bone marrow macrophage; control'",
+        "log_2 fold change": "1.7",
+        "Adjusted p-value": "0.0221036592881459",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'AhCre Apc Floxed' vs 'control'",
+        "log_2 fold change": "1.7",
+        "Adjusted p-value": "0.0244101372393399",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'lipopolysaccharide; 10 nanogram per milliliter' vs 'none' in 'Hoxb8-FL; MEF2A knockout'",
+        "log_2 fold change": "-1.7",
+        "Adjusted p-value": "0.0346780711730936",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'wild type; tunicamycin' vs 'wild type; control'",
+        "log_2 fold change": "1.7",
+        "Adjusted p-value": "0.0476698511066882",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'PRPF8' vs 'control'",
+        "log_2 fold change": "-1.6",
+        "Adjusted p-value": "1.20413190509402e-91",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "AT4G21070",
+        "Species": "'4 day' vs '0 day'",
+        "log_2 fold change": "1.6",
+        "Adjusted p-value": "1.53546555567735e-35",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'Salmonella enterica serovar Typhimurium' vs 'control' in 'bone marrow macrophage from 129P2 mouse strain'",
+        "log_2 fold change": "-1.6",
+        "Adjusted p-value": "4.84317920493067e-20",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'24 hours with hMSC Adipogenic Differentiation Bullet Kit' vs 'none' in 'total'",
+        "log_2 fold change": "-1.6",
+        "Adjusted p-value": "3.69716366434873e-10",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'Mycobacterium tuberculosis H37Rv' vs 'none' in 'wild type'",
+        "log_2 fold change": "1.6",
+        "Adjusted p-value": "1.47668103565813e-9",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'HFF1; cocultured with epithelial MDAMB231 cells' vs 'HFF1; normal'",
+        "log_2 fold change": "-1.6",
+        "Adjusted p-value": "1.27588079081483e-7",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'SR; poorly differentiated B cell origin leukemia; P01' vs 'SR; poorly differentiated B cell origin leukemia; P0'",
+        "log_2 fold change": "1.6",
+        "Adjusted p-value": "2.74793787124599e-7",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'CLS1; 6 passages' vs 'CLS1; co-culture with CAF to generate sphere'",
+        "log_2 fold change": "-1.6",
+        "Adjusted p-value": "9.98241870348426e-7",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'SARS coronavirus MA15' vs 'mock' in 'wild type genotype' at '7 day'",
+        "log_2 fold change": "1.6",
+        "Adjusted p-value": "0.00000107436288362644",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'brown adipose tissue' vs 'white adipose tissue' in 'high fat diet; 30 degree celsius'",
+        "log_2 fold change": "1.6",
+        "Adjusted p-value": "0.00000176904107973095",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "AT4G21070",
+        "Species": "'sulki1-8 mutant' vs 'wild type genotype' in 'Ler/Kas-2 hybrid'",
+        "log_2 fold change": "-1.6",
+        "Adjusted p-value": "0.00000320225708505136",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "AT4G21070",
+        "Species": "'anac017 T-DNA mutant' vs 'wild type genotype' at '1 day'",
+        "log_2 fold change": "-1.6",
+        "Adjusted p-value": "0.00000464098937358543",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'glioblastoma' vs 'normal'",
+        "log_2 fold change": "-1.6",
+        "Adjusted p-value": "0.00000567076192740846",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "AT4G21070",
+        "Species": "'auxin' vs 'none' in '35 day'",
+        "log_2 fold change": "1.6",
+        "Adjusted p-value": "0.00000724046317441357",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'late passage' vs 'early passage'",
+        "log_2 fold change": "-1.6",
+        "Adjusted p-value": "0.0000202069003732659",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSRNOG00000020701",
+        "Species": "'lipopolysaccharide; 0.1 microgram per milliliter' vs 'none'",
+        "log_2 fold change": "-1.6",
+        "Adjusted p-value": "0.0000210763120791691",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'SR; poorly differentiated B cell origin leukemia; P10' vs 'SR; poorly differentiated B cell origin leukemia; P0'",
+        "log_2 fold change": "1.6",
+        "Adjusted p-value": "0.0000248184350739626",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'group 4 medulloblastoma' vs 'normal'",
+        "log_2 fold change": "1.6",
+        "Adjusted p-value": "0.0000317295083475471",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'Kin-' vs 'wild type' in 'cAMP' at '24 hour'",
+        "log_2 fold change": "1.6",
+        "Adjusted p-value": "0.0000365900574960036",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'SARS coronavirus MA15; 10^5 PFU' vs 'none' at '4 day'",
+        "log_2 fold change": "1.6",
+        "Adjusted p-value": "0.0000451739240967752",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'PAI1 knockout; SARS MA15; 7 day' vs 'PAI1 knockout; mock'",
+        "log_2 fold change": "1.6",
+        "Adjusted p-value": "0.0000548671314156954",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'FiPS generated with GATA3VP16, SOX2vP16, KLF4 and cMYC' vs 'Control fibroblasts'",
+        "log_2 fold change": "1.6",
+        "Adjusted p-value": "0.0000656657936606412",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'3 percent oxygen; old' vs '20 percent oxygen; old'",
+        "log_2 fold change": "1.6",
+        "Adjusted p-value": "0.000106233382403482",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'fibroblast; Klinefelter\u2019s Syndrome' vs 'embryonic stem cell; control'",
+        "log_2 fold change": "-1.6",
+        "Adjusted p-value": "0.000137568326058707",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'SARS coronavirus MA15' vs 'none' in 'wild type genotype' at '7 day'",
+        "log_2 fold change": "1.6",
+        "Adjusted p-value": "0.000157331350859762",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'chronic myelogenous leukemia' vs 'normal' in 'hematopoietic stem cell'",
+        "log_2 fold change": "1.6",
+        "Adjusted p-value": "0.000449333164622545",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'neurosphere in differentiation medium; 1 day' vs 'neurosphere; 0 day' in 'wild type genotype'",
+        "log_2 fold change": "-1.6",
+        "Adjusted p-value": "0.000734715019811351",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'Nix knock out' vs 'wild type'",
+        "log_2 fold change": "1.6",
+        "Adjusted p-value": "0.000988803136696896",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSRNOG00000020701",
+        "Species": "'monocrotaline; 10 milligram per kilogram' vs 'none' in 'monocrotaline; liver' at '8 day'",
+        "log_2 fold change": "1.6",
+        "Adjusted p-value": "0.00163154604362358",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'oxidized low density lipoprotein; 25 microgram per milliliter' vs 'none' in 'wild type genotype'",
+        "log_2 fold change": "-1.6",
+        "Adjusted p-value": "0.00181657812194581",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'130 week' vs '13 week' in 'liver'",
+        "log_2 fold change": "1.6",
+        "Adjusted p-value": "0.00185323367109768",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "AT4G21070",
+        "Species": "'tcx2; CYCD6:GFP' vs 'wild type genotype'",
+        "log_2 fold change": "1.6",
+        "Adjusted p-value": "0.00187351658046431",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "AT4G21070",
+        "Species": "'ANAC017 OEa' vs 'wild type genotype' at '0 day'",
+        "log_2 fold change": "-1.6",
+        "Adjusted p-value": "0.00187528581133552",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "AT4G21070",
+        "Species": "'tcx2; TMO5:3xGFP' vs 'wild type genotype'",
+        "log_2 fold change": "1.6",
+        "Adjusted p-value": "0.00248617844780008",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'beta(3)-adrenergic agonist Cl316,243' vs 'none' at '76 week'",
+        "log_2 fold change": "1.6",
+        "Adjusted p-value": "0.00351353922219742",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'SARS coronavirus MA15 nsp16 -/-' vs 'none' at '4 day'",
+        "log_2 fold change": "1.6",
+        "Adjusted p-value": "0.00448229048576969",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'11 day' vs '0 day'",
+        "log_2 fold change": "-1.6",
+        "Adjusted p-value": "0.00564592171534558",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'hypoxia' vs 'normoxia' in 'NCH421k' at '7 day'",
+        "log_2 fold change": "-1.6",
+        "Adjusted p-value": "0.00849723781304587",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "AT4G21070",
+        "Species": "'PAP, 100 micromolar; lithium chloride, 100 millimolar' vs 'none'",
+        "log_2 fold change": "1.6",
+        "Adjusted p-value": "0.0107622953595454",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'SARS coronavirus MA15; 10^2 PFU' vs 'none' at '7 day'",
+        "log_2 fold change": "1.6",
+        "Adjusted p-value": "0.0109182105215688",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'doxycycline-mediated expression of dominant-negative FOS' vs 'wild type'",
+        "log_2 fold change": "-1.5",
+        "Adjusted p-value": "3.47455648242931e-101",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'dexamethasone; 1 micromolar' vs 'vehicle'",
+        "log_2 fold change": "-1.5",
+        "Adjusted p-value": "3.87836010762611e-45",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "AT4G21070",
+        "Species": "'atxr5; atxr6 double loss of function mutant' vs 'wild type genotype'",
+        "log_2 fold change": "1.5",
+        "Adjusted p-value": "1.38604835841228e-27",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'\u03b1-GalCer; 2 microgram' vs 'none' in 'wild type genotype'",
+        "log_2 fold change": "1.5",
+        "Adjusted p-value": "3.83019269932607e-17",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'DMSO' in 'stimulated with interferon gamma and lipopolysaccharide' vs 'none' at '24 hour'",
+        "log_2 fold change": "-1.5",
+        "Adjusted p-value": "7.02496938225753e-12",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'SARS coronavirus MA15; 4 day' vs 'mock' in '129S1/SvImJ'",
+        "log_2 fold change": "1.5",
+        "Adjusted p-value": "1.86198772296516e-11",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'hepatocyte-derived proliferative ducts (hepPDs)' vs 'biliary-derived proliferative ducts (bilDP)'",
+        "log_2 fold change": "1.5",
+        "Adjusted p-value": "3.52873831537942e-11",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'SARS coronavirus MA15; 4 day' vs 'mock' in 'PWK/PhJ'",
+        "log_2 fold change": "1.5",
+        "Adjusted p-value": "4.64833328124681e-11",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'154; 1 micromolar' vs 'DMSO'",
+        "log_2 fold change": "-1.5",
+        "Adjusted p-value": "1.86424615074435e-8",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'autism' vs 'normal'",
+        "log_2 fold change": "1.5",
+        "Adjusted p-value": "6.6010998144945e-8",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'serum-free medium' vs 'control'",
+        "log_2 fold change": "-1.5",
+        "Adjusted p-value": "1.36674183282863e-7",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'7 day' vs '0 day'",
+        "log_2 fold change": "-1.5",
+        "Adjusted p-value": "2.5641433940455e-7",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'EPZ6438; 10x lowest cytotoxic concentration' vs 'DMSO' in 'KARPAS_422' at '6 day'",
+        "log_2 fold change": "-1.5",
+        "Adjusted p-value": "2.57189311296365e-7",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'SARS coronavirus MA15' vs 'mock' in 'wild type genotype' at '4 day'",
+        "log_2 fold change": "1.5",
+        "Adjusted p-value": "3.60833591459511e-7",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'Helicobacter hepaticus' vs 'none' in 'wild type phenotype'",
+        "log_2 fold change": "-1.5",
+        "Adjusted p-value": "5.69767110230571e-7",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'osteoblast culture 9 day' vs '0 day'",
+        "log_2 fold change": "-1.5",
+        "Adjusted p-value": "6.50543344502926e-7",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'vemurafenib' vs 'DMSO'",
+        "log_2 fold change": "-1.5",
+        "Adjusted p-value": "0.00000112068742037583",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'acetaminophen; 13 millimolar' vs 'none' in 'HepaRG; hepatitis C virus infection; liver'",
+        "log_2 fold change": "-1.5",
+        "Adjusted p-value": "0.00000329261836035871",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'10 micromolar; Nutlin-3' vs 'DMSO control'",
+        "log_2 fold change": "-1.5",
+        "Adjusted p-value": "0.0000063846576430434",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'EPZ6438; 10x lowest cytotoxic concentration' vs 'DMSO' in 'WSU_DLCL2' at '6 day'",
+        "log_2 fold change": "-1.5",
+        "Adjusted p-value": "0.00000690685878146728",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'dinitrofluorobenzene' vs 'control' in 'Cnr1 -/- /Cnr2 -/-'",
+        "log_2 fold change": "1.5",
+        "Adjusted p-value": "0.00000712930076136038",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'MCF-7 clone 5C' vs 'MCF-7'",
+        "log_2 fold change": "1.5",
+        "Adjusted p-value": "0.00000734799635704322",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'Mycobacterium tuberculosis; D2.B6-Chr19 congenic; 70 day' vs 'control; D2.B6-Chr19 congenic; 0 day'",
+        "log_2 fold change": "1.5",
+        "Adjusted p-value": "0.00000787541632871344",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'CDK4/6 inhibitor PD 0332991' vs 'vehicle'",
+        "log_2 fold change": "-1.5",
+        "Adjusted p-value": "0.00000968295915998627",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'Mycobacterium tuberculosis' vs 'none' in 'infant'",
+        "log_2 fold change": "-1.5",
+        "Adjusted p-value": "0.0000147994499832826",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'SARS coronavirus MA15' vs 'none' in 'Tnfrsf1a/1b -/-' at '7 day'",
+        "log_2 fold change": "1.5",
+        "Adjusted p-value": "0.0000148282210200826",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'interleukin-3 and stem cell factor' vs 'interleukin-3'",
+        "log_2 fold change": "-1.5",
+        "Adjusted p-value": "0.0000222480371372579",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'PLAT knockout; SARS MA15; 7 day' vs 'PLAT knockout; mock'",
+        "log_2 fold change": "1.5",
+        "Adjusted p-value": "0.0000336591339146129",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'HNF4a homozygous deletion mutant (DBD Mut)' vs 'wild type'",
+        "log_2 fold change": "-1.5",
+        "Adjusted p-value": "0.000034132618168033",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "AT4G21070",
+        "Species": "'apum23 mutant' vs 'wild type'",
+        "log_2 fold change": "1.5",
+        "Adjusted p-value": "0.0000357649153506092",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'co-transplanted with NOD-scid IL2Rgamma null HSCs' vs 'co-transplanted with wild type HSCs'",
+        "log_2 fold change": "1.5",
+        "Adjusted p-value": "0.0000368331475766395",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'30 days of tuberculosis' vs 'uninfected'",
+        "log_2 fold change": "1.5",
+        "Adjusted p-value": "0.000135637552148332",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSBTAG00000022520",
+        "Species": "'Trypanosoma Congolense; 35 day' vs 'control; 0 day' in 'lymph node; N'Dama'",
+        "log_2 fold change": "1.5",
+        "Adjusted p-value": "0.000137663555588722",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'10 Gy Gray; x-ray' vs 'none' in 'tumor and stromal cell'",
+        "log_2 fold change": "-1.5",
+        "Adjusted p-value": "0.000287560581348015",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'DMSO-mediated cell differentiation during experiment' vs 'not cultured with DMSO' in 'none'",
+        "log_2 fold change": "-1.5",
+        "Adjusted p-value": "0.000296962984425956",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'Enterococcus faecalis' at '5 day' vs 'none' at '5 day'",
+        "log_2 fold change": "-1.5",
+        "Adjusted p-value": "0.000312923317378703",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSRNOG00000020701",
+        "Species": "'cancer; inoculation of cancer cell' vs 'normal; none'",
+        "log_2 fold change": "1.5",
+        "Adjusted p-value": "0.000374174364026242",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'Cbfb knockout' vs 'control of Cbfb knockout'",
+        "log_2 fold change": "1.5",
+        "Adjusted p-value": "0.000710781057345693",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSRNOG00000020701",
+        "Species": "'dysplasia' vs 'normal' in 'epithelial cell'",
+        "log_2 fold change": "1.5",
+        "Adjusted p-value": "0.000868588844865071",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'tumor' vs 'normal' in 'liver'",
+        "log_2 fold change": "1.5",
+        "Adjusted p-value": "0.0017314872949753",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSRNOG00000020701",
+        "Species": "'WY-14643; 30 milligram per kilogram' vs 'none' in 'WY-14643; liver' at '4 day'",
+        "log_2 fold change": "1.5",
+        "Adjusted p-value": "0.00183083485027029",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'PL45; CI-1040; 2 millimolar' vs 'PL45; vehicle; '",
+        "log_2 fold change": "-1.5",
+        "Adjusted p-value": "0.00195143295384684",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSGALG00000002781",
+        "Species": "'forskolin; 100 micromolar' at '72 hour' vs 'none; ' at '72 hour'",
+        "log_2 fold change": "1.5",
+        "Adjusted p-value": "0.00196136205721484",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'HNF4a point mutated clone (SUMO Mut)' vs 'wild type'",
+        "log_2 fold change": "-1.5",
+        "Adjusted p-value": "0.00254053803666609",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'SARS coronavirus MA15' vs 'none' in 'wild type genotype' at '4 day'",
+        "log_2 fold change": "1.5",
+        "Adjusted p-value": "0.00269276966524059",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'myxosarcoma' vs 'normal'",
+        "log_2 fold change": "1.5",
+        "Adjusted p-value": "0.00297144306909452",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'SARS coronavirus MA15' vs 'none' at '4 day'",
+        "log_2 fold change": "1.5",
+        "Adjusted p-value": "0.00498798354352408",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'neoplasm' vs 'normal tissue adjacent to neoplasm'",
+        "log_2 fold change": "1.5",
+        "Adjusted p-value": "0.00520915259128511",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "AT4G21070",
+        "Species": "'ANAC017 OEb' vs 'wild type genotype' at '0 day'",
+        "log_2 fold change": "-1.5",
+        "Adjusted p-value": "0.00958559068667141",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'estrogen' vs 'placebo' in 'estrogen receptor positive'",
+        "log_2 fold change": "1.5",
+        "Adjusted p-value": "0.013186951007483",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'wild type; BREFELDIN A' vs 'wild type; control'",
+        "log_2 fold change": "1.5",
+        "Adjusted p-value": "0.0174903836298405",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'Macrophage of F4/80+, CD11b+, CD11c-+; obese leptin-deficient' vs 'Macrophage of F4/80+, CD11b+, CD11c-+; control'",
+        "log_2 fold change": "1.5",
+        "Adjusted p-value": "0.0195747116395188",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSRNOG00000020701",
+        "Species": "'monocrotaline; 30 milligram per kilogram' vs 'none' in 'monocrotaline; liver' at '4 day'",
+        "log_2 fold change": "1.5",
+        "Adjusted p-value": "0.0197985406072078",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'Cbs knockout' vs 'wild type'",
+        "log_2 fold change": "1.5",
+        "Adjusted p-value": "0.0321564399067097",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'human rhinovirus 16' vs 'vehicle' in 'asthma'",
+        "log_2 fold change": "-1.5",
+        "Adjusted p-value": "0.0356834593458148",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'501Mel; shBRG1 knockdown' vs '501Mel; control'",
+        "log_2 fold change": "-1.4",
+        "Adjusted p-value": "1.74663251259379e-61",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'ERBB2 siRNA' vs 'scrambled siRNA'",
+        "log_2 fold change": "-1.4",
+        "Adjusted p-value": "4.65029028074026e-48",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'HES1 homozygous knockout' vs 'wild type genotype'",
+        "log_2 fold change": "-1.4",
+        "Adjusted p-value": "4.93206598637134e-20",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'12 hour' vs '0 hour' in 'MCF-10A'",
+        "log_2 fold change": "1.4",
+        "Adjusted p-value": "5.06796921753218e-17",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'Lymphocytic choriomeningitis mammarenavirus' vs 'none' in 'TRAIL homozygous knock out'",
+        "log_2 fold change": "1.4",
+        "Adjusted p-value": "2.11700724893869e-14",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'tumor tissue' vs 'non-malignant tissue'",
+        "log_2 fold change": "1.4",
+        "Adjusted p-value": "8.52356644106819e-12",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'336 hour' vs '0 hour' on 'Affymetrix Mouse430A_2 Array'",
+        "log_2 fold change": "-1.4",
+        "Adjusted p-value": "3.17555548231654e-9",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'R6/2::HDAC4het' vs 'wild type genotype'",
+        "log_2 fold change": "1.4",
+        "Adjusted p-value": "3.49412867213813e-9",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'3 day; osteogenesis differentiation' vs ' 0 day; control' in '2C12-pMirn378'",
+        "log_2 fold change": "-1.4",
+        "Adjusted p-value": "1.26987756678013e-8",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "AT4G21070",
+        "Species": "'wounding; 6 hour' vs 'none; 0 hour' in 'DMSO'",
+        "log_2 fold change": "-1.4",
+        "Adjusted p-value": "1.89696092134846e-8",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'Kit ligand; wasp knockout' vs 'Kit ligand; wild type'",
+        "log_2 fold change": "1.4",
+        "Adjusted p-value": "4.45541380118887e-8",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'Reverb\u03b1flox/floxAlbCreERT2+' vs 'wild type genotype'",
+        "log_2 fold change": "-1.4",
+        "Adjusted p-value": "4.65924602801121e-8",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'RBM20 antisense oligonucleotide' vs 'none' in 'Titin-N2B knockout'",
+        "log_2 fold change": "1.4",
+        "Adjusted p-value": "1.10775232145269e-7",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'tamoxifen induction at 2 months, wait 3 months' vs 'no tamoxifen induction' in 'luminal cell of prostate epithelium; Nkx3.1-CreERT2 targeted allele'",
+        "log_2 fold change": "1.4",
+        "Adjusted p-value": "1.7667886036554e-7",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "AT4G21070",
+        "Species": "'mannitol; 300 millimolar' vs 'none' in 'wild type genotype'",
+        "log_2 fold change": "-1.4",
+        "Adjusted p-value": "2.25374754047221e-7",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'neratinib; 250 nanomolar' vs 'none'",
+        "log_2 fold change": "-1.4",
+        "Adjusted p-value": "2.28474758518441e-7",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "AT4G21070",
+        "Species": "'pyl duodecuple loss of function mutant' vs 'wild type genotype' in 'mannitol; 300 millimolar'",
+        "log_2 fold change": "1.4",
+        "Adjusted p-value": "6.55088728676474e-7",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'Panc-2.03; CI-1040; 2 millimolar' vs 'Panc-2.03; vehicle; '",
+        "log_2 fold change": "-1.4",
+        "Adjusted p-value": "0.00000128293194501069",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'SARS coronavirus MA15' vs 'mock' in 'TLR3 knockout' at '4 day'",
+        "log_2 fold change": "1.4",
+        "Adjusted p-value": "0.00000141455755471112",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'shRNA mediated knockdown of MBD4 and retrovirus mediated expression of RON and MSP' vs 'none'",
+        "log_2 fold change": "-1.4",
+        "Adjusted p-value": "0.00000247723714245601",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'TUT4 deficiency; TUT7 knockout' vs 'wild type'",
+        "log_2 fold change": "1.4",
+        "Adjusted p-value": "0.00000416458204287716",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'neoplasm' vs 'normal tissue adjacent to neoplasm'",
+        "log_2 fold change": "1.4",
+        "Adjusted p-value": "0.00000494369529631344",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'Dlk1 overexpression' vs 'control'",
+        "log_2 fold change": "-1.4",
+        "Adjusted p-value": "0.00000521656551235543",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'erythroleukemia; ZRSR2 shRNA' vs 'normal'",
+        "log_2 fold change": "1.4",
+        "Adjusted p-value": "0.00000549263187248859",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'786-0; renal adenocarcinoma; P10' vs '786-0; renal adenocarcinoma; P0'",
+        "log_2 fold change": "1.4",
+        "Adjusted p-value": "0.00000644251560149005",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'Apical anaerobic' vs 'Conventional'",
+        "log_2 fold change": "-1.4",
+        "Adjusted p-value": "0.00000695596299753194",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'BRD4 inhibitor JQ1' vs 'none' in 'OMM1'",
+        "log_2 fold change": "-1.4",
+        "Adjusted p-value": "0.00000917560236993507",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'EX00000246; stimulated with interferon gamma and lipopolysaccharide' vs 'none' at '6 hour'",
+        "log_2 fold change": "-1.4",
+        "Adjusted p-value": "0.0000106609051583797",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "transduction of 'hTERT, HPVE6, HPVE7, SV40t' vs 'none'",
+        "log_2 fold change": "1.4",
+        "Adjusted p-value": "0.0000120878382984301",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSRNOG00000020701",
+        "Species": "'cyclosporine A; 300 milligram per kilogram' vs 'none' in 'cyclosporine A; liver' at '3 hour'",
+        "log_2 fold change": "-1.4",
+        "Adjusted p-value": "0.0000134384133302031",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'Panc-2.13; CI-1040; 2 millimolar' vs 'Panc-2.13; vehicle; '",
+        "log_2 fold change": "-1.4",
+        "Adjusted p-value": "0.0000155211468950619",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'10 nanomolar 17beta-estradiol and 7.5 micromolar CG-1521' vs 'vehicle' in 'SUM149PT'",
+        "log_2 fold change": "-1.4",
+        "Adjusted p-value": "0.0000172990943564635",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'vulvar intraepithelial neoplasia' vs 'normal'",
+        "log_2 fold change": "1.4",
+        "Adjusted p-value": "0.0000175109224649319",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'Mycobacterium tuberculosis; DBA/2J congenic; 30 day' vs 'control; DBA/2J congenic; 0 day'",
+        "log_2 fold change": "1.4",
+        "Adjusted p-value": "0.0000218014860959714",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'100 micromolar; sparstolonin B' vs 'DMSO'",
+        "log_2 fold change": "-1.4",
+        "Adjusted p-value": "0.0000289220950693049",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'SARS coronavirus MA15; 10^3 PFU' vs 'none' at '4 day'",
+        "log_2 fold change": "1.4",
+        "Adjusted p-value": "0.0000343818822274523",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'dinitrofluorobenzene' vs 'control' in 'wild type'",
+        "log_2 fold change": "1.4",
+        "Adjusted p-value": "0.0000652745547961385",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'Mycobacterium tuberculosis; D2.B6-Chr19 congenic; 30 day' vs 'control; D2.B6-Chr19 congenic; 0 day'",
+        "log_2 fold change": "1.4",
+        "Adjusted p-value": "0.0000956754293880448",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'control; streptozotocin-induced diabetes' vs 'control; control'",
+        "log_2 fold change": "1.4",
+        "Adjusted p-value": "0.000101854220038121",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'Hypoxia' vs 'Normoxia' in 'A2780cis; Cisplatin'",
+        "log_2 fold change": "-1.4",
+        "Adjusted p-value": "0.000118799321061642",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'wild type genotype; SARS MA15; 4 day' vs 'wild type genotype; mock'",
+        "log_2 fold change": "1.4",
+        "Adjusted p-value": "0.000136793956095707",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'wormy, worm separated; Trichuris muris' vs 'control; non wormy' in 'caecum'",
+        "log_2 fold change": "1.4",
+        "Adjusted p-value": "0.000138287857358179",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'neurosphere in differentiation medium; 5 day' vs 'neurosphere; 0 day' in 'Cstb knockout'",
+        "log_2 fold change": "-1.4",
+        "Adjusted p-value": "0.000197796613200887",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSXETG00000024564",
+        "Species": "'tail amputation' at '3 day' vs 'none' at '0 day'",
+        "log_2 fold change": "1.4",
+        "Adjusted p-value": "0.000202386806352473",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'glioblastoma multiforme' vs 'normal'",
+        "log_2 fold change": "1.4",
+        "Adjusted p-value": "0.000227020604336726",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'induced extraembryonic endoderm stem cell; grown in XEN cell medium' vs 'mouse embryonic fibroblast; control'",
+        "log_2 fold change": "1.4",
+        "Adjusted p-value": "0.000243500076899792",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'conditional UPF2 knockout; before partial hepatechtomy' vs 'control; before partial hepatechtomy'",
+        "log_2 fold change": "1.4",
+        "Adjusted p-value": "0.000250228956950883",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'3 percent oxygen; young' vs '20 percent oxygen; young'",
+        "log_2 fold change": "1.4",
+        "Adjusted p-value": "0.000325665457473793",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'small cell lung carcinoma' vs 'normal'",
+        "log_2 fold change": "1.4",
+        "Adjusted p-value": "0.000346337357489496",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'Ngn3-expressing cell' vs 'Ngn3-null cell'",
+        "log_2 fold change": "-1.4",
+        "Adjusted p-value": "0.000575176070105306",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'SARS coronavirus MA15 dORF6' vs 'none' at '4 day'",
+        "log_2 fold change": "1.4",
+        "Adjusted p-value": "0.000643705345324014",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSRNOG00000020701",
+        "Species": "'disulfiram; 60 milligram per kilogram' vs 'none' in 'disulfiram; liver' at '6 hour'",
+        "log_2 fold change": "1.4",
+        "Adjusted p-value": "0.000899029624200815",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSRNOG00000020701",
+        "Species": "'ethionamide; 300 milligram per kilogram' vs 'none' in 'ethionamide; liver' at '15 day'",
+        "log_2 fold change": "1.4",
+        "Adjusted p-value": "0.00106805787346795",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'MEF; transduced with MyoD lentivirus' vs 'MEF; control'",
+        "log_2 fold change": "1.4",
+        "Adjusted p-value": "0.00146193743332212",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'neurosphere in differentiation medium; 5 day' vs 'neurosphere; 0 day' in 'wild type genotype'",
+        "log_2 fold change": "-1.4",
+        "Adjusted p-value": "0.00149154845882104",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'BRD4 inhibitor JQ1' vs 'none' in 'Mel290'",
+        "log_2 fold change": "-1.4",
+        "Adjusted p-value": "0.00149536684468717",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "AT4G21070",
+        "Species": "'cycloheximide' vs 'control'",
+        "log_2 fold change": "1.4",
+        "Adjusted p-value": "0.00368927502928228",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'Panc-10.05; CI-1040; 2 millimolar' vs 'Panc-10.05; vehicle; '",
+        "log_2 fold change": "-1.4",
+        "Adjusted p-value": "0.00670714529540156",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'ICG-001 and PHA665752' vs 'DMSO'",
+        "log_2 fold change": "-1.4",
+        "Adjusted p-value": "0.00718221522633823",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "AT4G21070",
+        "Species": "'dexamethasone and cycloheximide' vs 'control'",
+        "log_2 fold change": "1.4",
+        "Adjusted p-value": "0.00727612574362587",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "AT4G21070",
+        "Species": "'0.1 mM nitrate' vs '10 mM nitrate' in 'wild type genotype'",
+        "log_2 fold change": "-1.4",
+        "Adjusted p-value": "0.00800712461335822",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'extracellular vesicle; non-stimulated culture medium' vs 'none'",
+        "log_2 fold change": "-1.4",
+        "Adjusted p-value": "0.0107988894587235",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'polarized with E coli lipopolysacharide and INF-gamma' vs 'untreated'",
+        "log_2 fold change": "-1.4",
+        "Adjusted p-value": "0.0112564112757924",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'TRPS1 siRNA 1' vs 'none' in 'B42 subclone 11'",
+        "log_2 fold change": "-1.4",
+        "Adjusted p-value": "0.011641488117545",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'lapatinib' vs 'DMSO' in 'acquired resistant to lapatinib'",
+        "log_2 fold change": "-1.4",
+        "Adjusted p-value": "0.0138582106730402",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'osteosarcoma' vs 'normal'",
+        "log_2 fold change": "-1.4",
+        "Adjusted p-value": "0.0165808266071342",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'synovial sarcoma' vs 'control'",
+        "log_2 fold change": "1.4",
+        "Adjusted p-value": "0.0173183528071279",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'hypoxia' vs 'normal atmospheric oxygen pressure' in 'low metastatic cell line'",
+        "log_2 fold change": "-1.4",
+        "Adjusted p-value": "0.0205811022563207",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "AT4G21070",
+        "Species": "'pp7l-1 loss of function mutant' vs 'wild type genotype'",
+        "log_2 fold change": "1.4",
+        "Adjusted p-value": "0.0299472290371877",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "AT4G21070",
+        "Species": "'lithium chloride, 100 millimolar' vs 'none'",
+        "log_2 fold change": "1.4",
+        "Adjusted p-value": "0.0312654815586862",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'AhCre Apc Floxed Cited1 knockout' vs 'control'",
+        "log_2 fold change": "1.4",
+        "Adjusted p-value": "0.0434046693556387",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'AUY922; 100 nanomolar' vs 'DMSO; 0.1 percent' in 'wild type'",
+        "log_2 fold change": "1.4",
+        "Adjusted p-value": "0.0475460282148312",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'CCNK knock-down' vs 'mock'",
+        "log_2 fold change": "-1.3",
+        "Adjusted p-value": "1.80823398342118e-48",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'JQ1 (1 micromolar) and THZ1 (35 nanomolar)' vs 'none'",
+        "log_2 fold change": "-1.3",
+        "Adjusted p-value": "6.65079237965338e-23",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'neoplasm' vs 'normal tissue adjacent to neoplasm' in 'liver'",
+        "log_2 fold change": "1.3",
+        "Adjusted p-value": "1.23378764167715e-18",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'5-aza-deoxy-cytidine; 5 micromolar' vs 'none'",
+        "log_2 fold change": "1.3",
+        "Adjusted p-value": "4.30620449530411e-17",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'non-small cell lung cancer' vs 'normal'",
+        "log_2 fold change": "1.3",
+        "Adjusted p-value": "1.59136603328631e-16",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'DDX3 siRNA 6' vs 'scrambled siRNA'",
+        "log_2 fold change": "-1.3",
+        "Adjusted p-value": "2.28581458978625e-14",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'EX00000246' vs 'none' in 'unstimulated' at '24 hour'",
+        "log_2 fold change": "-1.3",
+        "Adjusted p-value": "1.61735297187299e-13",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'Human gammaherpesvirus 4' at '14 day' vs 'none' at '0 day'",
+        "log_2 fold change": "1.3",
+        "Adjusted p-value": "2.89866763084644e-13",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'high GLUT1 expression' vs 'low GLUT1 expression' in 'wild type genotype'",
+        "log_2 fold change": "-1.3",
+        "Adjusted p-value": "6.09757458501724e-10",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'Cal51; cocultured with fibroblast HFF1' vs 'Cal51; normal'",
+        "log_2 fold change": "-1.3",
+        "Adjusted p-value": "1.00317432062601e-8",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'DDX54 siRNA 12' vs 'scrambled siRNA'",
+        "log_2 fold change": "-1.3",
+        "Adjusted p-value": "2.686160161526e-8",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'estradiol' at '30 hour' vs 'none' at '0 hour'",
+        "log_2 fold change": "-1.3",
+        "Adjusted p-value": "1.51263364904424e-7",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'154; 0.4 micromolar' vs 'DMSO'",
+        "log_2 fold change": "-1.3",
+        "Adjusted p-value": "1.53990733203501e-7",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "AT4G21070",
+        "Species": "'wounding; 3 hour' vs 'none; 0 hour' in 'DMSO'",
+        "log_2 fold change": "-1.3",
+        "Adjusted p-value": "2.63402966606951e-7",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'Nutlin-3; 10 micromolar' vs 'DMSO; 0.1 percent'",
+        "log_2 fold change": "-1.3",
+        "Adjusted p-value": "3.43150172510598e-7",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "AT4G21070",
+        "Species": "'chr11-1, chr17-1 double mutant' vs 'wild type' at '8 day'",
+        "log_2 fold change": "-1.3",
+        "Adjusted p-value": "5.11963206569582e-7",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSBTAG00000022520",
+        "Species": "'Trypanosoma Congolense; 21 day' vs 'control; 0 day' in 'spleen; N'Dama'",
+        "log_2 fold change": "1.3",
+        "Adjusted p-value": "7.68605135879664e-7",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'MOLT-4; acute lymphoblastic leukemia; P10' vs 'MOLT-4; acute lymphoblastic leukemia; P0'",
+        "log_2 fold change": "1.3",
+        "Adjusted p-value": "8.95169063849519e-7",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'nasopharyngeal carcinoma' vs 'normal'",
+        "log_2 fold change": "1.3",
+        "Adjusted p-value": "0.00000265815025633921",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'glioblastoma' vs 'normal'",
+        "log_2 fold change": "1.3",
+        "Adjusted p-value": "0.00000319468984781072",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'mesendoderm/endoderm progenitor cell' vs 'embryonic stem cell'",
+        "log_2 fold change": "1.3",
+        "Adjusted p-value": "0.00000416088112257925",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'tumour staging pT3; disease staging 2; neoplasm' vs 'normal tissue adjacent to neoplasm'",
+        "log_2 fold change": "1.3",
+        "Adjusted p-value": "0.00000529387822062967",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'PC3; converted to docetaxel resistant cells' vs 'PC3; none'",
+        "log_2 fold change": "-1.3",
+        "Adjusted p-value": "0.00000568657944104052",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'serum deprivation' vs 'asynchronous growth'",
+        "log_2 fold change": "-1.3",
+        "Adjusted p-value": "0.00000579758150058533",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'Enterococcus faecalis' at '1 day' vs 'none' at '1 day'",
+        "log_2 fold change": "-1.3",
+        "Adjusted p-value": "0.00000786628324289142",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'Pin1 knockout' vs 'control'",
+        "log_2 fold change": "-1.3",
+        "Adjusted p-value": "0.0000115270449666154",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'L3.3; CI-1040; 2 millimolar' vs 'L3.3; vehicle; '",
+        "log_2 fold change": "-1.3",
+        "Adjusted p-value": "0.0000200231492653846",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'14 day' vs '1 day'",
+        "log_2 fold change": "-1.3",
+        "Adjusted p-value": "0.0000236004809334318",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'pre-B acute lymphoblastic leukemia 8093; nilotinib; 3 day' vs 'pre-B acute lymphoblastic leukemia 8093; nilotinib; 0 day'",
+        "log_2 fold change": "-1.3",
+        "Adjusted p-value": "0.0000439843251682759",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'DDX54 siRNA 9' vs 'scrambled siRNA'",
+        "log_2 fold change": "-1.3",
+        "Adjusted p-value": "0.0000474453516451403",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'Influenza A virus (A/Puerto Rico/8/1934(H1N1)); 4 day' vs 'mock' in 'C57BL/6J'",
+        "log_2 fold change": "1.3",
+        "Adjusted p-value": "0.0000562014696770276",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'Mkl1-RFP with a deletion of the SAP domain' vs 'full length Mkl1-RFP'",
+        "log_2 fold change": "-1.3",
+        "Adjusted p-value": "0.0000631342607298197",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'activated B cell' vs 'memory B cell'",
+        "log_2 fold change": "1.3",
+        "Adjusted p-value": "0.000066852902562772",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'undifferentiated' vs 'differentiated; rosiglitazone' in 'AKR/J'",
+        "log_2 fold change": "-1.3",
+        "Adjusted p-value": "0.000273573765875515",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'10 day' vs '0 day'",
+        "log_2 fold change": "-1.3",
+        "Adjusted p-value": "0.000287648687116566",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'stimulated' vs 'unstimulated' in '3.3 microgram per milliliter; edelfosine'",
+        "log_2 fold change": "1.3",
+        "Adjusted p-value": "0.000352102761613816",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'24 hour before induction of differentiation' vs 'induction of differentiation'",
+        "log_2 fold change": "1.3",
+        "Adjusted p-value": "0.000357252874036895",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'Notch2-IC expression' vs 'control' at '3 day'",
+        "log_2 fold change": "1.3",
+        "Adjusted p-value": "0.000387126682280002",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSSSCG00000022101",
+        "Species": "'anterior cruciate ligament transection surgery; 7 day; ligament repair surgery (BEAR)' vs 'no injury; no treatment' in 'female'",
+        "log_2 fold change": "1.3",
+        "Adjusted p-value": "0.000427805077355018",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'E2f8 knock-out' vs 'wild type'",
+        "log_2 fold change": "1.3",
+        "Adjusted p-value": "0.000540873634143656",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'Nrf knockout; air; 2 day' vs 'control; air; 2 day'",
+        "log_2 fold change": "-1.3",
+        "Adjusted p-value": "0.00088575912118349",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'overexpression of Deltex1' vs 'control'",
+        "log_2 fold change": "1.3",
+        "Adjusted p-value": "0.00143957157992454",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "AT4G21070",
+        "Species": "'40 micromolar; rotenone' vs '0.25 percent; methanol' at '12 hour'",
+        "log_2 fold change": "-1.3",
+        "Adjusted p-value": "0.0015813971146922",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'Ink4a/Arf-/-; EGFRvIII' vs 'wild type genotype' in 'co-culture'",
+        "log_2 fold change": "1.3",
+        "Adjusted p-value": "0.0020133391772332",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'PKA RI-alpha over expression' vs 'wild type'",
+        "log_2 fold change": "1.3",
+        "Adjusted p-value": "0.00209132864739847",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'intraductal papillary-mucinous carcinoma (IPMC)' vs 'normal'",
+        "log_2 fold change": "1.3",
+        "Adjusted p-value": "0.00215440142347281",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSBTAG00000022520",
+        "Species": "'Trypanosoma Congolense; 21 day' vs 'control; 0 day' in 'lymph node; N'Dama'",
+        "log_2 fold change": "1.3",
+        "Adjusted p-value": "0.00222230183873347",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'SARS coronavirus MA15' vs 'none' in 'IFNAR1 -/-' at '5 day'",
+        "log_2 fold change": "1.3",
+        "Adjusted p-value": "0.00238553546323544",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'SARS coronavirus MA15; 10^4 PFU' vs 'none' at '4 day'",
+        "log_2 fold change": "1.3",
+        "Adjusted p-value": "0.00505606102153725",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'H-Ras expression; c-Myc activation' vs 'wild type'",
+        "log_2 fold change": "1.3",
+        "Adjusted p-value": "0.00919279737948432",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSRNOG00000020701",
+        "Species": "'cancer; inoculation of cancer cell' vs 'normal; sham'",
+        "log_2 fold change": "1.3",
+        "Adjusted p-value": "0.0128488874360429",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'TRPS1 siRNA 1' vs 'scrambled control siRNA' in 'B42 subclone 11'",
+        "log_2 fold change": "-1.3",
+        "Adjusted p-value": "0.013717557336356",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'Pkhd1Cre; Pkd2 F/F' vs 'wild type'",
+        "log_2 fold change": "1.3",
+        "Adjusted p-value": "0.0159779362976707",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'Tyr mutant' vs 'wild type'",
+        "log_2 fold change": "1.3",
+        "Adjusted p-value": "0.025587128416455",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'metastasis; tumor' vs 'metastasis; normal adjacent tissue'",
+        "log_2 fold change": "1.3",
+        "Adjusted p-value": "0.0284689641431599",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'U87MG; MSCV-HOXA9' vs 'U87MG; control'",
+        "log_2 fold change": "1.3",
+        "Adjusted p-value": "0.0350605687891317",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'MEF2D-HNFNPUL1 knockdown by siRNA' vs 'luciferase siRNA'",
+        "log_2 fold change": "1.2",
+        "Adjusted p-value": "8.32931196511528e-148",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'doxycycline; 0.5 microgram per milliliter; Day 3 post Neurogenin induction' vs 'control'",
+        "log_2 fold change": "-1.2",
+        "Adjusted p-value": "1.26704673916229e-31",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'doxycycline' vs 'none' in 'Caki1'",
+        "log_2 fold change": "-1.2",
+        "Adjusted p-value": "2.38071879222925e-25",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'Nrl-/-' vs 'wild type'",
+        "log_2 fold change": "-1.2",
+        "Adjusted p-value": "8.33938974346441e-15",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'sulforaphane; normal' at '24 hour' vs 'DMSO; normal' at '24 hour'",
+        "log_2 fold change": "-1.2",
+        "Adjusted p-value": "1.60053291635906e-12",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "AT4G21070",
+        "Species": "'top3A-2' vs 'wild type genotype'",
+        "log_2 fold change": "1.2",
+        "Adjusted p-value": "9.06216194275832e-12",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'TGFb1' vs 'none' in 'pcDNA3 empty vector'",
+        "log_2 fold change": "-1.2",
+        "Adjusted p-value": "2.74610333634846e-9",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'contrast-enhancing core; glioma' vs 'normal'",
+        "log_2 fold change": "1.2",
+        "Adjusted p-value": "7.26671599681287e-9",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'SARS coronavirus MA15; 4 day' vs 'mock' in 'NOD/ShiLtJ'",
+        "log_2 fold change": "1.2",
+        "Adjusted p-value": "1.21827086926666e-8",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSRNOG00000020701",
+        "Species": "'gentamicin; 10 milligram per kilogram' vs 'none' in 'gentamicin; liver' at '3 hour'",
+        "log_2 fold change": "-1.2",
+        "Adjusted p-value": "2.86050859581963e-8",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "AT4G21070",
+        "Species": "'se-2; atxr5; atxr6 triple loss of function mutant' vs 'wild type genotype'",
+        "log_2 fold change": "1.2",
+        "Adjusted p-value": "4.10517500370424e-8",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "AT4G21070",
+        "Species": "'heat stress' vs 'none'",
+        "log_2 fold change": "-1.2",
+        "Adjusted p-value": "5.77826207970034e-8",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'R6/2' vs 'wild type genotype'",
+        "log_2 fold change": "1.2",
+        "Adjusted p-value": "7.28680680020649e-8",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'SARS coronavirus MA15; 2 day' vs 'mock' in 'C57BL/6J'",
+        "log_2 fold change": "1.2",
+        "Adjusted p-value": "1.04490606925041e-7",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'6 day' vs '0 day'",
+        "log_2 fold change": "-1.2",
+        "Adjusted p-value": "6.39950610152979e-7",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'MOLT-4; acute lymphoblastic leukemia; P01' vs 'MOLT-4; acute lymphoblastic leukemia; P0'",
+        "log_2 fold change": "1.2",
+        "Adjusted p-value": "0.00000107165529294664",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'doxycycline; 200 nanogram per milliliter; neoplasm; 5 day' vs 'none; normal; 0 day'",
+        "log_2 fold change": "1.2",
+        "Adjusted p-value": "0.00000291805859100111",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'non metastasis; tumor' vs 'non metastasis; normal adjacent tissue'",
+        "log_2 fold change": "1.2",
+        "Adjusted p-value": "0.00000359170578981233",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'EPZ6438; lowest cytotoxic concentration' vs 'DMSO' in 'WSU_DLCL2' at '4 day'",
+        "log_2 fold change": "-1.2",
+        "Adjusted p-value": "0.00000422277900347017",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'MCF-7 clone 2A' vs 'MCF-7'",
+        "log_2 fold change": "1.2",
+        "Adjusted p-value": "0.00000430218546932327",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'p19Arf and interferon beta' vs 'eGFP control'",
+        "log_2 fold change": "-1.2",
+        "Adjusted p-value": "0.00000444417338331296",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'Panc-8.13; CI-1040; 2 millimolar' vs 'Panc-8.13; vehicle; '",
+        "log_2 fold change": "-1.2",
+        "Adjusted p-value": "0.00000482580051252652",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'fulvestrant' vs 'ethanol' in 'MCF-7/LTED'",
+        "log_2 fold change": "-1.2",
+        "Adjusted p-value": "0.00000509021688124894",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'MOLT-4; acute lymphoblastic leukemia; P04' vs 'MOLT-4; acute lymphoblastic leukemia; P0'",
+        "log_2 fold change": "1.2",
+        "Adjusted p-value": "0.0000062521267075622",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'BRD4 inhibitor JQ1' vs 'none' in 'Mel270'",
+        "log_2 fold change": "-1.2",
+        "Adjusted p-value": "0.00000860015153224058",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'16 hour' vs '0 hour'",
+        "log_2 fold change": "1.2",
+        "Adjusted p-value": "0.0000111032051604857",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'DMSO' in 'stimulated with interferon gamma and lipopolysaccharide' vs 'none' at '6 hour'",
+        "log_2 fold change": "-1.2",
+        "Adjusted p-value": "0.0000132420388932369",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "AT4G21070",
+        "Species": "'cycloheximide' vs 'mock'",
+        "log_2 fold change": "-1.2",
+        "Adjusted p-value": "0.0000133748247327864",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'deprived of isoleucine' vs 'control media' in 'MCF7' at '24 hour'",
+        "log_2 fold change": "-1.2",
+        "Adjusted p-value": "0.0000171587144703859",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'HOP-62; adenocarcinoma of lung; P04' vs 'HOP-62; adenocarcinoma of lung; P0'",
+        "log_2 fold change": "1.2",
+        "Adjusted p-value": "0.000020814108358272",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSBTAG00000022520",
+        "Species": "'Trypanosoma Congolense; 35 day' vs 'control; 0 day' in 'spleen; N'Dama'",
+        "log_2 fold change": "1.2",
+        "Adjusted p-value": "0.00002318864799207",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'deprived of Methionine' vs 'control media' in 'MCF7' at '24 hour'",
+        "log_2 fold change": "-1.2",
+        "Adjusted p-value": "0.0000244190626151626",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSSSCG00000022101",
+        "Species": "'anterior cruciate ligament transection surgery; 7 day; ligament reconstruction surgery' vs 'no injury; no treatment' in 'female'",
+        "log_2 fold change": "1.2",
+        "Adjusted p-value": "0.0000287245042287738",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'7.5 micromolar CG-1521' vs 'vehicle' in 'SUM149PT'",
+        "log_2 fold change": "-1.2",
+        "Adjusted p-value": "0.0000317198985205647",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'oral hard palate epithelium' vs 'tail skin epithelium'",
+        "log_2 fold change": "-1.2",
+        "Adjusted p-value": "0.0000419150277473174",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'Panc-6.03; CI-1040; 2 millimolar' vs 'Panc-6.03; vehicle; '",
+        "log_2 fold change": "-1.2",
+        "Adjusted p-value": "0.0000438400864440464",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'Mycobacterium tuberculosis; C57BL/6J; 70 day' vs 'control; C57BL/6J; 0 day'",
+        "log_2 fold change": "1.2",
+        "Adjusted p-value": "0.0000575506684954166",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'TUT4; TUT7 double knockout' vs 'wild type'",
+        "log_2 fold change": "1.2",
+        "Adjusted p-value": "0.0000664125635206938",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "AT4G21070",
+        "Species": "'sucrose; 1 percent' vs 'none' in 'RBRcs mutant'",
+        "log_2 fold change": "1.2",
+        "Adjusted p-value": "0.0000771696722389125",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'Cisplatin' vs 'None' in 'A2780cis; Hypoxia'",
+        "log_2 fold change": "-1.2",
+        "Adjusted p-value": "0.0000980465780047607",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSSSCG00000022101",
+        "Species": "'skeletal muscle tissue' vs 'liver' in 'high residual feed intake'",
+        "log_2 fold change": "-1.2",
+        "Adjusted p-value": "0.000100807630280318",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'Mycobacterium tuberculosis; DBA/2J congenic; 70 day' vs 'control; DBA/2J congenic; 0 day'",
+        "log_2 fold change": "1.2",
+        "Adjusted p-value": "0.00028606532543556",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSGALG00000002781",
+        "Species": "'FPV\u0394024' vs 'wild type genotype' in 'Fowlpox virus'",
+        "log_2 fold change": "1.2",
+        "Adjusted p-value": "0.000292682855793495",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'STAT1 -/-' vs 'wild type genotype' in 'SARS coronavirus MA15' at '9 day'",
+        "log_2 fold change": "1.2",
+        "Adjusted p-value": "0.000312258688261704",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'SARS coronavirus MA15; 2 day' vs 'mock' in 'PWK/PhJ'",
+        "log_2 fold change": "1.2",
+        "Adjusted p-value": "0.000360009681873011",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'lung cancer' vs 'normal' in 'lung; Fresh-frozen tissue'",
+        "log_2 fold change": "1.2",
+        "Adjusted p-value": "0.000396058124568225",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'acute liver failure' vs 'normal'",
+        "log_2 fold change": "-1.2",
+        "Adjusted p-value": "0.000454073056183543",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'Mycobacterium tuberculosis; D2.B6-Chr7 congenic; 30 day' vs 'control; D2.B6-Chr7 congenic; 0 day'",
+        "log_2 fold change": "1.2",
+        "Adjusted p-value": "0.000474227090856981",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'48 hour' vs '0 hour'",
+        "log_2 fold change": "1.2",
+        "Adjusted p-value": "0.00047667572786201",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'TRPS1 siRNA 2' vs 'none' in 'B42 subclone 16'",
+        "log_2 fold change": "-1.2",
+        "Adjusted p-value": "0.000491170999137146",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'500 micromolar palmitate' vs '1 volume percent bovine serum albumin'",
+        "log_2 fold change": "-1.2",
+        "Adjusted p-value": "0.000509887495515786",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'Hypoxia' vs 'Normoxia' in 'A2780; Cisplatin'",
+        "log_2 fold change": "-1.2",
+        "Adjusted p-value": "0.000512476148325125",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'adult definitive erythroid cell' vs 'primitive erythroid cell' in 'basophilic erythroblast'",
+        "log_2 fold change": "1.2",
+        "Adjusted p-value": "0.000523210375835998",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'methyltrienolone; 1 nanomolar' vs 'ethanol' in 'stable expression of GATA2' at '48 hour'",
+        "log_2 fold change": "-1.2",
+        "Adjusted p-value": "0.000569123080385595",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSGALG00000002781",
+        "Species": "'FPV\u0394044' vs 'wild type genotype' in 'Fowlpox virus'",
+        "log_2 fold change": "1.2",
+        "Adjusted p-value": "0.000578199997715585",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'Albumin Cre+/-;Hnf4a fl/fl' vs 'wild type genotype'",
+        "log_2 fold change": "-1.2",
+        "Adjusted p-value": "0.000598532890345207",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'27 week; R6/1 transgenic' vs '27 week; wild_type'",
+        "log_2 fold change": "1.2",
+        "Adjusted p-value": "0.000624402649976917",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSGALG00000002781",
+        "Species": "'Newcastle disease virus LaSota strain' vs 'none' in 'Leghorn' at '6 day'",
+        "log_2 fold change": "1.2",
+        "Adjusted p-value": "0.00086649844892819",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'tamoxifen; autosomal dominant polycystic kidney disease' vs 'none; normal'",
+        "log_2 fold change": "1.2",
+        "Adjusted p-value": "0.000938951325495275",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'24 hours with hMSC Osteogenic Bullet Kit' vs 'none' in 'polysome'",
+        "log_2 fold change": "-1.2",
+        "Adjusted p-value": "0.000998887966503781",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'doxyxylcline-mediated overexpression of ERG' vs 'control'",
+        "log_2 fold change": "-1.2",
+        "Adjusted p-value": "0.00120923613127357",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'differentiated; hAKPC-P' vs 'undifferentiated; hAKPC-P'",
+        "log_2 fold change": "-1.2",
+        "Adjusted p-value": "0.00182747088857924",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'supratentorial ependymoma' vs 'normal'",
+        "log_2 fold change": "1.2",
+        "Adjusted p-value": "0.00194684896018342",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSRNOG00000020701",
+        "Species": "'ticlopidine; 300 milligram per kilogram' vs 'none' in 'ticlopidine; liver' at '4 day'",
+        "log_2 fold change": "1.2",
+        "Adjusted p-value": "0.00265692894511738",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'adenocarcinoma' vs 'normal tissue adjacent to adenocarcinoma'",
+        "log_2 fold change": "1.2",
+        "Adjusted p-value": "0.0031763927784264",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'EZH2 inhibitor; 10 micromolar' vs 'none'",
+        "log_2 fold change": "-1.2",
+        "Adjusted p-value": "0.00323591954559118",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "AT4G21070",
+        "Species": "'tor mutant' vs 'wild type' in 'glucose; 15 micromolar'",
+        "log_2 fold change": "-1.2",
+        "Adjusted p-value": "0.00493385426886008",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "AT4G21070",
+        "Species": "'anac017 T-DNA mutant' vs 'wild type genotype' at '0 day'",
+        "log_2 fold change": "-1.2",
+        "Adjusted p-value": "0.006326155468911",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'stabilization-competent' vs 'stabilization-incompetent' in '22 day; secondary reprogramming cell'",
+        "log_2 fold change": "1.2",
+        "Adjusted p-value": "0.00824542716174019",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'Sik1 knockout; gonad adipose tissue' vs 'wild type genotype; gonad adipose tissue'",
+        "log_2 fold change": "-1.2",
+        "Adjusted p-value": "0.0131212542929489",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'5 day; Ad-VEGF-A164' vs '0 day; control'",
+        "log_2 fold change": "1.2",
+        "Adjusted p-value": "0.014015304641297",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24'",
+        "log_2 fold change": "1.2",
+        "Adjusted p-value": "0.0146786124340985",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSRNOG00000020701",
+        "Species": "'ethionamide; 300 milligram per kilogram' vs 'none' in 'ethionamide; liver' at '4 day'",
+        "log_2 fold change": "1.2",
+        "Adjusted p-value": "0.0149700715327358",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'expanded on HUVEC and m5GF in the presence of mD1R for 7 days' vs 'control'",
+        "log_2 fold change": "-1.2",
+        "Adjusted p-value": "0.0150454699892397",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'Salmonella enterica serovar Typhimurium' vs 'control' in 'derived macrophage from E14 cell line'",
+        "log_2 fold change": "-1.2",
+        "Adjusted p-value": "0.0156975701560641",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "AT4G21070",
+        "Species": "'Sei-0 x Col-0 F1 hybrid' vs 'Sei-0' in 'Pseudomonas syringae pv. tomato str. DC3000' at '1 day'",
+        "log_2 fold change": "1.2",
+        "Adjusted p-value": "0.0161574096774294",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'cancer tissue' vs 'surrounding noncancerous tissue' in 'hepatitis C virus induced hepatocellular carcinoma'",
+        "log_2 fold change": "1.2",
+        "Adjusted p-value": "0.0164132198691616",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "AT4G21070",
+        "Species": "'Meloidogyne incognita infested region' vs 'Meloidogyne incognita non-infested region' at '21 day'",
+        "log_2 fold change": "1.2",
+        "Adjusted p-value": "0.0203447164502507",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'nutlin-3a; polarized with interleukin 4 and interleukin 13.' vs 'untreated'",
+        "log_2 fold change": "-1.2",
+        "Adjusted p-value": "0.0206652722808529",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "AT4G21070",
+        "Species": "'Sei-0 x Col-0 F1 hybrid' vs 'Sei-0' in 'Pseudomonas syringae pv. tomato str. DC3000' at '3 day'",
+        "log_2 fold change": "1.2",
+        "Adjusted p-value": "0.0229912813600114",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "AT4G21070",
+        "Species": "'dyt1 mutant' vs 'wild type'",
+        "log_2 fold change": "1.2",
+        "Adjusted p-value": "0.0354434415299592",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSBTAG00000022520",
+        "Species": "'transfer of  embryos produced by somatic cell nuclear transfer' vs 'fibroblast'",
+        "log_2 fold change": "1.2",
+        "Adjusted p-value": "0.0381409317377297",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'human chorionic gonadotropin; 5 International Unit' vs 'none' in 'wild type'",
+        "log_2 fold change": "-1.2",
+        "Adjusted p-value": "0.0390331558238431",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'SOX2 overexpression' vs 'wild type' in 'U-2982'",
+        "log_2 fold change": "1.1",
+        "Adjusted p-value": "2.92424682099702e-101",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'siRNAs against NELF' vs 'control' in 'whole-cell RNA'",
+        "log_2 fold change": "1.1",
+        "Adjusted p-value": "4.58046749970209e-38",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'17beta-estradiol; 10 nanomolar' vs 'vehicle'",
+        "log_2 fold change": "1.1",
+        "Adjusted p-value": "1.43755299803726e-36",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'siRNAs against NELF' vs 'control' in 'ribosomal RNA depleted whole cell RNA'",
+        "log_2 fold change": "1.1",
+        "Adjusted p-value": "1.22427761503371e-31",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'Debaryomyces hansenii' at '12 hour' vs 'none' at '0 hour'",
+        "log_2 fold change": "-1.1",
+        "Adjusted p-value": "1.93440851796354e-24",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "' neural stem cell' vs 'induced pluripotent stem cell' in 'Ataxia-telangiectasia'",
+        "log_2 fold change": "-1.1",
+        "Adjusted p-value": "3.52571134150974e-17",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'Enzalutamide, 1 micromolar' vs 'vehicle' at '48 hour'",
+        "log_2 fold change": "-1.1",
+        "Adjusted p-value": "9.56935768584474e-12",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'dexamethasone' vs 'untreated'",
+        "log_2 fold change": "-1.1",
+        "Adjusted p-value": "2.70581969091056e-10",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'giantin knockout' vs 'wild type'",
+        "log_2 fold change": "-1.1",
+        "Adjusted p-value": "7.13146268744466e-10",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'gamma radiation; 8 Gray' vs 'none' in 'Lgr5-Cre-ERT2'",
+        "log_2 fold change": "-1.1",
+        "Adjusted p-value": "1.15091440810274e-8",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'5-aza-deoxy-cytidine; 10 micromolar' vs 'none'",
+        "log_2 fold change": "1.1",
+        "Adjusted p-value": "2.35952721490258e-8",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'50 uM Enterobactin' vs 'control'",
+        "log_2 fold change": "-1.1",
+        "Adjusted p-value": "3.14985842476644e-8",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'Trichuris muris' vs 'control' in 'mesenteric lymph node'",
+        "log_2 fold change": "1.1",
+        "Adjusted p-value": "1.52277933031915e-7",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSRNOG00000020701",
+        "Species": "'puromycin aminonucleoside; 120 milligram per kilogram' vs 'none' in 'puromycin aminonucleoside; liver' at '6 hour'",
+        "log_2 fold change": "1.1",
+        "Adjusted p-value": "1.70703539592196e-7",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'MG132; 1 micromolar' vs 'DMSO' in 'CHOP-/-'",
+        "log_2 fold change": "1.1",
+        "Adjusted p-value": "3.11968825952296e-7",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'lung adenocarcinoma' vs 'normal' in 'adult'",
+        "log_2 fold change": "1.1",
+        "Adjusted p-value": "0.00000116055929034521",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'HOP-62; adenocarcinoma of lung; P10' vs 'HOP-62; adenocarcinoma of lung; P0'",
+        "log_2 fold change": "1.1",
+        "Adjusted p-value": "0.00000121484326537978",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'cycloheximide; control (ethanol vehicle)' vs 'DMSO control; control (ethanol vehicle)'",
+        "log_2 fold change": "-1.1",
+        "Adjusted p-value": "0.00000280800533899079",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'estradiol' vs 'control'",
+        "log_2 fold change": "1.1",
+        "Adjusted p-value": "0.00000326007037940361",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'epithelium-specific Bcl9; Bcl9l knockout and mutant beta-catenin expression' vs 'wild type'",
+        "log_2 fold change": "1.1",
+        "Adjusted p-value": "0.00000415090905017134",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'RBM20 antisense oligonucleotide' vs 'none' in 'wild type genotype'",
+        "log_2 fold change": "1.1",
+        "Adjusted p-value": "0.00000480242465384646",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'posterior fossa group A ependymoma' vs 'normal'",
+        "log_2 fold change": "1.1",
+        "Adjusted p-value": "0.00000551059008484463",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'EPZ6438; lowest cytotoxic concentration' vs 'DMSO' in 'WSU_DLCL2' at '6 day'",
+        "log_2 fold change": "-1.1",
+        "Adjusted p-value": "0.00000765828722765121",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'5 micromolar; 5-Aza' vs 'vehicle'",
+        "log_2 fold change": "1.1",
+        "Adjusted p-value": "0.0000114068263141389",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'doxycycline; 200 nanogram per milliliter; neoplasm; 12 day' vs 'none; normal; 0 day'",
+        "log_2 fold change": "-1.1",
+        "Adjusted p-value": "0.0000117655814914807",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'786-0; renal adenocarcinoma; P04' vs '786-0; renal adenocarcinoma; P0'",
+        "log_2 fold change": "1.1",
+        "Adjusted p-value": "0.0000285256559261593",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSMUSG00000017146",
+        "Species": "'p19Arf' vs 'eGFP control'",
+        "log_2 fold change": "-1.1",
+        "Adjusted p-value": "0.000052726164827432",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSBTAG00000022520",
+        "Species": "'Trypanosoma Congolense; 21 day' vs 'control; 0 day' in 'spleen; Boran'",
+        "log_2 fold change": "1.1",
+        "Adjusted p-value": "0.0000611255146512712",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "transduction of 'hTERT, HPVE6, HPVE7, SV40t, hRas' vs 'none'",
+        "log_2 fold change": "1.1",
+        "Adjusted p-value": "0.0000772334248332998",
+        "t-statistic": ""
+    },
+    {
+        "Gene ref": "ENSG00000012048",
+        "Species": "'ACO2-V5 overexpression ",
+        "log_2 fold change": null,
+        "Adjusted p-value": null,
+        "t-statistic": null
+    }
+]

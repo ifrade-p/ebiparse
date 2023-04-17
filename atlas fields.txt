@@ -1,0 +1,9 @@
+ATLAS
+EMBL
+ENSPROTEIN
+ENTREZGENE
+GO
+INTERPRO
+REFSEQ
+TAXONOMY
+UNIGENE,UNIPROT,description,domain_source,id,name,organism_part
