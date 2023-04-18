@@ -37,6 +37,7 @@ def parserAtlas(file_name):
             rows.append({
                 "Gene ref": row["Gene"],
                 "Species" : row["Comparison"],
+                "Experiment accesion": row['EExperiment accession']
                 "log_2 fold change": log,
                 "Adjusted p-value" : row["Adjusted p-value"],
                 "t-statistic" : row["t-statistic"]

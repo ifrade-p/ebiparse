@@ -26,7 +26,7 @@ def expression_atlas_api(query_term):
                 for i in range(0,1000):
                     i = 0
                     x= idDict[i]
-                    retrieveurl= f"https://www.ebi.ac.uk/ebisearch/ws/rest/atlas-genes-differential?query={idDict[i]}&fields=ATLAS&format=json"
+                    retrieveurl= f"https://www.ebi.ac.uk/ebisearch/ws/rest/atlas-experiments?query={idDict[i]}&fields=ATLAS&format=json"
                     #&filter=id:{x}
                     ##EMBL,ENTREZGENE,GO,INTERPRO,REFSEQ,TAXONOMY, comparison,EMBL,ENTREZGENE,GO,INTERPRO,REFSEQ,T
                     #print(retrieveurl)
