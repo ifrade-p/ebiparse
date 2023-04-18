@@ -32,10 +32,12 @@ def parserAtlas(file_name):
         reader = csv.DictReader(tsvfile, delimiter='\t')
         rows = []
         for row in reader:
+            if row["log_2 fold change"] != None:
+                log = float(row["log_2 fold change"])
             rows.append({
                 "Gene ref": row["Gene"],
                 "Species" : row["Comparison"],
-                "log_2 fold change": row["log_2 fold change"],
+                "log_2 fold change": log,
                 "Adjusted p-value" : row["Adjusted p-value"],
                 "t-statistic" : row["t-statistic"]
             })

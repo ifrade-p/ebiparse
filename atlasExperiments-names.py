@@ -17,19 +17,18 @@ def expression_atlas_api(query_term):
         ids = response.content.decode()
         idDict = list(ids.split("\n"))
         #print(idDict)
-
         # Save the response JSON to a file
         idfromList = " "
         with open(f"{query_term}.json", "w") as file:
             file.write(ids)
         
         with open(f"{query_term}_info.json", "w") as file:
-                #for i in range(0,100):
+                for i in range(0,1000):
                     i = 0
                     x= idDict[i]
-                    retrieveurl= f"https://www.ebi.ac.uk/ebisearch/ws/rest/atlas-genes-differential?query={idDict[i]}&fields=organism_part,ATLAS,comparison,EMBL,ENTREZGENE,GO,INTERPRO,REFSEQ,TAXONOMY,id,description,name&format=json"
+                    retrieveurl= f"https://www.ebi.ac.uk/ebisearch/ws/rest/atlas-genes-differential?query={idDict[i]}&fields=ATLAS&format=json"
                     #&filter=id:{x}
-                    ##EMBL,ENTREZGENE,GO,INTERPRO,REFSEQ,TAXONOMY
+                    ##EMBL,ENTREZGENE,GO,INTERPRO,REFSEQ,TAXONOMY, comparison,EMBL,ENTREZGENE,GO,INTERPRO,REFSEQ,T
                     #print(retrieveurl)
                     response = requests.get(retrieveurl)
                     retrieve = response.content.decode()
