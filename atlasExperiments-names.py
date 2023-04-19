@@ -7,7 +7,8 @@ import ebisearch
 #The python library is useful for finding possible domains and fields
 
 def expression_atlas_api(query_term):
-    url = f"https://www.ebi.ac.uk/ebisearch/ws/rest/atlas-genes-differential?query={query_term}&size=10000&format=idlist"
+    url = f"https://www.ebi.ac.uk/ebisearch/ws/rest/atlas-genes-differential?query=hgnc_symbol:{query_term}&size=1000&format=idlist"
+    print(url)
     response = requests.get(url)
     # Check if the response was successful
     if response.status_code == 200:
@@ -23,10 +24,9 @@ def expression_atlas_api(query_term):
             file.write(ids)
         
         with open(f"{query_term}_info.json", "w") as file:
-                for i in range(0,1000):
-                    i = 0
+                for i in range(len(idDict)):
                     x= idDict[i]
-                    retrieveurl= f"https://www.ebi.ac.uk/ebisearch/ws/rest/atlas-experiments?query={idDict[i]}&fields=ATLAS&format=json"
+                    retrieveurl= f"https://www.ebi.ac.uk/ebisearch/ws/rest/atlas-experiments?query={x}&fields=ATLAS&format=json"
                     #&filter=id:{x}
                     ##EMBL,ENTREZGENE,GO,INTERPRO,REFSEQ,TAXONOMY, comparison,EMBL,ENTREZGENE,GO,INTERPRO,REFSEQ,T
                     #print(retrieveurl)
