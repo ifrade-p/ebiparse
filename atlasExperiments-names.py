@@ -3,6 +3,9 @@ import json
 from tqdm.auto import tqdm
 #Query can only be a hugo reference now!!!!!!
 #This is a program that uses EBI search to pull some information out of expression atlas
+#It will result in 3 files, 1) containing the ATLAS ids of a hugo_ref, 
+# 2)containing experiment accessions for each ATLAS id
+# 3)  Experiment information for each accession 
 #In order to write the program, I tested queries here: https://www.ebi.ac.uk/ebisearch/documentation/rest-api#examples
 #And used this python library: https://github.com/bebatut/ebisearch
 #The python library is useful for finding possible domains and fields
@@ -20,8 +23,8 @@ def expression_atlas_api(query_term):
         idDict = list(ids.split("\n"))
         #print(idDict)
         # Save the response JSON to a file
-        with open(f"{query_term}.json", "w") as file:
-            file.write(ids)
+        with open(f"{query_term}.json", "w") as file: 
+            file.write(ids) #This file contains the ATLAS IDs of a gene
         with open(f"{query_term}_info.json", "w") as file: #uses ids retrieved to get ATLAS accession
                 experimentList = {}
                 for i in tqdm(range(len(idDict)), desc="first loop"):

@@ -10,8 +10,8 @@ from tqdm.auto import tqdm
 #And used this python library: https://github.com/bebatut/ebisearch
 #The python library is useful for finding possible domains and fields
 
-def expression_atlas_api(query_term):
-    url = f"https://www.ebi.ac.uk/ebisearch/ws/rest/sc-genes?query=hgnc_symbol:{query_term}&size=1000&format=idlist"
+def singlecell_expression_atlas_api(query_term):
+    url = f"https://www.ebi.ac.uk/ebisearch/ws/rest/sc-genes?query={query_term}&size=1000&format=idlist"
     #print(url)
     response = requests.get(url)
     # Check if the response was successful
@@ -23,13 +23,14 @@ def expression_atlas_api(query_term):
         idDict = list(ids.split("\n"))
         #print(idDict)
         # Save the response JSON to a file
-        with open(f"{query_term}.json", "w") as file: 
+        with open(f"{query_term}._sc_json", "w") as file: 
             file.write(ids) #This file contains the ATLAS IDs of a gene
-        with open(f"{query_term}_info.json", "w") as file: #uses ids retrieved to get ATLAS accession
+        with open(f"{query_term}__sc_info.json", "w") as file: #uses ids retrieved to get ATLAS accession
                 experimentList = {}
                 for i in tqdm(range(len(idDict)), desc="first loop"):
                     x= idDict[i]
-                    retrieveurl= f"https://www.ebi.ac.uk/ebisearch/ws/rest/sc-genes?query={x}&size=10000&fields=ATLAS&format=idlist"
+                    print(x)
+                    retrieveurl= f"https://www.ebi.ac.uk/ebisearch/ws/rest/sc-genes/entry/{x}/xref/sc-experiments?fields=id&format=tsv"
                     #&filter=id:{x}
                     ##EMBL,ENTREZGENE,GO,INTERPRO,REFSEQ,TAXONOMY, comparison,EMBL,ENTREZGENE,GO,INTERPRO,REFSEQ,T
                     #print(retrieveurl)
@@ -37,19 +38,21 @@ def expression_atlas_api(query_term):
                     retrieve = response.content.decode()
                     experimentList[i]= retrieve.split("\n")
                     #print(retrieve)
+                    #print(experimentList)
                     json.dump(experimentList[i], file)
-                    """""
-                    json.dump(ebisearch.get_entries( domain="atlas-genes-differential",
-                    entryids= idDict[i], fields="organism_part,ATLAS,comparison,description,domain_source,name,"), file)
-                    """
-        with open(f"{query_term}_acc_info.json", "w") as exfile: #uses ids retrieved to get ATLAS accession
+                    
+                    #json.dump(ebisearch.get_entries( domain="atlas-genes-differential",
+                    #entryids= idDict[i], fields="organism_part,ATLAS,comparison,description,domain_source,name,"), file)
+                   
+        with open(f"{query_term}__sc_acc_info.json", "w") as exfile: #uses ids retrieved to get ATLAS accession
                 exList = {}
                 for i in range(len(experimentList)):
                     experiments= experimentList[i]
+                    #print(experiments)
                     print(len(experiments), " experiment accessions found")
                     for acc in tqdm(experiments, desc= "secondloop"):
                         #print(acc)
-                        experimentsURL= f"https://www.ebi.ac.uk/ebisearch/ws/sc-experiments?query=id:{acc}&fields=id,name,description,celltype,factors,collection,technology,species&format=json"
+                        experimentsURL= f"https://www.ebi.ac.uk/ebisearch/ws/sc-experiments?query={acc}&fields=id,name,description,celltype,factors,collection,technology,species&format=json"
                         exRequest = requests.get(experimentsURL)
                         exList[acc]= exRequest.content.decode()
                 json.dump(exList[acc], exfile)
@@ -58,7 +61,7 @@ def expression_atlas_api(query_term):
                     #print(retrieve)
 
 #print(ebisearch.get_retrievable_fields(domain="atlas-genes-differential"))
-  
-expression_atlas_api("brca1")
+
+singlecell_expression_atlas_api("brca1")
 #url = 'https://www.ebi.ac.uk/ebisearch/ws/rest/atlas-genes-differential?query={id}&size=1000&fields=organism_part,ATLAS&format=json'
 #https://www.ebi.ac.uk/ebisearch/ws/rest/atlas-experiments?query=E-GEOD-66217&fields=description,%20log
