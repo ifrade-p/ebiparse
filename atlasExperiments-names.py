@@ -1,6 +1,6 @@
 import requests
 import json
-import ebisearch
+from tqdm.auto import tqdm
 #Query can only be a hugo reference now!!!!!!
 #This is a program that uses EBI search to pull some information out of expression atlas
 #In order to write the program, I tested queries here: https://www.ebi.ac.uk/ebisearch/documentation/rest-api#examples
@@ -24,7 +24,7 @@ def expression_atlas_api(query_term):
             file.write(ids)
         with open(f"{query_term}_info.json", "w") as file: #uses ids retrieved to get ATLAS accession
                 experimentList = {}
-                for i in range(len(idDict)):
+                for i in tqdm(range(len(idDict)), desc="first loop"):
                     x= idDict[i]
                     retrieveurl= f"https://www.ebi.ac.uk/ebisearch/ws/rest/atlas-experiments?query={x}&size=10000&fields=ATLAS&format=idlist"
                     #&filter=id:{x}
@@ -44,12 +44,12 @@ def expression_atlas_api(query_term):
                 for i in range(len(experimentList)):
                     experiments= experimentList[i]
                     print(len(experiments), " experiment accessions found")
-                    for acc in experiments:
+                    for acc in tqdm(experiments, desc= "secondloop"):
                         #print(acc)
                         experimentsURL= f"https://www.ebi.ac.uk/ebisearch/ws/rest/atlas-experiments?query={acc}&fields=name,description,tissue,TAXONOMY,disease,organism_part,normalized_connections&format=json"
                         exRequest = requests.get(experimentsURL)
                         exList[acc]= exRequest.content.decode()
-                        json.dump(exList[acc], exfile)
+                json.dump(exList[acc], exfile)
                         #print(exList[acc])
                         #print(exList[acc])
                     #print(retrieve)
