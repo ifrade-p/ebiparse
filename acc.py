@@ -28,30 +28,12 @@ def get_atlas_files(url):
     atlasFolders = [x.split()[-1] for x in atlasFolders if x.startswith("d")]
     #print(atlasFolders)
     #This for loop gets all the txt files in each folder.
-    for folder in tqdm(atlasFolders):
-        #ftp.cwd(folder)
-        #print(folder)
-        # get a list of all the txt files in the current folder
-        if folder.startswith("E-"):
-            files = []
-            ftp.retrlines("NLST", files.append)
-            txt_files = [f for f in files if f.endswith("idf.txt")]
-            count=0
-            experimentlist = {}
-            # download each txt file to the atlas_files folder
-            for txt_file in txt_files:
-                #with open(os.path.join("atlas_files", txt_file), "wb") as f:
-                #   ftp.retrbinary("RETR " + txt_file, f.write)
-                    experimentACC= txt_file.split(".")[0]
-                    experimentlist[count]= experimentACC
-                    #print(experimentlist[count])
-                    count+=1
+    count = 0
+    with open("atlas_experiments.txt", "w") as fp:
+        for folder in tqdm(atlasFolders):
+            if folder.startswith("E-"):
+                fp.write(folder+"\n")
 
-    with open("atlas_experiments.json", "w") as fp:
-        for i in range(len(experimentlist)):
-            json.dump(experimentlist[i], fp)
-
-        ftp.cwd("..")
     ftp.quit()
     print("Done!")
 
