@@ -31,7 +31,7 @@ def singlecell_expression_atlas_api(query_term):
                 names = []
                 for i in range(len(idDict)):
                     x= idDict[i]
-                    print(x)
+                    #print(x)
                     retrieveurl= f"https://www.ebi.ac.uk/ebisearch/ws/rest/sc-genes/entry/{x}/xref/sc-experiments?fields=name&size=100&format=json"
                     #&filter=id:{x}
                     ##EMBL,ENTREZGENE,GO,INTERPRO,REFSEQ,TAXONOMY, comparison,EMBL,ENTREZGENE,GO,INTERPRO,REFSEQ,T
@@ -52,10 +52,10 @@ def singlecell_expression_atlas_api(query_term):
                 exList = {}
                 for i in range(len(names)):
                     acc= names[i]
-                    experimentsURL= f"https://www.ebi.ac.uk/ebisearch/ws/sc-experiments?query={acc}&fields=id,name,description,celltype,factors,collection,technology,species&format=json"
+                    experimentsURL= f"https://www.ebi.ac.uk/ebisearch/ws/rest/sc-experiments?query=E-ENAD-13&size=100&fields=description,celltype,factors,collection,technology,species&format=json"
                     exRequest = requests.get(experimentsURL)
-                    x= exRequest.content.decode()
-                    exList[acc]= x
+                    test= exRequest.content.decode()
+                    exList[acc]= test
                     json.dump(exList[acc], exfile)
                         #print(exList[acc])
                         #print(exList[acc])
