@@ -1,6 +1,7 @@
 import requests
 import json
 from tqdm.auto import tqdm
+from urllib.request import urlopen
 #Query can only be a hugo reference now!!!!!!
 #This is a program that uses EBI search to pull some information out of single cell expression atlas
 #It will result in 3 files, 1) containing the ATLAS ids of a hugo_ref, 
@@ -27,36 +28,35 @@ def singlecell_expression_atlas_api(query_term):
             file.write(ids) #This file contains the ATLAS IDs of a gene
         with open(f"{query_term}__sc_info.json", "w") as file: #uses ids retrieved to get ATLAS accession
                 experimentList = {}
-                for i in tqdm(range(len(idDict)), desc="first loop"):
+                names = []
+                for i in range(len(idDict)):
                     x= idDict[i]
                     print(x)
-                    retrieveurl= f"https://www.ebi.ac.uk/ebisearch/ws/rest/sc-genes/entry/{x}/xref/sc-experiments?fields=id&format=tsv"
+                    retrieveurl= f"https://www.ebi.ac.uk/ebisearch/ws/rest/sc-genes/entry/{x}/xref/sc-experiments?fields=name&size=100&format=json"
                     #&filter=id:{x}
                     ##EMBL,ENTREZGENE,GO,INTERPRO,REFSEQ,TAXONOMY, comparison,EMBL,ENTREZGENE,GO,INTERPRO,REFSEQ,T
                     #print(retrieveurl)
                     response = requests.get(retrieveurl)
-                    retrieve = response.content.decode()
-                    experimentList[i]= retrieve.split("\n")
-                    #print(retrieve)
-                    #print(experimentList)
-                    json.dump(experimentList[i], file)
-                    
+                    data = response.json()
+                    #print(data)
+
+                    for entry in data["entries"]:
+                         for reference in entry["references"]:
+                            names.extend(reference['fields'].get('name', {}))
+                json.dump(names, file)
+                print(len(names))
                     #json.dump(ebisearch.get_entries( domain="atlas-genes-differential",
                     #entryids= idDict[i], fields="organism_part,ATLAS,comparison,description,domain_source,name,"), file)
                    
         with open(f"{query_term}__sc_acc_info.json", "w") as exfile: #uses ids retrieved to get ATLAS accession
                 exList = {}
-                for i in range(len(experimentList)):
-                    experiments= experimentList[i]
-                    #print(experiments)
-                    print(len(experiments), " experiment accessions found")
-                    for acc in tqdm(experiments, desc= "secondloop"):
-                        print(acc)
-                        experimentsURL= f"https://www.ebi.ac.uk/ebisearch/ws/sc-experiments?query={acc}&fields=id,name,description,celltype,factors,collection,technology,species&format=json"
-                        exRequest = requests.get(experimentsURL)
-                        x= exRequest.content.decode()
-                        exList[acc]= x
-                json.dump(exList[acc], exfile)
+                for i in range(len(names)):
+                    acc= names[i]
+                    experimentsURL= f"https://www.ebi.ac.uk/ebisearch/ws/sc-experiments?query={acc}&fields=id,name,description,celltype,factors,collection,technology,species&format=json"
+                    exRequest = requests.get(experimentsURL)
+                    x= exRequest.content.decode()
+                    exList[acc]= x
+                    json.dump(exList[acc], exfile)
                         #print(exList[acc])
                         #print(exList[acc])
                     #print(retrieve)
