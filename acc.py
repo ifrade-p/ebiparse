@@ -29,7 +29,8 @@ def get_atlas_files(url):
     #print(atlasFolders)
     #This for loop gets all the txt files in each folder.
     count = 0
-    with open("atlas_experiments.txt", "w") as fp:
+    atlasFolders = [x.split()[-1] for x in atlasFolders if x.startswith("d")]
+    with open("atlas_experiments_x.txt", "w") as fp:
         for folder in tqdm(atlasFolders):
             if folder.startswith("E-"):
                 fp.write(folder+"\n")

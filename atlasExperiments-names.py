@@ -51,8 +51,9 @@ def expression_atlas_api(query_term):
                         #print(acc)
                         experimentsURL= f"https://www.ebi.ac.uk/ebisearch/ws/rest/atlas-experiments?query={acc}&fields=name,description,tissue,TAXONOMY,disease,organism_part,normalized_connections&format=json"
                         exRequest = requests.get(experimentsURL)
-                        exList[acc]= exRequest.content.decode()
-                json.dump(exList[acc], exfile)
+                        x= exRequest.content.decode()
+                        exList[acc]= x
+                json.dump(exList, exfile)
                         #print(exList[acc])
                         #print(exList[acc])
                     #print(retrieve)

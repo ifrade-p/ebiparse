@@ -51,10 +51,11 @@ def singlecell_expression_atlas_api(query_term):
                     #print(experiments)
                     print(len(experiments), " experiment accessions found")
                     for acc in tqdm(experiments, desc= "secondloop"):
-                        #print(acc)
+                        print(acc)
                         experimentsURL= f"https://www.ebi.ac.uk/ebisearch/ws/sc-experiments?query={acc}&fields=id,name,description,celltype,factors,collection,technology,species&format=json"
                         exRequest = requests.get(experimentsURL)
-                        exList[acc]= exRequest.content.decode()
+                        x= exRequest.content.decode()
+                        exList[acc]= x
                 json.dump(exList[acc], exfile)
                         #print(exList[acc])
                         #print(exList[acc])

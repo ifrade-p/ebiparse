@@ -26,33 +26,32 @@ def get_atlas_files(url):
     atlasFolders = []
     ftp.retrlines("LIST", atlasFolders.append)
     atlasFolders = [x.split()[-1] for x in atlasFolders if x.startswith("d")]
+    atlasFolders = [f for f in atlasFolders if f.startswith("E-")]
     #print(atlasFolders)
     #This for loop gets all the txt files in each folder.
-    for folder in tqdm(atlasFolders):
-        #ftp.cwd(folder)
-        #print(folder)
-        # get a list of all the txt files in the current folder
-        if folder.startswith("E-"):
-            files = []
-            ftp.retrlines("NLST", files.append)
-            txt_files = [f for f in files if f.endswith("idf.txt")]
-            count=0
-            experimentlist = {}
-            # download each txt file to the atlas_files folder
-            for txt_file in txt_files:
-                #with open(os.path.join("atlas_files", txt_file), "wb") as f:
-                #   ftp.retrbinary("RETR " + txt_file, f.write)
-                    experimentACC= txt_file.split(".")[0]
-                    experimentlist[count]= experimentACC
-                    #print(experimentlist[count])
-                    count+=1
+    fp = open("atlas_experiments.txt", "a") #this file will contain list of experiments
+    for i in tqdm(range(len(atlasFolders))):
+        folder = atlasFolders[i]
+        #print("\n",folder)
+        ftp.cwd(folder)        # get a list of all the txt files in the current folder
+        files = []
+        ftp.retrlines("NLST", files.append)
+        txt_files = [f for f in files if (f.endswith("idf.txt"))]
 
-    with open("atlas_experiments.json", "w") as fp:
-        for i in range(len(experimentlist)):
-            json.dump(experimentlist[i], fp)
-
+        # download each txt file to the atlas_files folder
+        for txt_file in (txt_files):
+            if not os.path.exists("atlas_files\\"+txt_file):
+                print(txt_file)
+                with open(os.path.join("atlas_files", txt_file), "wb") as f:
+                    ftp.retrbinary("RETR " + txt_file, f.write)
+                    #print(txt_file)
+                    f.close()
+            fp.write("\n"+folder)
+        #print("\n"+folder)
         ftp.cwd("..")
+
     ftp.quit()
+    fp.close()
     print("Done!")
 
 get_atlas_files('http://ftp.ebi.ac.uk/pub/databases/microarray/data/atlas/experiments/')
