@@ -5,7 +5,7 @@ import os, sys, os.path
 import urllib.request
 from urllib.parse import urlparse
 from tqdm.auto import tqdm
-#This program goes to this directory: http://ftp.ebi.ac.uk/pub/databases/microarray/data/atlas/experiments/
+#This program goes to this directory: http://ftp.ebi.ac.uk/pub/databases/microarray/data/atlas/sc-experiments/
 #and pulls files that end in .txt
 #RDF is the last folder checked. 
 """
@@ -20,8 +20,8 @@ def get_atlas_files(url):
     ftp.login()
     ftp.cwd(path)
     folders = ftp.nlst()
-    if not os.path.exists("atlas_files"): #create a directory
-        os.mkdir("atlas_files")
+    if not os.path.exists("sc-atlas_files"): #create a directory
+        os.mkdir("sc-atlas_files")
     #get subfolders:
     atlasFolders = []
     ftp.retrlines("LIST", atlasFolders.append)
@@ -29,8 +29,9 @@ def get_atlas_files(url):
     atlasFolders = [f for f in atlasFolders if f.startswith("E-")]
     currentfiles = []
     newfiles = []
-    with open("atlas_experiments_current.txt", "r") as current:
-        currentfiles = [line.rstrip('\n') for line in current]
+    if os.path.isfile("sc-atlas_experiments_current.txt"):
+        with open("sc-atlas_experiments_current.txt", "r") as current:
+            currentfiles = [line.rstrip('\n') for line in current]
 
     for i in range(len(atlasFolders)):
         if atlasFolders[i] not in currentfiles:
@@ -53,7 +54,7 @@ def get_atlas_files(url):
             # download each txt file to the atlas_files folder
             for txt_file in (txt_files):
                 if not os.path.exists(txt_file):
-                    with open(os.path.join("atlas_files", txt_file), "wb") as f:
+                    with open(os.path.join("sc-atlas_files", txt_file), "wb") as f:
                         ftp.retrbinary("RETR " + txt_file, f.write)
                         #print(txt_file)
                         f.close()
@@ -73,4 +74,4 @@ def get_atlas_files(url):
     fp.close()
     print("Done!")
 
-get_atlas_files('http://ftp.ebi.ac.uk/pub/databases/microarray/data/atlas/experiments/')
+get_atlas_files('http://ftp.ebi.ac.uk/pub/databases/microarray/data/atlas/sc_experiments/')
