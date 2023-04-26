@@ -18,7 +18,7 @@ It will result in 3 files,
 2) containing experiment accessions
 3)  Experiment information for each accession 
 
-### parserAtlas('<file.tsv>')
+### parserAtlas('<<file.tsv>>')
 #### AtlasTSVtoJSON.py
 This is a script to parse the .tsv file outputed by Expression ATLAS. 
 Input files can be gather here: https://www.ebi.ac.uk/gxa/home
