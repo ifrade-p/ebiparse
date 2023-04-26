@@ -5,9 +5,10 @@ import os, sys, os.path
 import urllib.request
 from urllib.parse import urlparse
 from tqdm.auto import tqdm
-#This program goes to this directory: http://ftp.ebi.ac.uk/pub/databases/microarray/data/atlas/sc-experiments/
+#This program goes to this directory: http://ftp.ebi.ac.uk/pub/databases/microarray/data/atlas/experiments/
 #and pulls files that end in idf.txt
-#RDF is the last folder checked. 
+#it should ignore files that don't start with "E-"
+
 """
 Things to address:
 should the txt be what's pulled? 
@@ -23,16 +24,17 @@ def get_sc_atlas_files(url):
     if not os.path.exists("sc-atlas_files"): #create a directory
         os.mkdir("sc-atlas_files")
     #get subfolders:
+    atlasFiles = []
     atlasFolders = []
     ftp.retrlines("LIST", atlasFolders.append)
     atlasFolders = [x.split()[-1] for x in atlasFolders if x.startswith("d")]
     atlasFolders = [f for f in atlasFolders if f.startswith("E-")]
     currentfiles = []
     newfiles = []
-    addedFiles = [] #not all new files are accessible
     if os.path.isfile("sc-atlas_experiments_current.txt"):
         with open("sc-atlas_experiments_current.txt", "r") as current:
             currentfiles = [line.rstrip('\n') for line in current]
+
     for i in range(len(atlasFolders)):
         if atlasFolders[i] not in currentfiles:
              newfiles.append(atlasFolders[i])
@@ -45,7 +47,7 @@ def get_sc_atlas_files(url):
     #print(atlasFolders)
     #This for loop gets all the txt files in each folder.
     fp = open("atlas_experiments.txt", "a") #this file will contain list of experiments
-    for i in tqdm(range(len(newfiles)), "txt retrieval"):
+    for i in tqdm(range(len(newfiles)), desc="txt retrieval"):
         folder = newfiles[i]
         #print(folder)
         try:
@@ -58,7 +60,7 @@ def get_sc_atlas_files(url):
                 if not os.path.exists(txt_file):
                     with open(os.path.join("sc-atlas_files", txt_file), "wb") as f:
                         ftp.retrbinary("RETR " + txt_file, f.write)
-                        addedFiles.append(txt_file)
+                        atlasFiles.append(txt_file)
                         #print(txt_file)
                         f.close()
             ftp.cwd("..")
@@ -71,18 +73,25 @@ def get_sc_atlas_files(url):
         #print("\n",folder)
         
         #print("\n"+folder)
-    with open("sc-atlas_experiments_current.txt", "a") as fileslist:
-        for x in tqdm(addedFiles):
+    
+    print("There are", unaccessibleFilesCount, " inaccessible files")
+    ftp.quit()
+    fp.close()
+    with open("sc_atlas_experiments_current.txt", "a") as fileslist:
+        for x in tqdm(atlasFiles):
                 x= x.split(".")[0]
                 fileslist.write(x+"\n")
     fileslist.close()
-    with open("sc-atlas_experiments_inaccessible.txt", "w") as iaf:
+    with open("sc_atlas_experiments_inaccessible.txt", "w") as iaf:
         for x in tqdm(unaccessibleFiles):
                 iaf.write(x+"\n")
     iaf.close()
-    print("There are", unaccessibleFilesCount, "inaccessible files")
-    ftp.quit()
-    fp.close()
+    archivedfiles = 0
+    for i in range(len(newfiles)):
+        if newfiles[i] not in unaccessibleFiles:
+             archivedfiles+=1
+             #print(newfiles[i])
+    print("There are ", archivedfiles, "archived files.")
     print("Done!")
 
 get_sc_atlas_files('http://ftp.ebi.ac.uk/pub/databases/microarray/data/atlas/sc_experiments/')

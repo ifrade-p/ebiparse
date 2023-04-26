@@ -7,7 +7,8 @@ from urllib.parse import urlparse
 from tqdm.auto import tqdm
 #This program goes to this directory: http://ftp.ebi.ac.uk/pub/databases/microarray/data/atlas/experiments/
 #and pulls files that end in idf.txt
-#RDF is the last folder checked. 
+#it should ignore files that don't start with "E-"
+
 """
 Things to address:
 should the txt be what's pulled? 

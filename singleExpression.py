@@ -25,14 +25,13 @@ def singlecell_expression_atlas_api(query_term):
         print(len(idDict), "Single Cell ATLAS ids retrieved \n")
         #print(idDict)
         # Save the response JSON to a file
-        with open(f"{query_term}._sc_json", "w") as file: 
+        with open(f"{query_term}_sc_json", "w") as file: 
             file.write(ids) #This file contains the ATLAS IDs of a gene
-        with open(f"{query_term}__sc_info.json", "w") as file: #uses ids retrieved to get ATLAS accession
+        with open(f"{query_term}_sc_info.json", "w") as file: #uses ids retrieved to get ATLAS accession
                 experimentList = {}
                 names = []
                 for i in tqdm(range(len(idDict)), desc="exp ids"):
-                    x= idDict[i]
-                    #print(x)
+                    x= str(idDict[i])
                     retrieveurl= f"https://www.ebi.ac.uk/ebisearch/ws/rest/sc-genes/entry/{x}/xref/sc-experiments?fields=name&size=100&format=json"
                     #&filter=id:{x}
                     ##EMBL,ENTREZGENE,GO,INTERPRO,REFSEQ,TAXONOMY, comparison,EMBL,ENTREZGENE,GO,INTERPRO,REFSEQ,T
@@ -52,13 +51,14 @@ def singlecell_expression_atlas_api(query_term):
         with open(f"{query_term}__sc_acc_info.json", "w") as exfile: #uses ids retrieved to get ATLAS accession
                 exList = {}
                 for i in tqdm(range(len(names)), desc= "exp info"):
-                    acc= names[i]
+                    acc= str(names[i])
                     #print(acc)
                     experimentsURL= f"https://www.ebi.ac.uk/ebisearch/ws/rest/sc-experiments?query={acc}&size=100&fields=description,celltype,factors,collection,technology,species,&format=json"
                     exRequest = requests.get(experimentsURL)
                     test= exRequest.content.decode()
                     exList[acc]= test
                     json.dump(exList[acc], exfile)
+                    print("experiment info written to", exfile)
                         #print(exList[acc])
                         #print(exList[acc])
                     #print(retrieve)
