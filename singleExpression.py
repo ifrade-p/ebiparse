@@ -4,8 +4,8 @@ from tqdm.auto import tqdm
 from urllib.request import urlopen
 #This is a program that uses EBI search to pull some information out of single cell expression atlas
 #This program uses cross-referencing of two domains: 
-#It will result in 3 files, 1) containing the ATLAS ids of a query, 
-# 2)containing experiment accessions for each ATLAS id
+#It will result in 3 files, 1) containing the SC ATLAS ids of a query, 
+# 2)containing experiment accessions
 # 3)  Experiment information for each accession 
 #In order to write the program, I tested queries here: https://www.ebi.ac.uk/ebisearch/documentation/rest-api#examples
 #And used this python library: https://github.com/bebatut/ebisearch

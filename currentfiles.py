@@ -20,4 +20,13 @@ def get_atlas_files():
                 x= x.split(".")[0]
                 fp.write(x+"\n")
     print("Done!")
+def get_SC_atlas_files():
+    folder = os.listdir("sc-atlas_files")
+    with open("sc-atlas_experiments_current.txt", "w") as fp:
+        for x in tqdm(folder):
+            if x.startswith("E-"):
+                x= x.split(".")[0]
+                fp.write(x+"\n")
+    print("Done!")
 get_atlas_files()
+get_SC_atlas_files()

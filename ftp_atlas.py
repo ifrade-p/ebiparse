@@ -6,7 +6,7 @@ import urllib.request
 from urllib.parse import urlparse
 from tqdm.auto import tqdm
 #This program goes to this directory: http://ftp.ebi.ac.uk/pub/databases/microarray/data/atlas/experiments/
-#and pullss files that end in .txt
+#and pulls files that end in idf.txt
 #RDF is the last folder checked. 
 """
 Things to address:
@@ -73,7 +73,7 @@ def get_atlas_files(url):
         
         #print("\n"+folder)
     
-    print(unaccessibleFilesCount, " inaccessible files")
+    print("There are", unaccessibleFilesCount, " inaccessible files")
     ftp.quit()
     fp.close()
     with open("atlas_experiments_current.txt", "a") as fileslist:

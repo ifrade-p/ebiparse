@@ -31,13 +31,16 @@ def parserAtlas(file_name):
     with open(file_name, 'r', encoding="utf8") as tsvfile:
         reader = csv.DictReader(tsvfile, delimiter='\t')
         rows = []
+        log = 0.000
         for row in reader:
             if row["log_2 fold change"] != None:
                 log = float(row["log_2 fold change"])
+            else:
+                print("log contains string")
             rows.append({
                 "Gene ref": row["Gene"],
                 "Species" : row["Comparison"],
-                "Experiment accesion": row['EExperiment accession']
+                "Experiment accesion": row['Experiment accession'],
                 "log_2 fold change": log,
                 "Adjusted p-value" : row["Adjusted p-value"],
                 "t-statistic" : row["t-statistic"]
