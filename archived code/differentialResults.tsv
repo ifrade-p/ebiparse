@@ -1,0 +1,647 @@
+Gene	Species	Experiment accession	Comparison	log_2 fold change	Adjusted p-value	t-statistic
+AT4G21070	arabidopsis thaliana	E-GEOD-74692	'15 day' vs '7 day' in 'wild type'	-9.6	2.78774698958865e-16	
+AT4G21070	arabidopsis thaliana	E-MTAB-5103	'drought environment' vs 'normal watering' in 'vtc2 mutant'	-5.7	1.28469667634632e-15	
+ENSMUSG00000017146	mus musculus	E-MTAB-8366	'adipose tissue specific Cnot1 knockout' vs 'wild type phenotype' in 'brown adipose tissue'	5.6	3.9312273050928e-44	
+AT4G21070	arabidopsis thaliana	E-GEOD-74692	'12 day' vs '7 day' in 'wild type'	-5.6	1.4458589927095e-34	
+AT4G21070	arabidopsis thaliana	E-GEOD-9728	'csn5 (csn5a-2 csn5b) mutant' vs 'wild type' in 'light'	5.4	0.00000598135911167763	
+ENSG00000012048	homo sapiens	E-GEOD-66217	'apical radial glial cell' vs 'neuron'	5.3	7.79633446540714e-33	
+AT4G21070	arabidopsis thaliana	E-GEOD-9728	'csn3-1 mutant' vs 'wild type' in 'light'	5.3	2.46331103951174e-11	
+ENSG00000012048	homo sapiens	E-MTAB-6865	'injected in NSG mouse' vs 'none' in 'none'	5.2	1.08268662326446e-259	
+ENSG00000012048	homo sapiens	E-MTAB-6865	'injected in NSG-HLA-A2/HHD mouse' vs 'none' in 'none'	5.2	7.46655366609303e-222	
+AT4G21070	arabidopsis thaliana	E-GEOD-9728	'csn3-1 mutant' vs 'wild type' in 'dark'	5.2	0.00000442528550940971	
+AT4G21070	arabidopsis thaliana	E-GEOD-74692	'13 day' vs '7 day' in 'wild type'	-5	1.12153183625751e-29	
+ENSG00000012048	homo sapiens	E-GEOD-66217	'outer radial glial cell' vs 'neuron'	4.9	2.65529725024064e-35	
+AT4G21070	arabidopsis thaliana	E-MTAB-5103	'drought environment' vs 'normal watering' in 'wild type genotype'	-4.8	3.27892605775425e-20	
+AT4G21070	arabidopsis thaliana	E-GEOD-9728	'csn5 (csn5a-2 csn5b) mutant' vs 'wild type' in 'dark'	4.8	6.43758513197309e-7	
+ENSG00000012048	homo sapiens	E-MTAB-4687	'T-helper 2 polarising' at '5 days' vs 'no stimulus'	4.8	0.0000735765700734897	
+AT4G21070	arabidopsis thaliana	E-GEOD-25067	'5-aza-2-deoxycytidine 20 milligram per liter' vs 'control' in 'wild type'	4.7	0.0000143157457532564	
+ENSG00000012048	homo sapiens	E-MTAB-4687	'T-helper 1 polarising' at '5 days' vs 'no stimulus'	4.7	0.000168069505811357	
+AT4G21070	arabidopsis thaliana	E-GEOD-9728	'csn4-1 mutant' vs 'wild type' in 'dark'	4.5	2.55972315988157e-7	
+AT4G21070	arabidopsis thaliana	E-GEOD-9728	'csn4-1 mutant' vs 'wild type' in 'light'	4.5	0.000014566527670275	
+ENSG00000012048	homo sapiens	E-MTAB-4687	'T-helper 2 polarising' at '1 day' vs 'no stimulus'	4.5	0.0000663715525517909	
+AT4G21070	arabidopsis thaliana	E-CURD-29	'rhd6 WER::GFP' vs 'wild type genotype'	4.5	0.0281513407453288	
+AT4G21070	arabidopsis thaliana	E-MTAB-8478	'ANAC017 OEa' vs 'wild type genotype' at '3 day'	-4.4	1.30625785465786e-8	
+ENSG00000012048	homo sapiens	E-MTAB-4687	'T-helper 1 polarising' at '1 day' vs 'no stimulus'	4.4	0.000111049011310731	
+AT4G21070	arabidopsis thaliana	E-MTAB-5103	'drought environment' vs 'normal watering' in 'vtc2.5 mutant'	-4.3	8.63276092219459e-25	
+ENSMUSG00000017146	mus musculus	E-MTAB-7561	'high fat diet; 30 degree celsius' vs 'chow; 23 degree celsius' in 'brown adipose tissue'	4.3	4.19695443661407e-23	
+AT4G21070	arabidopsis thaliana	E-GEOD-5529	'E2Fa-DPa overexpression' vs 'wild type'	4.3	0.0000201613687582219	
+ENSMUSG00000017146	mus musculus	E-GEOD-16779	'conditional Kras and p53 mutation induced soft tissue sarcoma' vs 'normal'	4.2	2.35120715737764e-16	
+ENSG00000012048	homo sapiens	E-MTAB-7938	'CRISPR-Cas9 induced GNRH1 reporter; 27 day' vs 'wild type genotype; 20 day'	-4	7.26020817883946e-37	
+ENSMUSG00000017146	mus musculus	E-MEXP-2282	'Kit ligand' vs 'none' in 'wasp knockout'	3.9	5.21607954457977e-10	
+AT4G21070	arabidopsis thaliana	E-TABM-1009	'RBRcs mutant' vs 'wild type' in 'sucrose; 1 percent'	3.9	1.49741775053114e-8	
+ENSMUSG00000017146	mus musculus	E-GEOD-30485	'CCl4 and diethylnitrosamine' vs 'none' in 'wild type genotype'	3.8	9.41011424067523e-9	
+ENSMUSG00000017146	mus musculus	E-GEOD-50813	'transgenic C3(1)-SV40Tag; 20 week' vs 'wild type; 8 week'	3.8	0.0000926639473324316	
+ENSG00000012048	homo sapiens	E-MTAB-6865	'CD3/CD28 beads' vs 'none' in 'none'	3.7	2.62115574881524e-183	
+ENSMUSG00000017146	mus musculus	E-MTAB-7509	'3D culture' vs '2D culture'	-3.7	7.48754091504368e-97	
+ENSG00000012048	homo sapiens	E-MTAB-9209	'5-amino-1-(5-phospho-D-ribosyl)imidazole-4-carboxamide; 0.4 millimolar' vs 'none'	-3.7	2.63174465180508e-76	
+ENSG00000012048	homo sapiens	E-GEOD-39091	'Nutlin; 5 micromolar' vs 'DMSO; 0.065 percent' in 'GL2'	-3.7	8.79803542159534e-10	
+ENSG00000012048	homo sapiens	E-GEOD-12198	'NKAES-derived NK cells' vs 'primary human NK cells' in 'none'	3.7	2.37911212122201e-7	
+ENSMUSG00000017146	mus musculus	E-GEOD-19004	'Rb^{lox/lox}; p130^{lox/lox}; p107+/-' vs 'wild type'	3.7	0.0000010105624311666	
+ENSMUSG00000017146	mus musculus	E-MTAB-1035	'adult definitive erythroid cell' vs 'primitive erythroid cell' in 'mix of orthochromatic and polychromatophilic erythroblast'	3.7	0.0000134573958425896	
+ENSMUSG00000017146	mus musculus	E-MTAB-6992	'myeloid lineage restricted progenitor cell' vs 'long term hematopoietic stem cell' in 'Elp3fl/fl'	3.6	1.79902819120742e-26	
+ENSG00000012048	homo sapiens	E-MTAB-7453	'PLX4720; 1 micromolar' vs 'none'	-3.6	4.23600497809797e-26	
+ENSMUSG00000017146	mus musculus	E-MTAB-9540	'21 percent oxygen, 37 degree Celsius, 10 percent serum' vs 'none'	3.6	4.62558567305589e-23	
+ENSGALG00000002781	gallus gallus	E-GEOD-114103	'non-laying' vs 'laying'	3.6	2.22895957041282e-14	
+ENSMUSG00000017146	mus musculus	E-GEOD-51883	'3 day; myogenesis differentiation' vs ' 0 day; control' in '2C12-pMirn0'	-3.6	3.89025358544739e-11	
+ENSMUSG00000017146	mus musculus	E-GEOD-65487	'neuron' vs 'differentiating progenitor'	-3.5	6.00080725119335e-102	
+ENSMUSG00000017146	mus musculus	E-GEOD-51883	'6 day; osteogenesis differentiation' vs ' 0 day; control' in '2C12-pMirn378'	-3.5	3.04642123555506e-10	
+ENSMUSG00000017146	mus musculus	E-MTAB-8185	'ABIN1[D485N] knock-in' vs 'wild type genotype' in 'classical monocyte'	3.5	2.09471566492178e-8	
+ENSMUSG00000017146	mus musculus	E-GEOD-51883	'6 day; osteogenesis differentiation' vs ' 0 day; control' in '2C12-pMirn0'	-3.4	1.56458939821172e-9	
+ENSG00000012048	homo sapiens	E-GEOD-21837	'cells activated for 72 hr by adding PHA-L' vs 'control'	3.4	5.57402284007377e-8	
+AT4G21070	arabidopsis thaliana	E-TABM-1009	'RBRcs mutant' vs 'wild type' in 'none'	3.4	0.00000725395878305378	
+ENSG00000012048	homo sapiens	E-GEOD-12198	'low dose IL2' vs 'none' in 'primary human NK cells'	3.4	0.0000134041351256076	
+AT4G21070	arabidopsis thaliana	E-GEOD-19252	'AtATM3 mutant' vs 'wild type'	-3.4	0.0000348256224784496	
+ENSG00000012048	homo sapiens	E-GEOD-52194	'HER2 Positive Breast Carcinoma; breast carcinoma' vs 'normal'	3.3	1.69992567679153e-7	
+ENSMUSG00000017146	mus musculus	E-GEOD-47401	'postnatal >1 year; hindlimb' vs 'embryonic day 17.5; whole forelimb and hindlimb'	-3.3	1.70851199725103e-7	
+ENSG00000012048	homo sapiens	E-GEOD-12198	'high dose IL2' vs 'none' in 'primary human NK cells'	3.3	0.00001249118871508	
+ENSMUSG00000017146	mus musculus	E-MTAB-9275	'lipopolysaccharide; 10 nanogram per milliliter' vs 'none' in 'Hoxb8-FL; wild type genotype'	-3.3	0.000290635332087089	
+ENSMUSG00000017146	mus musculus	E-GEOD-6085	'recombinant human interleukin-2; 100 unit per milliliter; 16 hour' vs 'control; 0 hour'	3.3	0.00205472838257555	
+ENSMUSG00000017146	mus musculus	E-MTAB-6381	'α-GalCer; 2 microgram' vs 'none' in 'Cd1d homozyous knockout'	3.1	9.17714603276116e-64	
+ENSMUSG00000017146	mus musculus	E-MTAB-9540	'21 percent oxygen, 37 degree Celsius, no serum' vs 'none'	3.1	4.3274468549647e-15	
+ENSG00000012048	homo sapiens	E-GEOD-48433	'NCI-H460; large cell lung carcinoma; P01' vs 'NCI-H460; large cell lung carcinoma; P0'	3.1	2.28605244462522e-11	
+ENSMUSG00000017146	mus musculus	E-MEXP-2282	'Kit ligand' vs 'none' in 'wild type'	3.1	9.72445859149151e-11	
+ENSMUSG00000017146	mus musculus	E-GEOD-51883	'6 day; myogenesis differentiation' vs ' 0 day; control' in '2C12-pMirn0'	-3.1	1.86452882645064e-9	
+AT4G21070	arabidopsis thaliana	E-MTAB-8478	'ANAC017 OEa' vs 'wild type genotype' at '1 day'	-3.1	7.14914961088041e-9	
+ENSMUSG00000017146	mus musculus	E-MTAB-9624	'PTEN null, P53-/-' vs 'wild type genotype'	3.1	0.00000515133886083599	
+ENSMUSG00000017146	mus musculus	E-MTAB-9275	'lipopolysaccharide; 10 nanogram per milliliter and SGC-CBP30; 10 nanogram per milliliter' vs 'none' in 'primary cell line; wild type genotype'	-3.1	0.00000568620677753316	
+ENSMUSG00000017146	mus musculus	E-GEOD-30485	'antibiotics, CCl4 and diethylnitrosamine' vs 'none' in 'wild type genotype'	3.1	0.00000699990158145627	
+ENSMUSG00000017146	mus musculus	E-GEOD-47401	'postnatal 2-3 month; hindlimb' vs 'embryonic day 17.5; whole forelimb and hindlimb'	-3.1	0.000124196279794904	
+ENSMUSG00000017146	mus musculus	E-MTAB-1035	'fetal definitive erythroid cell' vs 'primitive erythroid cell' in 'mix of orthochromatic and polychromatophilic erythroblast'	3.1	0.00035282271142388	
+AT4G21070	arabidopsis thaliana	E-GEOD-74692	'10 day' vs '7 day' in 'wild type'	-3	1.07713341228455e-27	
+ENSMUSG00000017146	mus musculus	E-GEOD-51883	'6 day; myogenesis differentiation' vs ' 0 day; control' in '2C12-pMirn378'	-3	4.92634181758227e-10	
+ENSMUSG00000017146	mus musculus	E-GEOD-51883	'3 day; myogenesis differentiation' vs ' 0 day; control' in '2C12-pMirn378'	-3	5.05010910281857e-10	
+ENSMUSG00000017146	mus musculus	E-GEOD-38257	'carcinoma' vs 'normal'	3	1.1384170255644e-9	
+ENSG00000012048	homo sapiens	E-MTAB-339	'p-fluorosuberoylanilide hydroxamic acid (FSAHA); 10 micromolar' vs 'none; 0 micromolar'	-3	2.81561133622658e-9	
+ENSG00000012048	homo sapiens	E-GEOD-48433	'NCI-H460; large cell lung carcinoma; P04' vs 'NCI-H460; large cell lung carcinoma; P0'	3	8.01612686223671e-9	
+ENSG00000012048	homo sapiens	E-GEOD-38678	'CLF1' vs 'CLS1; co-culture with CAF to generate sphere'	-3	4.92396159138293e-8	
+ENSMUSG00000017146	mus musculus	E-GEOD-6085	'recombinant human interleukin-2; 100 unit per milliliter; 24 hour' vs 'control; 0 hour'	3	0.00834205691230868	
+AT4G21070	arabidopsis thaliana	E-MTAB-9050	'fbl17-1 (GK_170-E02)' vs 'wild type genotype'	2.9	2.79748922755105e-26	
+ENSG00000012048	homo sapiens	E-GEOD-43767	'3 to 5 weeks post ovulation' vs 'adult' in 'normal'	2.9	1.51388494589567e-17	
+ENSMUSG00000017146	mus musculus	E-GEOD-51883	'3 day; osteogenesis differentiation' vs ' 0 day; control' in '2C12-pMirn0'	-2.9	4.22290986427661e-9	
+ENSG00000012048	homo sapiens	E-MTAB-339	'17-(allylamino)-17-demethosygeldanamycin (17-AAG); 3 micromolar' vs 'none; 0 micromolar'	-2.9	8.8808342170456e-9	
+ENSG00000012048	homo sapiens	E-GEOD-44392	'stimulated' vs 'unstimulated' in 'none'	2.9	3.74589643144551e-8	
+ENSG00000012048	homo sapiens	E-GEOD-22533	'fulvestrant' vs 'ethanol' in 'HCC-1428/LTED'	-2.9	0.00000236050175883856	
+ENSG00000012048	homo sapiens	E-GEOD-60548	'doxycycline; 0.5 microgram per milliliter; Day 4 post Neurogenin induction' vs 'control'	-2.8	4.27931563205508e-107	
+ENSG00000012048	homo sapiens	E-MTAB-7284	'TIGAR knockdown' vs 'wild type'	-2.8	1.93578108385911e-63	
+ENSG00000012048	homo sapiens	E-MTAB-3158	'human intestinal organoids derived from H9 stem cells' vs 'Undifferentiated H9 Stem Cells'	-2.8	4.78025810285006e-50	
+AT4G21070	arabidopsis thaliana	E-MTAB-5777	'14 day' vs '0 day'	-2.8	1.20697562073529e-31	
+ENSG00000012048	homo sapiens	E-MTAB-5477	'P-bodies (cytosolic RNP granules)' vs 'pre-sorted fraction'	2.8	1.44806093225564e-26	
+ENSG00000012048	homo sapiens	E-GEOD-39091	'Daunorubicin; 100 nanomolar' vs 'DMSO; 0.065 percent' in 'GL2'	-2.8	3.59750417886392e-10	
+ENSMUSG00000017146	mus musculus	E-TABM-672	'10 day' vs '0 day'	-2.8	1.65865839569284e-8	
+AT4G21070	arabidopsis thaliana	E-MEXP-502	'atx1-1' vs 'wild type'	2.8	0.00000779623852266676	
+AT4G21070	arabidopsis thaliana	E-GEOD-42403	'top1a-2 mutant' vs 'wild type genotype'	2.8	0.000053182019217749	
+ENSMUSG00000017146	mus musculus	E-MTAB-7876	'Sod1G86R' vs 'wild type genotype' in '30 day; callosal sulcus'	-2.8	0.00244755304247198	
+AT4G21070	arabidopsis thaliana	E-GEOD-24348	'iron deprivation' vs 'control' in 'wild type; rosette leaf'	2.8	0.0220835274482651	
+ENSMUSG00000017146	mus musculus	E-MTAB-9704	'etoposide; 2.5 micromolar' vs 'none' in 'wild type genotype'	-2.7	2.00414779625766e-89	
+ENSMUSG00000017146	mus musculus	E-MTAB-8255	'acute graft vs. host disease; T-cell depleted bone marrow + T cells transplant' vs 'normal; T-cell depleted bone marrow transplant'	2.7	4.66618089905938e-9	
+ENSG00000012048	homo sapiens	E-GEOD-37373	'suberoylanilide hydroxamic acid 10 millimolar' vs 'none'	-2.7	3.14761297270497e-8	
+ENSRNOG00000020701	rattus norvegicus	E-GEOD-55077	'adenovirus-mediated Nkx6.1' vs 'none'	2.7	9.77308645863447e-7	
+ENSMUSG00000017146	mus musculus	E-GEOD-43133	'V6.5; embryonic stem cell’ vs 'wild type; endothelial'	2.7	0.000019173386715022	
+ENSMUSG00000017146	mus musculus	E-MTAB-8185	'ABIN1[D485N] knock-in' vs 'wild type genotype' in 'neutrophil'	2.7	0.000335011176836307	
+ENSG00000012048	homo sapiens	E-GEOD-52194	'triple-negative breast cancer; breast carcinoma' vs 'normal'	2.7	0.000557286998240005	
+AT4G21070	arabidopsis thaliana	E-MTAB-8478	'ANAC017 OEb' vs 'wild type genotype' at '3 day'	-2.7	0.0100803920365539	
+ENSG00000012048	homo sapiens	E-GEOD-63452	'12 hour' vs '0 hour' in 'MCF-10A-H1047R'	2.6	4.99482566539723e-47	
+ENSMUSG00000017146	mus musculus	E-MTAB-5901	'Alb-Cre-ERT2 / Cnot1 flox/flox' vs 'Cnot1 flox/flox' in 'none'	2.6	3.71853089338859e-19	
+ENSG00000012048	homo sapiens	E-GEOD-68086	'non-small cell lung carcinoma' vs 'normal'	-2.6	3.37075279684237e-15	
+AT4G21070	arabidopsis thaliana	E-MTAB-5777	'7 day' vs '0 day'	-2.6	1.4926349996202e-14	
+ENSG00000012048	homo sapiens	E-GEOD-8597	'cycloheximide; 17beta-estradiol' vs 'DMSO control; 17beta-estradiol'	-2.6	1.13725466088334e-10	
+ENSMUSG00000017146	mus musculus	E-GEOD-42100	'stabilization-competent' vs 'stabilization-incompetent' in '23 day; secondary reprogramming cell'	2.6	0.00000187660351809933	
+ENSMUSG00000017146	mus musculus	E-GEOD-41293	'osteosarcoma' vs 'control'	2.6	0.000012042146893597	
+ENSMUSG00000017146	mus musculus	E-MTAB-9275	'lipopolysaccharide; 10 nanogram per milliliter and PFI-1; 10 nanogram per milliliter' vs 'none' in 'primary cell line; wild type genotype'	-2.6	0.000149128558956918	
+ENSMUSG00000017146	mus musculus	E-GEOD-51786	'tumor' vs 'normal' in 'kidney'	2.6	0.000211106015894912	
+ENSG00000012048	homo sapiens	E-GEOD-25412	'resveratrol; 250 millimolar' vs 'vehicle; '	-2.6	0.000295828160910911	
+ENSG00000012048	homo sapiens	E-MEXP-1601	'anti-CD3 antibody; 1 microgram per milliliter' vs 'none'	2.6	0.0015871507830659	
+ENSG00000012048	homo sapiens	E-MEXP-1601	'4-hydroxy-3-methyl-but-2-enyl pyrophosphate; 1 nanomolar' vs 'none'	2.6	0.00200902286763757	
+ENSG00000012048	homo sapiens	E-MTAB-7805	'Human gammaherpesvirus 4' at '3 day' vs 'none' at '0 day'	2.5	2.71053705448222e-82	
+ENSG00000012048	homo sapiens	E-MTAB-7805	'Human gammaherpesvirus 4' at '4 day' vs 'none' at '0 day'	2.5	1.3353045868719e-68	
+ENSMUSG00000017146	mus musculus	E-MTAB-7182	'liver-specific Cnot1 knockout' vs 'wild type'	2.5	5.91100563683269e-28	
+ENSMUSG00000017146	mus musculus	E-MTAB-8840	'high fat diet' vs 'normal chow' in '28 week; ReverbαFlox2-6AdipoCre+'	2.5	7.74945551097327e-23	
+AT4G21070	arabidopsis thaliana	E-MTAB-6755	'Ler/Kas-2 hybrid' vs 'Kas-2' in 'wild type genotype'	2.5	3.91358140629016e-14	
+ENSG00000012048	homo sapiens	E-GEOD-68086	'pancreatic adenocarcinoma' vs 'normal'	-2.5	2.41045472147171e-10	
+ENSMUSG00000017146	mus musculus	E-MTAB-8934	'neurosphere in differentiation medium; 12 day' vs 'neurosphere; 0 day' in 'wild type genotype'	-2.5	1.54650480360757e-9	
+ENSMUSG00000017146	mus musculus	E-MTAB-5633	'cut nerve; 7 day' vs 'none'	2.5	5.38591130685378e-9	
+ENSG00000012048	homo sapiens	E-GEOD-48433	'NCI-H460; large cell lung carcinoma; P10' vs 'NCI-H460; large cell lung carcinoma; P0'	2.5	1.8366831990479e-8	
+AT4G21070	arabidopsis thaliana	E-MTAB-8478	'ANAC017 OEb' vs 'wild type genotype' at '1 day'	-2.5	1.09756405742715e-7	
+ENSG00000012048	homo sapiens	E-GEOD-66354	'group 3 medulloblastoma' vs 'normal'	2.5	3.83917175208584e-7	
+ENSG00000012048	homo sapiens	E-GEOD-49439	'differentiated; hAKPC-P' vs 'undifferentiated; hIPod'	-2.5	0.00000124056698027773	
+ENSG00000012048	homo sapiens	E-MTAB-5690	'DMSO-mediated cell differentiation during experiment' vs 'not cultured with DMSO' in 'interferon gamma'	-2.5	0.00000192643599640246	
+ENSG00000012048	homo sapiens	E-GEOD-45417	'PMA' vs 'vehicle' in 'ZXDC1 knockdown'	-2.5	0.00000200294234718973	
+ENSG00000012048	homo sapiens	E-MTAB-4442	'SA181; hepatocyte-like cell' vs 'SA181; embryonic stem cell'	-2.5	0.0000107175955456555	
+ENSG00000012048	homo sapiens	E-GEOD-52194	'non-triple-negative breast cancer; breast carcinoma' vs 'normal'	2.5	0.0000342194221382254	
+ENSMUSG00000017146	mus musculus	E-GEOD-6461	'synovial sarcoma' vs 'normal'	2.5	0.000127298542133727	
+ENSMUSG00000017146	mus musculus	E-GEOD-49664	'erythroblast' vs 'hematopoietic stem cell'	2.5	0.00111675320608396	
+ENSMUSG00000017146	mus musculus	E-GEOD-6085	'recombinant human interleukin-2; 100 unit per milliliter; 12 hour' vs 'control; 0 hour'	2.5	0.007903567588983	
+AT4G21070	arabidopsis thaliana	E-MTAB-5777	'1 day' vs '0 day'	2.4	3.81100617346791e-117	
+AT4G21070	arabidopsis thaliana	E-MTAB-5777	'2 day' vs '0 day'	2.4	8.44591920215463e-70	
+ENSMUSG00000017146	mus musculus	E-MTAB-8834	'12 day' vs '5 day' in 'doxycycline; 200 nanogram per milliliter; neoplasm'	-2.4	1.58634934535799e-27	
+ENSG00000012048	homo sapiens	E-GEOD-10070	'plateau transepithelial electrical resistance' vs 'monolayer control'	-2.4	6.43099190126389e-9	
+AT4G21070	arabidopsis thaliana	E-GEOD-44793	'bleomycin and 2, 6-dichloroisonicotinic acid' vs 'none'	2.4	3.55253031183752e-8	
+ENSG00000012048	homo sapiens	E-GEOD-10070	'mid transepithelial electrical resistance' vs 'monolayer control'	-2.4	6.64907747360769e-8	
+ENSG00000012048	homo sapiens	E-GEOD-36766	'stimulation' vs 'control'	2.4	2.42303090511687e-7	
+ENSMUSG00000017146	mus musculus	E-GEOD-57622	'granulocyte' vs 'hemopoietic stem cell'	-2.4	3.71511741317719e-7	
+ENSG00000012048	homo sapiens	E-GEOD-49439	'differentiated; hAKPC-P' vs 're-differentiated; hIPod'	-2.4	0.00000626917930358364	
+ENSG00000012048	homo sapiens	E-GEOD-42781	'delta-her2 overexpression' vs 'control'	2.4	0.0000255421001494071	
+ENSMUSG00000017146	mus musculus	E-MTAB-5310	'inh-alpha/Tag transgenic' vs 'wild type' in 'none'	2.4	0.000117641976724165	
+ENSMUSG00000017146	mus musculus	E-MTAB-9704	'etoposide; 2.5 micromolar' vs 'none' in 'H2afj-∆7-KO'	-2.3	4.49275396601862e-37	
+ENSG00000012048	homo sapiens	E-MTAB-4442	'H9; hepatocyte-like cell; hepatocyte-like cell foci' vs 'H9; embryonic stem cell'	-2.3	4.7188465599486e-25	
+ENSG00000012048	homo sapiens	E-GEOD-43767	'6 to 8 weeks post ovulation' vs 'adult' in 'normal'	2.3	4.95944432787953e-20	
+ENSG00000012048	homo sapiens	E-MTAB-7340	'induced pluripotent stem cell' vs 'fibroblast of dermis' in 'normal'	2.3	5.79491077925808e-15	
+ENSMUSG00000017146	mus musculus	E-GEOD-39509	'tamoxifen induction at 2 months, wait 1 months' vs 'no tamoxifen induction' in 'luminal cell of prostate epithelium; Nkx3.1-CreERT2 targeted allele'	2.3	1.61214582462685e-12	
+AT4G21070	arabidopsis thaliana	E-GEOD-123984	'tcx2; FEZ:FEZ-GFP' vs 'wild type genotype'	2.3	5.75393216095687e-9	
+ENSMUSG00000017146	mus musculus	E-GEOD-41418	'chronic pancreatitis' vs 'control'	2.3	1.06809792439975e-8	
+ENSG00000012048	homo sapiens	E-TABM-234	'ejaculatory azoospermia; Johnsen score count 2' vs 'normal; Johnsen score count 10'	-2.3	9.61299337577033e-8	
+ENSMUSG00000017146	mus musculus	E-MTAB-8840	'high fat diet' vs 'normal chow' in '28 week; ReverbαFlox2-6AdipoCre-'	2.3	9.65973879418206e-8	
+ENSG00000012048	homo sapiens	E-GEOD-21750	'malignant mesothelioma; wild type' vs 'normal; wild type'	2.3	3.27203778153561e-7	
+ENSG00000012048	homo sapiens	E-MTAB-4442	'ChiPS4; hepatocyte-like cell' vs 'ChiPS4; induced pluripotent stem cell'	-2.3	0.0000031731194316892	
+ENSMUSG00000017146	mus musculus	E-GEOD-40824	'SARS coronavirus MA15' vs 'none' in 'wild type genotype' at '7 day'	2.3	0.0000133926102735291	
+ENSG00000012048	homo sapiens	E-MTAB-4771	'astrocyte overexpressing 7 genes' vs 'astrocyte'	2.3	0.000809487564048316	
+AT4G21070	arabidopsis thaliana	E-GEOD-24348	'nas4x-1 mutant' vs 'wild type' in 'iron deprivation; rosette leaf'	-2.3	0.0471423125181391	
+AT4G21070	arabidopsis thaliana	E-MTAB-2943	'rtel1-1' vs 'wild type genotype'	2.2	1.62251496605269e-123	
+ENSMUSG00000017146	mus musculus	E-MTAB-8209	'Irx3 knockout' vs 'control' at '7 day'	-2.2	1.6466309184478e-93	
+ENSG00000012048	homo sapiens	E-MTAB-7025	'THZ1 (35 nanomolar)' vs 'none'	-2.2	4.17223577679004e-85	
+ENSMUSG00000017146	mus musculus	E-GEOD-52405	'SARS coronavirus MA15; 4 day' vs 'mock' in 'C57BL/6J'	2.2	6.82848422561861e-40	
+ENSMUSG00000017146	mus musculus	E-GEOD-39509	'tamoxifen induction at 2 months, wait 3 months' vs 'no tamoxifen induction' in 'basal cell of prostate epithelium; CK5-CreERT2 transgenic line'	2.2	2.73942521743598e-18	
+ENSMUSG00000017146	mus musculus	E-GEOD-60243	'Triple knockout (Zfp36-/-, TNFR1-/-, TNFR2-/-)' vs 'wild type'	2.2	6.88270192270609e-18	
+ENSG00000012048	homo sapiens	E-GEOD-68086	'colorectal carcinoma' vs 'normal'	-2.2	4.2784538937488e-11	
+ENSMUSG00000017146	mus musculus	E-MTAB-2782	'180 day' vs '1 day'	-2.2	6.34908614927841e-10	
+ENSMUSG00000017146	mus musculus	E-MTAB-9275	'lipopolysaccharide; 10 nanogram per milliliter' vs 'none' in 'primary cell line; wild type genotype'	-2.2	3.88513654705275e-9	
+ENSMUSG00000017146	mus musculus	E-MTAB-8934	'neurosphere in differentiation medium; 12 day' vs 'neurosphere; 0 day' in 'Cstb knockout'	-2.2	1.17728538431754e-8	
+AT4G21070	arabidopsis thaliana	E-GEOD-44793	'bleomycin' vs 'none'	2.2	1.45427361412361e-8	
+ENSG00000012048	homo sapiens	E-GEOD-10070	'low transepithelial electrical resistance' vs 'monolayer control'	-2.2	7.90270330020412e-8	
+ENSG00000012048	homo sapiens	E-GEOD-66048	'BRD4 inhibitor JQ1' vs 'none' in 'Mel202'	-2.2	9.58526281926344e-7	
+ENSG00000012048	homo sapiens	E-GEOD-46801	'Braf activated' vs 'untreated'	-2.2	0.00000382516131347402	
+ENSMUSG00000017146	mus musculus	E-GEOD-33266	'SARS coronavirus MA15; 10^4 PFU' vs 'none' at '7 day'	2.2	0.00000969967529002937	
+ENSG00000012048	homo sapiens	E-TABM-234	'ejaculatory azoospermia; Johnsen score count 2' vs 'ejaculatory azoospermia; Johnsen score count 5'	-2.2	0.0000203977185888572	
+ENSMUSG00000017146	mus musculus	E-GEOD-16992	'96 hour after induction of differentiation' vs 'induction of differentiation'	-2.2	0.0000460878480187636	
+ENSG00000012048	homo sapiens	E-TABM-234	'ejaculatory azoospermia; Johnsen score count 2' vs 'ejaculatory azoospermia; Johnsen score count 8'	-2.2	0.0000527179348862787	
+ENSG00000012048	homo sapiens	E-MTAB-8875	'familial hemophagocytic lymphohistiocytosis 5' vs 'normal'	2.2	0.0000604057816595378	
+ENSMUSG00000017146	mus musculus	E-GEOD-16992	'144 hour after induction of differentiation' vs 'induction of differentiation'	-2.2	0.0000792767272060586	
+ENSMUSG00000017146	mus musculus	E-MTAB-7561	'brown adipose tissue' vs 'white adipose tissue' in 'chow; 23 degree celsius'	-2.2	0.00053830354039908	
+ENSG00000012048	homo sapiens	E-MTAB-4771	'astrocyte overexpressing 4 genes' vs 'astrocyte'	2.2	0.00142255009862756	
+ENSRNOG00000020701	rattus norvegicus	E-TABM-501	'zinc replenishment after zinc deficient diet' vs 'control diet'	-2.2	0.001939145287943	
+ENSMUSG00000017146	mus musculus	E-MEXP-2249	'control; 36 hour after partial hepatechtomy' vs 'control; before partial hepatechtomy'	2.2	0.00333553465571285	
+AT4G21070	arabidopsis thaliana	E-GEOD-23301	'abscisic acid' vs 'ethanol'	-2.2	0.00334240983581024	
+ENSMUSG00000017146	mus musculus	E-MTAB-9806	'Debaryomyces hansenii' at '24 hour' vs 'none' at '0 hour'	-2.1	1.02096655847272e-64	
+ENSMUSG00000017146	mus musculus	E-MTAB-7182	'liver-specific Cnot3 knockout' vs 'wild type'	2.1	1.09513852800813e-18	
+ENSG00000012048	homo sapiens	E-GEOD-68086	'breast carcinoma' vs 'normal'	-2.1	6.2653125514615e-11	
+ENSMUSG00000017146	mus musculus	E-MTAB-2782	'90 day' vs '1 day'	-2.1	7.74127844009219e-9	
+ENSMUSG00000017146	mus musculus	E-MTAB-2782	'365 day' vs '1 day'	-2.1	7.94452887442633e-9	
+ENSMUSG00000017146	mus musculus	E-MTAB-2782	'60 day' vs '1 day'	-2.1	3.61925033415573e-8	
+ENSMUSG00000017146	mus musculus	E-MTAB-1391	'osteoblast culture 27 day' vs '0 day'	-2.1	3.71690161224264e-8	
+ENSG00000012048	homo sapiens	E-GEOD-32424	'tumor' vs 'normal'	2.1	1.03910862924606e-7	
+ENSG00000012048	homo sapiens	E-GEOD-8597	'DMSO control; 17beta-estradiol' vs 'DMSO control; control (ethanol vehicle)'	2.1	0.00000104059054812212	
+ENSMUSG00000017146	mus musculus	E-GEOD-51786	'transplanted secondary tumors' vs 'normal' in 'kidney'	2.1	0.00000218834252358674	
+ENSMUSG00000017146	mus musculus	E-GEOD-40827	'SARS coronavirus MA15' vs 'none' in 'wild type genotype' at '7 day'	2.1	0.00000282912200284465	
+ENSG00000012048	homo sapiens	E-GEOD-46801	'Braf activated' vs 'empty vector'	-2.1	0.00000305789172253446	
+ENSG00000012048	homo sapiens	E-GEOD-25412	'resveratrol; 150 millimolar' vs 'vehicle; '	-2.1	0.00000556477391683981	
+ENSG00000012048	homo sapiens	E-GEOD-48433	'AsPC-1; pancreatic adenocarcinoma; P04' vs 'AsPC-1; pancreatic adenocarcinoma; P0'	2.1	0.0000057672684497763	
+AT4G21070	arabidopsis thaliana	E-GEOD-39268	'iron deprivation' vs. 'control' at '24 hours' in 'shoot' of 'Kas-1' ecotype	2.1	0.00000712759493790131	
+ENSG00000012048	homo sapiens	E-GEOD-33294	'liver tumor' vs 'adjacent non-tumor tissue'	2.1	0.0000158177464612987	
+ENSG00000012048	homo sapiens	E-GEOD-48433	'AsPC-1; pancreatic adenocarcinoma; P10' vs 'AsPC-1; pancreatic adenocarcinoma; P0'	2.1	0.0000173290379892102	
+AT4G21070	arabidopsis thaliana	E-MTAB-3750	'0.1 mM nitrate' vs '10 mM nitrate' in 'MtNPF1.7 expression'	-2.1	0.000122844469454325	
+ENSMUSG00000017146	mus musculus	E-GEOD-33266	'SARS coronavirus MA15; 10^3 PFU' vs 'none' at '7 day'	2.1	0.000330895783516954	
+AT4G21070	arabidopsis thaliana	E-GEOD-23301	'abscisic acid and dimethylthiourea' vs 'ethanol'	-2.1	0.00232089608855938	
+ENSMUSG00000017146	mus musculus	E-GEOD-50813	'transgenic C3(1)-SV40Tag; 12 week' vs 'wild type; 8 week'	2.1	0.0053030036718652	
+ENSG00000012048	homo sapiens	E-MTAB-6214	'metastatic melanoma; non-responder' vs 'normal; not applicable'	2.1	0.0130585158891954	
+ENSMUSG00000017146	mus musculus	E-GEOD-77550	'extraembryonic endoderm stem cell; grown in XEN cell medium' vs 'mouse embryonic fibroblast; control'	2	1.35106617038964e-39	
+ENSG00000012048	homo sapiens	E-GEOD-63452	'24 hour' vs '0 hour' in 'MCF-10A-H1047R'	2	6.88262336084858e-29	
+ENSG00000012048	homo sapiens	E-MTAB-4442	'H9; hepatocyte-like cell; all cells' vs 'H9; embryonic stem cell'	-2	1.46342349027454e-24	
+ENSG00000012048	homo sapiens	E-GEOD-75852	' neural stem cell' vs 'induced pluripotent stem cell' in 'normal'	-2	3.46060865696003e-21	
+ENSMUSG00000017146	mus musculus	E-MTAB-2782	'730 day' vs '1 day'	-2	2.19739149677467e-8	
+ENSG00000012048	homo sapiens	E-MTAB-108	'transfection with GFP-FOXP3 cDNA' vs 'transfection with GFP cDNA'	-2	0.00000982935854382431	
+ENSMUSG00000017146	mus musculus	E-GEOD-49263	'SARS coronavirus MA15' vs 'none' at '4 day'	2	0.0000248597387911004	
+ENSMUSG00000017146	mus musculus	E-GEOD-49263	'SARS coronavirus MA15' vs 'none' at '7 day'	2	0.0000400601342671577	
+ENSMUSG00000017146	mus musculus	E-GEOD-55986	'cyclophosphamide-induced cystitis' vs 'normal'	2	0.0000422115479691911	
+ENSG00000012048	homo sapiens	E-GEOD-68086	'hepatobiliary carcinoma' vs 'normal'	-2	0.0000822006528552623	
+ENSMUSG00000017146	mus musculus	E-GEOD-59831	'lung carcinoma' vs 'normal' in 'Epcam+CD11b-CD11c- epithelial cell'	2	0.000326662054372251	
+ENSG00000012048	homo sapiens	E-MTAB-5762	'uterine leiomyosarcoma' vs 'normal'	2	0.000427836415202888	
+ENSMUSG00000017146	mus musculus	E-GEOD-33266	'SARS coronavirus MA15; 10^5 PFU' vs 'none' at '7 day'	2	0.00090105280848207	
+ENSG00000012048	homo sapiens	E-TABM-234	'ejaculatory azoospermia; Johnsen score count 2' vs 'ejaculatory azoospermia; Johnsen score count 7'	-2	0.00115232172827867	
+AT4G21070	arabidopsis thaliana	E-GEOD-17343	'8h semi-in vivo pollen tube' vs '4h pollen tube'	2	0.0017667178708201	
+ENSMUSG00000017146	mus musculus	E-GEOD-41293	'clear cell sarcoma; TATCre' vs 'control'	2	0.00179994846474368	
+ENSMUSG00000017146	mus musculus	E-MTAB-9275	'SGC-CBP30; 10 nanogram per milliliter' vs 'none' in 'primary cell line; wild type genotype'	-2	0.00290067834582009	
+ENSMUSG00000017146	mus musculus	E-GEOD-6085	'recombinant human interleukin-2; 100 unit per milliliter; 10 hour' vs 'control; 0 hour'	2	0.0351234696345037	
+ENSMUSG00000017146	mus musculus	E-MEXP-1504	'130 week' vs '13 week' in 'spleen'	2	0.0455024936309833	
+AT4G21070	arabidopsis thaliana	E-GEOD-111812	'cbp80; atxr5; atxr6 triple loss of function mutant' vs 'wild type genotype'	1.9	2.97184148400256e-33	
+ENSMUSG00000017146	mus musculus	E-MTAB-4786	'Tumor Necrosis Factor' vs 'none'	1.9	2.60985081324596e-18	
+ENSG00000012048	homo sapiens	E-MTAB-7805	'Human gammaherpesvirus 4' at '5 day' vs 'none' at '0 day'	1.9	5.57383796956859e-16	
+ENSG00000012048	homo sapiens	E-GEOD-35428	'ethanol; 17beta-estradiol' vs 'ethanol; control'	1.9	1.04007414646251e-11	
+ENSG00000012048	homo sapiens	E-GEOD-22866	'glioblastoma' vs 'control'	1.9	1.21075722854625e-9	
+ENSG00000012048	homo sapiens	E-TABM-234	'ejaculatory azoospermia; Johnsen score count 3.2' vs 'normal; Johnsen score count 10'	-1.9	1.71850281605185e-9	
+ENSMUSG00000017146	mus musculus	E-GEOD-50878	'wild type; SARS MA15; 7 day' vs 'wild type; mock'	1.9	4.82368922803624e-8	
+ENSG00000012048	homo sapiens	E-MTAB-7340	'induced pluripotent stem cell' vs 'fibroblast of dermis' in 'Klinefelter's syndrome'	1.9	8.77385704386178e-8	
+ENSG00000012048	homo sapiens	E-GEOD-50161	'medulloblastoma' vs 'normal'	1.9	1.37947902530044e-7	
+ENSG00000012048	homo sapiens	E-MTAB-5690	'DMSO-mediated cell differentiation prior to experiment' vs 'not cultured with DMSO' in 'none'	-1.9	2.44704615523935e-7	
+ENSMUSG00000017146	mus musculus	E-MTAB-5218	'Mycobacterium tuberculosis H37Rv' vs 'none' in 'TNF-alpha knockout'	1.9	6.47873680067432e-7	
+ENSMUSG00000017146	mus musculus	E-GEOD-46122	'anti-CD3/CSA' vs 'anti-CD3' in 'cyclosporine-sensitive'	-1.9	0.00000105233737061514	
+ENSG00000012048	homo sapiens	E-GEOD-40512	'PD 0332991 1 micromolar' vs 'vehicle'	-1.9	0.00000381331031792305	
+ENSMUSG00000017146	mus musculus	E-MEXP-1942	'Mycobacterium tuberculosis; C57BL/6J; 30 day' vs 'control; C57BL/6J; 0 day'	1.9	0.00000432764409392876	
+ENSG00000012048	homo sapiens	E-GEOD-48433	'PC-3/M; adenocarcinoma prostate PC-3 subline isolated from liver metastasis in mice; P10' vs 'PC-3/M; adenocarcinoma prostate PC-3 subline isolated from liver metastasis in mice; P0'	1.9	0.00000591999777724718	
+ENSMUSG00000017146	mus musculus	E-GEOD-68921	'human-Mfn2 T111A/S442A-overexpressing (Mfn2AA)' vs 'wild type' in '5 week; left ventricle'	1.9	0.0000128266661743446	
+ENSG00000012048	homo sapiens	E-MTAB-5690	'DMSO-mediated cell differentiation prior to experiment' vs 'not cultured with DMSO' in 'interferon gamma'	-1.9	0.0000177874930512594	
+ENSG00000012048	homo sapiens	E-GEOD-52989	'24 hour' vs '0 hour'	1.9	0.0000190710290920555	
+ENSMUSG00000017146	mus musculus	E-GEOD-40824	'SARS coronavirus MA15' vs 'none' in 'Tnfrsf1a/1b -/-' at '4 day'	1.9	0.0000193924791277677	
+ENSG00000012048	homo sapiens	E-GEOD-66354	'sonic hedgehog group medulloblastoma' vs 'normal'	1.9	0.0000306650312290871	
+ENSG00000012048	homo sapiens	E-GEOD-48433	'AsPC-1; pancreatic adenocarcinoma; P01' vs 'AsPC-1; pancreatic adenocarcinoma; P0'	1.9	0.000054287077518469	
+ENSG00000012048	homo sapiens	E-MTAB-6087	'hypoxia' vs 'normoxia' in 'SW982'	-1.9	0.000206984649140528	
+ENSMUSG00000017146	mus musculus	E-GEOD-43366	'SOD1-G93A transgenic' vs 'wild type' at 'day 130/end-stage' in 'B6/SJL'	1.9	0.000221202335871735	
+AT4G21070	arabidopsis thaliana	E-GEOD-62256	'Sei-0 x Col-0 F1 hybrid' vs 'Col-0' in 'Pseudomonas syringae pv. tomato str. DC3000' at '1 day'	1.9	0.000599401568820432	
+AT4G21070	arabidopsis thaliana	E-GEOD-123984	'tcx2; WOX5:GFP' vs 'wild type genotype'	1.9	0.00109312547411318	
+ENSMUSG00000017146	mus musculus	E-GEOD-19194	'Cbfb+/MYH11' vs 'control of Cbfb+/MYH11'	1.9	0.00289334996768542	
+ENSMUSG00000017146	mus musculus	E-MTAB-9275	'PFI-1; 10 nanogram per milliliter' vs 'none' in 'primary cell line; wild type genotype'	-1.9	0.00736273305956981	
+AT4G21070	arabidopsis thaliana	E-GEOD-14374	'pil5-1' vs 'wild type' in 'far-red light'	1.9	0.0197248763120559	
+ENSMUSG00000017146	mus musculus	E-MTAB-7123	'BAG6 homozygous knockout' vs 'wild type genotype'	-1.8	4.35101639294155e-35	
+AT4G21070	arabidopsis thaliana	E-GEOD-111812	'hyl1; atxr5; atxr6 triple loss of function mutant' vs 'wild type genotype'	1.8	1.46759592160648e-23	
+ENSMUSG00000017146	mus musculus	E-MTAB-7076	'Helicobacter hepaticus' vs 'none' in 'Alpk1 homozygous knockout'	-1.8	8.29405081330185e-16	
+ENSSSCG00000022101	sus scrofa	E-MTAB-3186	'post-traumatic osteoarthritis' at '1 day' vs 'normal' at '0 day'	1.8	3.79558418642213e-13	
+ENSMUSG00000017146	mus musculus	E-MTAB-7546	'epithelium-specific Apc knockout' vs 'wild type'	1.8	4.39995200438952e-11	
+ENSG00000012048	homo sapiens	E-MTAB-6298	'24 hours with hMSC Adipogenic Differentiation Bullet Kit' vs 'none' in 'polysome'	-1.8	3.50840424549112e-10	
+ENSG00000012048	homo sapiens	E-MTAB-6013	'induced pluripotent stem cell' vs 'cardiac muscle cell'	1.8	3.6913904973339e-10	
+ENSG00000012048	homo sapiens	E-MTAB-7805	'Human gammaherpesvirus 4' at '8 day' vs 'none' at '0 day'	1.8	9.81835561813245e-10	
+ENSMUSG00000017146	mus musculus	E-GEOD-39509	'tamoxifen induction at 2 months, wait 6 months' vs 'no tamoxifen induction' in 'basal cell of prostate epithelium; CK5-CreERT2 transgenic line'	1.8	1.05294426047923e-8	
+ENSMUSG00000017146	mus musculus	E-GEOD-77550	'induced extraembryonic endoderm stem cell; grown in ES cell medium' vs 'mouse embryonic fibroblast; control'	1.8	1.28161916822713e-8	
+ENSMUSG00000017146	mus musculus	E-MTAB-2782	'30 day' vs '1 day'	-1.8	1.8534259303502e-8	
+ENSMUSG00000017146	mus musculus	E-MTAB-5085	'M-CSF' at '3 day' vs 'none' at '0 day'	1.8	2.18995856751068e-8	
+ENSG00000012048	homo sapiens	E-GEOD-32526	'S2N; tumorigenic; spheres' vs 'S2; non-tumorigenic; spheres'	1.8	4.82244966079975e-8	
+ENSG00000012048	homo sapiens	E-CURD-45	'neoplasm' vs 'normal tissue adjacent to neoplasm'	1.8	6.34551568675196e-8	
+ENSMUSG00000017146	mus musculus	E-GEOD-50878	'CXCR3 knockout; SARS MA15; 2 day' vs 'CXCR3 knockout; mock'	1.8	1.15870228556163e-7	
+ENSMUSG00000017146	mus musculus	E-MTAB-8366	'adipose tissue specific Cnot1 knockout' vs 'wild type phenotype' in 'inguinal fat pad'	1.8	1.49562476801822e-7	
+ENSMUSG00000017146	mus musculus	E-MTAB-8344	'undifferentiated' vs 'differentiated; rosiglitazone' in 'A/J'	-1.8	0.00000278440056419767	
+ENSG00000012048	homo sapiens	E-GEOD-48433	'PC-3/M; adenocarcinoma prostate PC-3 subline isolated from liver metastasis in mice; P04' vs 'PC-3/M; adenocarcinoma prostate PC-3 subline isolated from liver metastasis in mice; P0'	1.8	0.00000367645889998932	
+ENSMUSG00000017146	mus musculus	E-MTAB-5310	'cetrorelix; 3 milligram per kilogram' vs 'none' in 'inh-alpha/Tag transgenic'	-1.8	0.00000423629631916286	
+ENSG00000012048	homo sapiens	E-GEOD-35493	'primitive neuroectodermal tumor' vs 'normal'	1.8	0.000195946643514774	
+ENSMUSG00000017146	mus musculus	E-MTAB-6620	'AZD5069; 100 milligram per kilogram' vs 'none'	-1.8	0.000203672771577809	
+ENSG00000012048	homo sapiens	E-GEOD-16179	'lapatinib and foretinib' vs 'DMSO' in 'acquired resistant to lapatinib'	-1.8	0.000212834287557032	
+ENSG00000012048	homo sapiens	E-TABM-234	'ejaculatory azoospermia; Johnsen score count 3.2' vs 'ejaculatory azoospermia; Johnsen score count 5'	-1.8	0.000396576733051996	
+AT4G21070	arabidopsis thaliana	E-GEOD-37553	'Meloidogyne incognita infested region' vs 'Meloidogyne incognita non-infested region' at '14 day'	1.8	0.00072413361982193	
+ENSMUSG00000017146	mus musculus	E-GEOD-53916	'renin-expression' vs 'control'	-1.8	0.00177464345431211	
+ENSRNOG00000020701	rattus norvegicus	E-GEOD-42780	'squamous cell carcinoma' vs 'normal' in 'epithelial cell'	1.8	0.00185171706435539	
+ENSMUSG00000017146	mus musculus	E-GEOD-50813	'transgenic C3(1)-SV40Tag; 16 week' vs 'wild type; 8 week'	1.8	0.00861313592882589	
+ENSMUSG00000017146	mus musculus	E-MTAB-7546	'epithelium-specific mutant beta-catenin expression' vs 'wild type'	1.7	3.34314922103195e-19	
+ENSMUSG00000017146	mus musculus	E-MTAB-7546	'epithelium-specific Apc; Bcl9; Bcl9l knockout' vs 'wild type'	1.7	2.99726157291434e-18	
+ENSG00000012048	homo sapiens	E-GEOD-103501	'lipopolysaccharide' vs 'none' in 'systemic-onset juvenile idiopathic arthritis'	-1.7	1.65224514098487e-15	
+ENSMUSG00000017146	mus musculus	E-GEOD-51386	'wild type genotype; SARS MA15; 7 day' vs 'wild type genotype; mock'	1.7	8.17942637883085e-11	
+ENSMUSG00000017146	mus musculus	E-MTAB-9275	'lipopolysaccharide; 10 nanogram per milliliter' vs 'none' in 'primary cell line; MEF2C/D knockout'	-1.7	9.5403490636513e-9	
+ENSG00000012048	homo sapiens	E-GEOD-103501	'lipopolysaccharide' vs 'none' in 'normal'	-1.7	1.25188550983021e-8	
+ENSMUSG00000017146	mus musculus	E-ERAD-181	'wormy, worm left; Trichuris muris' vs 'control; non wormy' in 'caecum'	1.7	2.16768591786775e-8	
+ENSG00000012048	homo sapiens	E-GEOD-35525	'siRNA-HMGA1' vs 'control'	-1.7	5.52500294749023e-8	
+ENSMUSG00000017146	mus musculus	E-MTAB-5085	'M-CSF and FSL-1' at '3 day' vs 'none' at '0 day'	1.7	1.05606624839989e-7	
+ENSG00000012048	homo sapiens	E-GEOD-48433	'SR; poorly differentiated B cell origin leukemia; P04' vs 'SR; poorly differentiated B cell origin leukemia; P0'	1.7	1.49376658170587e-7	
+ENSMUSG00000017146	mus musculus	E-MTAB-2782	'21 day' vs '1 day'	-1.7	1.9036937752707e-7	
+ENSG00000012048	homo sapiens	E-GEOD-49284	'EPZ6438; 10x lowest cytotoxic concentration' vs 'DMSO' in 'WSU_DLCL2' at '4 day'	-1.7	4.72181068759342e-7	
+ENSMUSG00000017146	mus musculus	E-GEOD-51386	'TIMP1 knockout; SARS MA15; 7 day' vs 'TIMP1 knockout; mock'	1.7	0.00000111634635076145	
+ENSG00000012048	homo sapiens	E-MTAB-3645	'Hypoxia' vs 'Normoxia' in 'A2780; None'	-1.7	0.00000163439319890823	
+ENSG00000012048	homo sapiens	E-GEOD-35493	'medulloblastoma, large-cell' vs 'normal'	1.7	0.0000129527451538324	
+ENSG00000012048	homo sapiens	E-GEOD-22097	'hyperglycemic condition' vs 'non-diabetic condition'	-1.7	0.0000136373933554498	
+ENSRNOG00000020701	rattus norvegicus	E-CURD-59	'allopurinol; 150 milligram per kilogram' vs 'none' in 'allopurinol; kidney' at '4 day'	1.7	0.0000149052330952159	
+ENSG00000012048	homo sapiens	E-GEOD-48433	'PC-3/M; adenocarcinoma prostate PC-3 subline isolated from liver metastasis in mice; P01' vs 'PC-3/M; adenocarcinoma prostate PC-3 subline isolated from liver metastasis in mice; P0'	1.7	0.0000247047054042087	
+ENSG00000012048	homo sapiens	E-GEOD-40517	'Med23 siRNA knockdown' vs 'control'	-1.7	0.000043453033039789	
+ENSG00000012048	homo sapiens	E-GEOD-44392	'3.3 microgram per milliliter; edelfosine' vs 'none' in 'stimulated'	-1.7	0.0000485138642962025	
+ENSGALG00000002781	gallus gallus	E-MTAB-5455	'Fowlpox virus FP9' vs 'mock' at '24 hour'	-1.7	0.0000798667374237056	
+ENSG00000012048	homo sapiens	E-GEOD-35493	'medulloblastoma' vs 'normal'	1.7	0.000140319860853661	
+ENSMUSG00000017146	mus musculus	E-GEOD-52157	'Rb;E2f8 knock-out' vs 'wild type'	1.7	0.000192554971592647	
+ENSRNOG00000020701	rattus norvegicus	E-CURD-68	'WY-14643; 10 milligram per kilogram' vs 'none' in 'WY-14643; liver' at '4 day'	1.7	0.00121388739948082	
+ENSMUSG00000017146	mus musculus	E-GEOD-49263	'SARS coronavirus MA15 nsp16 -/-' vs 'none' at '7 day'	1.7	0.00166675288040914	
+ENSMUSG00000017146	mus musculus	E-GEOD-68921	'human-Mfn2 T111A/S442A-overexpressing (Mfn2AA)' vs 'tet-off control' in '5 week; left ventricle'	1.7	0.00174571803044482	
+ENSG00000012048	homo sapiens	E-GEOD-19650	'intraductal papillary-mucinous neoplasm (IPMN)' vs 'normal'	1.7	0.00463275057275209	
+ENSG00000012048	homo sapiens	E-GEOD-9350	'hypoxia' vs 'normal atmospheric oxygen pressure' in 'high metastatic cell line'	-1.7	0.00572412979394911	
+ENSMUSG00000017146	mus musculus	E-MTAB-4064	'bone marrow macrophage; co-cultured with breast cancer cell line 4T1.2' vs 'bone marrow macrophage; control'	1.7	0.0221036592881459	
+ENSMUSG00000017146	mus musculus	E-MEXP-3202	'AhCre Apc Floxed' vs 'control'	1.7	0.0244101372393399	
+ENSMUSG00000017146	mus musculus	E-MTAB-9275	'lipopolysaccharide; 10 nanogram per milliliter' vs 'none' in 'Hoxb8-FL; MEF2A knockout'	-1.7	0.0346780711730936	
+ENSG00000012048	homo sapiens	E-GEOD-63252	'wild type; tunicamycin' vs 'wild type; control'	1.7	0.0476698511066882	
+ENSG00000012048	homo sapiens	E-MTAB-3021	'PRPF8' vs 'control'	-1.6	1.20413190509402e-91	
+AT4G21070	arabidopsis thaliana	E-MTAB-5777	'4 day' vs '0 day'	1.6	1.53546555567735e-35	
+ENSMUSG00000017146	mus musculus	E-ERAD-132	'Salmonella enterica serovar Typhimurium' vs 'control' in 'bone marrow macrophage from 129P2 mouse strain'	-1.6	4.84317920493067e-20	
+ENSG00000012048	homo sapiens	E-MTAB-6298	'24 hours with hMSC Adipogenic Differentiation Bullet Kit' vs 'none' in 'total'	-1.6	3.69716366434873e-10	
+ENSMUSG00000017146	mus musculus	E-MTAB-5218	'Mycobacterium tuberculosis H37Rv' vs 'none' in 'wild type'	1.6	1.47668103565813e-9	
+ENSG00000012048	homo sapiens	E-GEOD-41678	'HFF1; cocultured with epithelial MDAMB231 cells' vs 'HFF1; normal'	-1.6	1.27588079081483e-7	
+ENSG00000012048	homo sapiens	E-GEOD-48433	'SR; poorly differentiated B cell origin leukemia; P01' vs 'SR; poorly differentiated B cell origin leukemia; P0'	1.6	2.74793787124599e-7	
+ENSG00000012048	homo sapiens	E-GEOD-38678	'CLS1; 6 passages' vs 'CLS1; co-culture with CAF to generate sphere'	-1.6	9.98241870348426e-7	
+ENSMUSG00000017146	mus musculus	E-GEOD-68820	'SARS coronavirus MA15' vs 'mock' in 'wild type genotype' at '7 day'	1.6	0.00000107436288362644	
+ENSMUSG00000017146	mus musculus	E-MTAB-7561	'brown adipose tissue' vs 'white adipose tissue' in 'high fat diet; 30 degree celsius'	1.6	0.00000176904107973095	
+AT4G21070	arabidopsis thaliana	E-MTAB-6755	'sulki1-8 mutant' vs 'wild type genotype' in 'Ler/Kas-2 hybrid'	-1.6	0.00000320225708505136	
+AT4G21070	arabidopsis thaliana	E-MTAB-8478	'anac017 T-DNA mutant' vs 'wild type genotype' at '1 day'	-1.6	0.00000464098937358543	
+ENSG00000012048	homo sapiens	E-GEOD-68086	'glioblastoma' vs 'normal'	-1.6	0.00000567076192740846	
+AT4G21070	arabidopsis thaliana	E-GEOD-27508	'auxin' vs 'none' in '35 day'	1.6	0.00000724046317441357	
+ENSG00000012048	homo sapiens	E-GEOD-59966	'late passage' vs 'early passage'	-1.6	0.0000202069003732659	
+ENSRNOG00000020701	rattus norvegicus	E-MEXP-2466	'lipopolysaccharide; 0.1 microgram per milliliter' vs 'none'	-1.6	0.0000210763120791691	
+ENSG00000012048	homo sapiens	E-GEOD-48433	'SR; poorly differentiated B cell origin leukemia; P10' vs 'SR; poorly differentiated B cell origin leukemia; P0'	1.6	0.0000248184350739626	
+ENSG00000012048	homo sapiens	E-GEOD-66354	'group 4 medulloblastoma' vs 'normal'	1.6	0.0000317295083475471	
+ENSMUSG00000017146	mus musculus	E-GEOD-2413	'Kin-' vs 'wild type' in 'cAMP' at '24 hour'	1.6	0.0000365900574960036	
+ENSMUSG00000017146	mus musculus	E-GEOD-33266	'SARS coronavirus MA15; 10^5 PFU' vs 'none' at '4 day'	1.6	0.0000451739240967752	
+ENSMUSG00000017146	mus musculus	E-GEOD-51386	'PAI1 knockout; SARS MA15; 7 day' vs 'PAI1 knockout; mock'	1.6	0.0000548671314156954	
+ENSG00000012048	homo sapiens	E-GEOD-48275	'FiPS generated with GATA3VP16, SOX2vP16, KLF4 and cMYC' vs 'Control fibroblasts'	1.6	0.0000656657936606412	
+ENSG00000012048	homo sapiens	E-GEOD-19018	'3 percent oxygen; old' vs '20 percent oxygen; old'	1.6	0.000106233382403482	
+ENSG00000012048	homo sapiens	E-GEOD-37258	'fibroblast; Klinefelter’s Syndrome' vs 'embryonic stem cell; control'	-1.6	0.000137568326058707	
+ENSMUSG00000017146	mus musculus	E-GEOD-40840	'SARS coronavirus MA15' vs 'none' in 'wild type genotype' at '7 day'	1.6	0.000157331350859762	
+ENSG00000012048	homo sapiens	E-MTAB-2581	'chronic myelogenous leukemia' vs 'normal' in 'hematopoietic stem cell'	1.6	0.000449333164622545	
+ENSMUSG00000017146	mus musculus	E-MTAB-8934	'neurosphere in differentiation medium; 1 day' vs 'neurosphere; 0 day' in 'wild type genotype'	-1.6	0.000734715019811351	
+ENSMUSG00000017146	mus musculus	E-GEOD-7020	'Nix knock out' vs 'wild type'	1.6	0.000988803136696896	
+ENSRNOG00000020701	rattus norvegicus	E-CURD-64	'monocrotaline; 10 milligram per kilogram' vs 'none' in 'monocrotaline; liver' at '8 day'	1.6	0.00163154604362358	
+ENSMUSG00000017146	mus musculus	E-GEOD-139439	'oxidized low density lipoprotein; 25 microgram per milliliter' vs 'none' in 'wild type genotype'	-1.6	0.00181657812194581	
+ENSMUSG00000017146	mus musculus	E-MEXP-1504	'130 week' vs '13 week' in 'liver'	1.6	0.00185323367109768	
+AT4G21070	arabidopsis thaliana	E-GEOD-123984	'tcx2; CYCD6:GFP' vs 'wild type genotype'	1.6	0.00187351658046431	
+AT4G21070	arabidopsis thaliana	E-MTAB-8478	'ANAC017 OEa' vs 'wild type genotype' at '0 day'	-1.6	0.00187528581133552	
+AT4G21070	arabidopsis thaliana	E-GEOD-123984	'tcx2; TMO5:3xGFP' vs 'wild type genotype'	1.6	0.00248617844780008	
+ENSMUSG00000017146	mus musculus	E-MTAB-7445	'beta(3)-adrenergic agonist Cl316,243' vs 'none' at '76 week'	1.6	0.00351353922219742	
+ENSMUSG00000017146	mus musculus	E-GEOD-49263	'SARS coronavirus MA15 nsp16 -/-' vs 'none' at '4 day'	1.6	0.00448229048576969	
+ENSG00000012048	homo sapiens	E-GEOD-56785	'11 day' vs '0 day'	-1.6	0.00564592171534558	
+ENSG00000012048	homo sapiens	E-MTAB-3082	'hypoxia' vs 'normoxia' in 'NCH421k' at '7 day'	-1.6	0.00849723781304587	
+AT4G21070	arabidopsis thaliana	E-GEOD-115951	'PAP, 100 micromolar; lithium chloride, 100 millimolar' vs 'none'	1.6	0.0107622953595454	
+ENSMUSG00000017146	mus musculus	E-GEOD-33266	'SARS coronavirus MA15; 10^2 PFU' vs 'none' at '7 day'	1.6	0.0109182105215688	
+ENSG00000012048	homo sapiens	E-MTAB-5175	'doxycycline-mediated expression of dominant-negative FOS' vs 'wild type'	-1.5	3.47455648242931e-101	
+ENSG00000012048	homo sapiens	E-MTAB-7745	'dexamethasone; 1 micromolar' vs 'vehicle'	-1.5	3.87836010762611e-45	
+AT4G21070	arabidopsis thaliana	E-GEOD-111812	'atxr5; atxr6 double loss of function mutant' vs 'wild type genotype'	1.5	1.38604835841228e-27	
+ENSMUSG00000017146	mus musculus	E-MTAB-6381	'α-GalCer; 2 microgram' vs 'none' in 'wild type genotype'	1.5	3.83019269932607e-17	
+ENSG00000012048	homo sapiens	E-GEOD-57494	'DMSO' in 'stimulated with interferon gamma and lipopolysaccharide' vs 'none' at '24 hour'	-1.5	7.02496938225753e-12	
+ENSMUSG00000017146	mus musculus	E-GEOD-52405	'SARS coronavirus MA15; 4 day' vs 'mock' in '129S1/SvImJ'	1.5	1.86198772296516e-11	
+ENSMUSG00000017146	mus musculus	E-GEOD-55552	'hepatocyte-derived proliferative ducts (hepPDs)' vs 'biliary-derived proliferative ducts (bilDP)'	1.5	3.52873831537942e-11	
+ENSMUSG00000017146	mus musculus	E-GEOD-52405	'SARS coronavirus MA15; 4 day' vs 'mock' in 'PWK/PhJ'	1.5	4.64833328124681e-11	
+ENSG00000012048	homo sapiens	E-MTAB-5102	'154; 1 micromolar' vs 'DMSO'	-1.5	1.86424615074435e-8	
+ENSG00000012048	homo sapiens	E-GEOD-30573	'autism' vs 'normal'	1.5	6.6010998144945e-8	
+ENSG00000012048	homo sapiens	E-GEOD-20504	'serum-free medium' vs 'control'	-1.5	1.36674183282863e-7	
+ENSMUSG00000017146	mus musculus	E-TABM-672	'7 day' vs '0 day'	-1.5	2.5641433940455e-7	
+ENSG00000012048	homo sapiens	E-GEOD-49284	'EPZ6438; 10x lowest cytotoxic concentration' vs 'DMSO' in 'KARPAS_422' at '6 day'	-1.5	2.57189311296365e-7	
+ENSMUSG00000017146	mus musculus	E-GEOD-68820	'SARS coronavirus MA15' vs 'mock' in 'wild type genotype' at '4 day'	1.5	3.60833591459511e-7	
+ENSMUSG00000017146	mus musculus	E-MTAB-7076	'Helicobacter hepaticus' vs 'none' in 'wild type phenotype'	-1.5	5.69767110230571e-7	
+ENSMUSG00000017146	mus musculus	E-MTAB-1391	'osteoblast culture 9 day' vs '0 day'	-1.5	6.50543344502926e-7	
+ENSG00000012048	homo sapiens	E-GEOD-42872	'vemurafenib' vs 'DMSO'	-1.5	0.00000112068742037583	
+ENSG00000012048	homo sapiens	E-GEOD-74000	'acetaminophen; 13 millimolar' vs 'none' in 'HepaRG; hepatitis C virus infection; liver'	-1.5	0.00000329261836035871	
+ENSG00000012048	homo sapiens	E-GEOD-53965	'10 micromolar; Nutlin-3' vs 'DMSO control'	-1.5	0.0000063846576430434	
+ENSG00000012048	homo sapiens	E-GEOD-49284	'EPZ6438; 10x lowest cytotoxic concentration' vs 'DMSO' in 'WSU_DLCL2' at '6 day'	-1.5	0.00000690685878146728	
+ENSMUSG00000017146	mus musculus	E-GEOD-7694	'dinitrofluorobenzene' vs 'control' in 'Cnr1 -/- /Cnr2 -/-'	1.5	0.00000712930076136038	
+ENSG00000012048	homo sapiens	E-GEOD-10879	'MCF-7 clone 5C' vs 'MCF-7'	1.5	0.00000734799635704322	
+ENSMUSG00000017146	mus musculus	E-MEXP-1942	'Mycobacterium tuberculosis; D2.B6-Chr19 congenic; 70 day' vs 'control; D2.B6-Chr19 congenic; 0 day'	1.5	0.00000787541632871344	
+ENSMUSG00000017146	mus musculus	E-GEOD-40513	'CDK4/6 inhibitor PD 0332991' vs 'vehicle'	-1.5	0.00000968295915998627	
+ENSG00000012048	homo sapiens	E-MTAB-7679	'Mycobacterium tuberculosis' vs 'none' in 'infant'	-1.5	0.0000147994499832826	
+ENSMUSG00000017146	mus musculus	E-GEOD-40840	'SARS coronavirus MA15' vs 'none' in 'Tnfrsf1a/1b -/-' at '7 day'	1.5	0.0000148282210200826	
+ENSMUSG00000017146	mus musculus	E-GEOD-35332	'interleukin-3 and stem cell factor' vs 'interleukin-3'	-1.5	0.0000222480371372579	
+ENSMUSG00000017146	mus musculus	E-GEOD-51387	'PLAT knockout; SARS MA15; 7 day' vs 'PLAT knockout; mock'	1.5	0.0000336591339146129	
+ENSG00000012048	homo sapiens	E-MTAB-7951	'HNF4a homozygous deletion mutant (DBD Mut)' vs 'wild type'	-1.5	0.000034132618168033	
+AT4G21070	arabidopsis thaliana	E-GEOD-23940	'apum23 mutant' vs 'wild type'	1.5	0.0000357649153506092	
+ENSMUSG00000017146	mus musculus	E-MTAB-6776	'co-transplanted with NOD-scid IL2Rgamma null HSCs' vs 'co-transplanted with wild type HSCs'	1.5	0.0000368331475766395	
+ENSMUSG00000017146	mus musculus	E-MEXP-1899	'30 days of tuberculosis' vs 'uninfected'	1.5	0.000135637552148332	
+ENSBTAG00000022520	bos taurus	E-MEXP-1778	'Trypanosoma Congolense; 35 day' vs 'control; 0 day' in 'lymph node; N'Dama'	1.5	0.000137663555588722	
+ENSMUSG00000017146	mus musculus	E-MTAB-6914	'10 Gy Gray; x-ray' vs 'none' in 'tumor and stromal cell'	-1.5	0.000287560581348015	
+ENSG00000012048	homo sapiens	E-MTAB-5690	'DMSO-mediated cell differentiation during experiment' vs 'not cultured with DMSO' in 'none'	-1.5	0.000296962984425956	
+ENSG00000012048	homo sapiens	E-MEXP-3496	'Enterococcus faecalis' at '5 day' vs 'none' at '5 day'	-1.5	0.000312923317378703	
+ENSRNOG00000020701	rattus norvegicus	E-MTAB-104	'cancer; inoculation of cancer cell' vs 'normal; none'	1.5	0.000374174364026242	
+ENSMUSG00000017146	mus musculus	E-GEOD-19194	'Cbfb knockout' vs 'control of Cbfb knockout'	1.5	0.000710781057345693	
+ENSRNOG00000020701	rattus norvegicus	E-GEOD-42780	'dysplasia' vs 'normal' in 'epithelial cell'	1.5	0.000868588844865071	
+ENSMUSG00000017146	mus musculus	E-GEOD-51786	'tumor' vs 'normal' in 'liver'	1.5	0.0017314872949753	
+ENSRNOG00000020701	rattus norvegicus	E-CURD-68	'WY-14643; 30 milligram per kilogram' vs 'none' in 'WY-14643; liver' at '4 day'	1.5	0.00183083485027029	
+ENSG00000012048	homo sapiens	E-GEOD-45757	'PL45; CI-1040; 2 millimolar' vs 'PL45; vehicle; '	-1.5	0.00195143295384684	
+ENSGALG00000002781	gallus gallus	E-MEXP-2642	'forskolin; 100 micromolar' at '72 hour' vs 'none; ' at '72 hour'	1.5	0.00196136205721484	
+ENSG00000012048	homo sapiens	E-MTAB-7951	'HNF4a point mutated clone (SUMO Mut)' vs 'wild type'	-1.5	0.00254053803666609	
+ENSMUSG00000017146	mus musculus	E-GEOD-40824	'SARS coronavirus MA15' vs 'none' in 'wild type genotype' at '4 day'	1.5	0.00269276966524059	
+ENSG00000012048	homo sapiens	E-MTAB-8701	'myxosarcoma' vs 'normal'	1.5	0.00297144306909452	
+ENSMUSG00000017146	mus musculus	E-GEOD-49262	'SARS coronavirus MA15' vs 'none' at '4 day'	1.5	0.00498798354352408	
+ENSG00000012048	homo sapiens	E-GEOD-65485	'neoplasm' vs 'normal tissue adjacent to neoplasm'	1.5	0.00520915259128511	
+AT4G21070	arabidopsis thaliana	E-MTAB-8478	'ANAC017 OEb' vs 'wild type genotype' at '0 day'	-1.5	0.00958559068667141	
+ENSG00000012048	homo sapiens	E-GEOD-22600	'estrogen' vs 'placebo' in 'estrogen receptor positive'	1.5	0.013186951007483	
+ENSG00000012048	homo sapiens	E-GEOD-63252	'wild type; BREFELDIN A' vs 'wild type; control'	1.5	0.0174903836298405	
+ENSMUSG00000017146	mus musculus	E-GEOD-53403	'Macrophage of F4/80+, CD11b+, CD11c-+; obese leptin-deficient' vs 'Macrophage of F4/80+, CD11b+, CD11c-+; control'	1.5	0.0195747116395188	
+ENSRNOG00000020701	rattus norvegicus	E-CURD-64	'monocrotaline; 30 milligram per kilogram' vs 'none' in 'monocrotaline; liver' at '4 day'	1.5	0.0197985406072078	
+ENSMUSG00000017146	mus musculus	E-GEOD-59241	'Cbs knockout' vs 'wild type'	1.5	0.0321564399067097	
+ENSG00000012048	homo sapiens	E-GEOD-61141	'human rhinovirus 16' vs 'vehicle' in 'asthma'	-1.5	0.0356834593458148	
+ENSG00000012048	homo sapiens	E-GEOD-61966	'501Mel; shBRG1 knockdown' vs '501Mel; control'	-1.4	1.74663251259379e-61	
+ENSG00000012048	homo sapiens	E-MTAB-8579	'ERBB2 siRNA' vs 'scrambled siRNA'	-1.4	4.65029028074026e-48	
+ENSG00000012048	homo sapiens	E-MTAB-7185	'HES1 homozygous knockout' vs 'wild type genotype'	-1.4	4.93206598637134e-20	
+ENSG00000012048	homo sapiens	E-GEOD-63452	'12 hour' vs '0 hour' in 'MCF-10A'	1.4	5.06796921753218e-17	
+ENSMUSG00000017146	mus musculus	E-MTAB-7562	'Lymphocytic choriomeningitis mammarenavirus' vs 'none' in 'TRAIL homozygous knock out'	1.4	2.11700724893869e-14	
+ENSG00000012048	homo sapiens	E-GEOD-81089	'tumor tissue' vs 'non-malignant tissue'	1.4	8.52356644106819e-12	
+ENSMUSG00000017146	mus musculus	E-GEOD-3231	'336 hour' vs '0 hour' on 'Affymetrix Mouse430A_2 Array'	-1.4	3.17555548231654e-9	
+ENSMUSG00000017146	mus musculus	E-GEOD-38218	'R6/2::HDAC4het' vs 'wild type genotype'	1.4	3.49412867213813e-9	
+ENSMUSG00000017146	mus musculus	E-GEOD-51883	'3 day; osteogenesis differentiation' vs ' 0 day; control' in '2C12-pMirn378'	-1.4	1.26987756678013e-8	
+AT4G21070	arabidopsis thaliana	E-MTAB-7612	'wounding; 6 hour' vs 'none; 0 hour' in 'DMSO'	-1.4	1.89696092134846e-8	
+ENSMUSG00000017146	mus musculus	E-MEXP-2282	'Kit ligand; wasp knockout' vs 'Kit ligand; wild type'	1.4	4.45541380118887e-8	
+ENSMUSG00000017146	mus musculus	E-MTAB-8402	'Reverbαflox/floxAlbCreERT2+' vs 'wild type genotype'	-1.4	4.65924602801121e-8	
+ENSMUSG00000017146	mus musculus	E-MTAB-9361	'RBM20 antisense oligonucleotide' vs 'none' in 'Titin-N2B knockout'	1.4	1.10775232145269e-7	
+ENSMUSG00000017146	mus musculus	E-GEOD-39509	'tamoxifen induction at 2 months, wait 3 months' vs 'no tamoxifen induction' in 'luminal cell of prostate epithelium; Nkx3.1-CreERT2 targeted allele'	1.4	1.7667886036554e-7	
+AT4G21070	arabidopsis thaliana	E-GEOD-114379	'mannitol; 300 millimolar' vs 'none' in 'wild type genotype'	-1.4	2.25374754047221e-7	
+ENSG00000012048	homo sapiens	E-MTAB-6485	'neratinib; 250 nanomolar' vs 'none'	-1.4	2.28474758518441e-7	
+AT4G21070	arabidopsis thaliana	E-GEOD-114379	'pyl duodecuple loss of function mutant' vs 'wild type genotype' in 'mannitol; 300 millimolar'	1.4	6.55088728676474e-7	
+ENSG00000012048	homo sapiens	E-GEOD-45757	'Panc-2.03; CI-1040; 2 millimolar' vs 'Panc-2.03; vehicle; '	-1.4	0.00000128293194501069	
+ENSMUSG00000017146	mus musculus	E-GEOD-68820	'SARS coronavirus MA15' vs 'mock' in 'TLR3 knockout' at '4 day'	1.4	0.00000141455755471112	
+ENSG00000012048	homo sapiens	E-GEOD-52567	'shRNA mediated knockdown of MBD4 and retrovirus mediated expression of RON and MSP' vs 'none'	-1.4	0.00000247723714245601	
+ENSMUSG00000017146	mus musculus	E-MTAB-7062	'TUT4 deficiency; TUT7 knockout' vs 'wild type'	1.4	0.00000416458204287716	
+ENSG00000012048	homo sapiens	E-MTAB-8135	'neoplasm' vs 'normal tissue adjacent to neoplasm'	1.4	0.00000494369529631344	
+ENSG00000012048	homo sapiens	E-MEXP-560	'Dlk1 overexpression' vs 'control'	-1.4	0.00000521656551235543	
+ENSG00000012048	homo sapiens	E-GEOD-63816	'erythroleukemia; ZRSR2 shRNA' vs 'normal'	1.4	0.00000549263187248859	
+ENSG00000012048	homo sapiens	E-GEOD-48433	'786-0; renal adenocarcinoma; P10' vs '786-0; renal adenocarcinoma; P0'	1.4	0.00000644251560149005	
+ENSG00000012048	homo sapiens	E-GEOD-43049	'Apical anaerobic' vs 'Conventional'	-1.4	0.00000695596299753194	
+ENSG00000012048	homo sapiens	E-GEOD-66048	'BRD4 inhibitor JQ1' vs 'none' in 'OMM1'	-1.4	0.00000917560236993507	
+ENSG00000012048	homo sapiens	E-GEOD-57494	'EX00000246; stimulated with interferon gamma and lipopolysaccharide' vs 'none' at '6 hour'	-1.4	0.0000106609051583797	
+ENSG00000012048	homo sapiens	E-MEXP-563	transduction of 'hTERT, HPVE6, HPVE7, SV40t' vs 'none'	1.4	0.0000120878382984301	
+ENSRNOG00000020701	rattus norvegicus	E-CURD-69	'cyclosporine A; 300 milligram per kilogram' vs 'none' in 'cyclosporine A; liver' at '3 hour'	-1.4	0.0000134384133302031	
+ENSG00000012048	homo sapiens	E-GEOD-45757	'Panc-2.13; CI-1040; 2 millimolar' vs 'Panc-2.13; vehicle; '	-1.4	0.0000155211468950619	
+ENSG00000012048	homo sapiens	E-GEOD-28542	'10 nanomolar 17beta-estradiol and 7.5 micromolar CG-1521' vs 'vehicle' in 'SUM149PT'	-1.4	0.0000172990943564635	
+ENSG00000012048	homo sapiens	E-GEOD-5563	'vulvar intraepithelial neoplasia' vs 'normal'	1.4	0.0000175109224649319	
+ENSMUSG00000017146	mus musculus	E-MEXP-1942	'Mycobacterium tuberculosis; DBA/2J congenic; 30 day' vs 'control; DBA/2J congenic; 0 day'	1.4	0.0000218014860959714	
+ENSG00000012048	homo sapiens	E-GEOD-44596	'100 micromolar; sparstolonin B' vs 'DMSO'	-1.4	0.0000289220950693049	
+ENSMUSG00000017146	mus musculus	E-GEOD-33266	'SARS coronavirus MA15; 10^3 PFU' vs 'none' at '4 day'	1.4	0.0000343818822274523	
+ENSMUSG00000017146	mus musculus	E-GEOD-7694	'dinitrofluorobenzene' vs 'control' in 'wild type'	1.4	0.0000652745547961385	
+ENSMUSG00000017146	mus musculus	E-MEXP-1942	'Mycobacterium tuberculosis; D2.B6-Chr19 congenic; 30 day' vs 'control; D2.B6-Chr19 congenic; 0 day'	1.4	0.0000956754293880448	
+ENSMUSG00000017146	mus musculus	E-GEOD-38138	'control; streptozotocin-induced diabetes' vs 'control; control'	1.4	0.000101854220038121	
+ENSG00000012048	homo sapiens	E-MTAB-3645	'Hypoxia' vs 'Normoxia' in 'A2780cis; Cisplatin'	-1.4	0.000118799321061642	
+ENSMUSG00000017146	mus musculus	E-GEOD-51387	'wild type genotype; SARS MA15; 4 day' vs 'wild type genotype; mock'	1.4	0.000136793956095707	
+ENSMUSG00000017146	mus musculus	E-ERAD-181	'wormy, worm separated; Trichuris muris' vs 'control; non wormy' in 'caecum'	1.4	0.000138287857358179	
+ENSMUSG00000017146	mus musculus	E-MTAB-8934	'neurosphere in differentiation medium; 5 day' vs 'neurosphere; 0 day' in 'Cstb knockout'	-1.4	0.000197796613200887	
+ENSXETG00000024564	xenopus tropicalis	E-MTAB-8785	'tail amputation' at '3 day' vs 'none' at '0 day'	1.4	0.000202386806352473	
+ENSMUSG00000017146	mus musculus	E-MTAB-2660	'glioblastoma multiforme' vs 'normal'	1.4	0.000227020604336726	
+ENSMUSG00000017146	mus musculus	E-GEOD-77550	'induced extraembryonic endoderm stem cell; grown in XEN cell medium' vs 'mouse embryonic fibroblast; control'	1.4	0.000243500076899792	
+ENSMUSG00000017146	mus musculus	E-MEXP-2249	'conditional UPF2 knockout; before partial hepatechtomy' vs 'control; before partial hepatechtomy'	1.4	0.000250228956950883	
+ENSG00000012048	homo sapiens	E-GEOD-19018	'3 percent oxygen; young' vs '20 percent oxygen; young'	1.4	0.000325665457473793	
+ENSG00000012048	homo sapiens	E-GEOD-60052	'small cell lung carcinoma' vs 'normal'	1.4	0.000346337357489496	
+ENSMUSG00000017146	mus musculus	E-MTAB-3352	'Ngn3-expressing cell' vs 'Ngn3-null cell'	-1.4	0.000575176070105306	
+ENSMUSG00000017146	mus musculus	E-GEOD-49262	'SARS coronavirus MA15 dORF6' vs 'none' at '4 day'	1.4	0.000643705345324014	
+ENSRNOG00000020701	rattus norvegicus	E-CURD-70	'disulfiram; 60 milligram per kilogram' vs 'none' in 'disulfiram; liver' at '6 hour'	1.4	0.000899029624200815	
+ENSRNOG00000020701	rattus norvegicus	E-CURD-62	'ethionamide; 300 milligram per kilogram' vs 'none' in 'ethionamide; liver' at '15 day'	1.4	0.00106805787346795	
+ENSMUSG00000017146	mus musculus	E-GEOD-34907	'MEF; transduced with MyoD lentivirus' vs 'MEF; control'	1.4	0.00146193743332212	
+ENSMUSG00000017146	mus musculus	E-MTAB-8934	'neurosphere in differentiation medium; 5 day' vs 'neurosphere; 0 day' in 'wild type genotype'	-1.4	0.00149154845882104	
+ENSG00000012048	homo sapiens	E-GEOD-66048	'BRD4 inhibitor JQ1' vs 'none' in 'Mel290'	-1.4	0.00149536684468717	
+AT4G21070	arabidopsis thaliana	E-GEOD-33344	'cycloheximide' vs 'control'	1.4	0.00368927502928228	
+ENSG00000012048	homo sapiens	E-GEOD-45757	'Panc-10.05; CI-1040; 2 millimolar' vs 'Panc-10.05; vehicle; '	-1.4	0.00670714529540156	
+ENSMUSG00000017146	mus musculus	E-GEOD-35899	'ICG-001 and PHA665752' vs 'DMSO'	-1.4	0.00718221522633823	
+AT4G21070	arabidopsis thaliana	E-GEOD-33344	'dexamethasone and cycloheximide' vs 'control'	1.4	0.00727612574362587	
+AT4G21070	arabidopsis thaliana	E-MTAB-3750	'0.1 mM nitrate' vs '10 mM nitrate' in 'wild type genotype'	-1.4	0.00800712461335822	
+ENSMUSG00000017146	mus musculus	E-MTAB-9750	'extracellular vesicle; non-stimulated culture medium' vs 'none'	-1.4	0.0107988894587235	
+ENSMUSG00000017146	mus musculus	E-GEOD-53321	'polarized with E coli lipopolysacharide and INF-gamma' vs 'untreated'	-1.4	0.0112564112757924	
+ENSG00000012048	homo sapiens	E-MTAB-6008	'TRPS1 siRNA 1' vs 'none' in 'B42 subclone 11'	-1.4	0.011641488117545	
+ENSG00000012048	homo sapiens	E-GEOD-16179	'lapatinib' vs 'DMSO' in 'acquired resistant to lapatinib'	-1.4	0.0138582106730402	
+ENSG00000012048	homo sapiens	E-MEXP-3628	'osteosarcoma' vs 'normal'	-1.4	0.0165808266071342	
+ENSMUSG00000017146	mus musculus	E-GEOD-41293	'synovial sarcoma' vs 'control'	1.4	0.0173183528071279	
+ENSG00000012048	homo sapiens	E-GEOD-9350	'hypoxia' vs 'normal atmospheric oxygen pressure' in 'low metastatic cell line'	-1.4	0.0205811022563207	
+AT4G21070	arabidopsis thaliana	E-GEOD-122495	'pp7l-1 loss of function mutant' vs 'wild type genotype'	1.4	0.0299472290371877	
+AT4G21070	arabidopsis thaliana	E-GEOD-115951	'lithium chloride, 100 millimolar' vs 'none'	1.4	0.0312654815586862	
+ENSMUSG00000017146	mus musculus	E-MEXP-3202	'AhCre Apc Floxed Cited1 knockout' vs 'control'	1.4	0.0434046693556387	
+ENSMUSG00000017146	mus musculus	E-GEOD-56492	'AUY922; 100 nanomolar' vs 'DMSO; 0.1 percent' in 'wild type'	1.4	0.0475460282148312	
+ENSG00000012048	homo sapiens	E-GEOD-56788	'CCNK knock-down' vs 'mock'	-1.3	1.80823398342118e-48	
+ENSG00000012048	homo sapiens	E-MTAB-7025	'JQ1 (1 micromolar) and THZ1 (35 nanomolar)' vs 'none'	-1.3	6.65079237965338e-23	
+ENSG00000012048	homo sapiens	E-GEOD-55092	'neoplasm' vs 'normal tissue adjacent to neoplasm' in 'liver'	1.3	1.23378764167715e-18	
+ENSG00000012048	homo sapiens	E-GEOD-41586	'5-aza-deoxy-cytidine; 5 micromolar' vs 'none'	1.3	4.30620449530411e-17	
+ENSG00000012048	homo sapiens	E-GEOD-18842	'non-small cell lung cancer' vs 'normal'	1.3	1.59136603328631e-16	
+ENSG00000012048	homo sapiens	E-MTAB-6235	'DDX3 siRNA 6' vs 'scrambled siRNA'	-1.3	2.28581458978625e-14	
+ENSG00000012048	homo sapiens	E-GEOD-57494	'EX00000246' vs 'none' in 'unstimulated' at '24 hour'	-1.3	1.61735297187299e-13	
+ENSG00000012048	homo sapiens	E-MTAB-7805	'Human gammaherpesvirus 4' at '14 day' vs 'none' at '0 day'	1.3	2.89866763084644e-13	
+ENSMUSG00000017146	mus musculus	E-MTAB-5032	'high GLUT1 expression' vs 'low GLUT1 expression' in 'wild type genotype'	-1.3	6.09757458501724e-10	
+ENSG00000012048	homo sapiens	E-GEOD-41678	'Cal51; cocultured with fibroblast HFF1' vs 'Cal51; normal'	-1.3	1.00317432062601e-8	
+ENSG00000012048	homo sapiens	E-MTAB-6235	'DDX54 siRNA 12' vs 'scrambled siRNA'	-1.3	2.686160161526e-8	
+ENSMUSG00000017146	mus musculus	E-GEOD-628	'estradiol' at '30 hour' vs 'none' at '0 hour'	-1.3	1.51263364904424e-7	
+ENSG00000012048	homo sapiens	E-MTAB-5102	'154; 0.4 micromolar' vs 'DMSO'	-1.3	1.53990733203501e-7	
+AT4G21070	arabidopsis thaliana	E-MTAB-7612	'wounding; 3 hour' vs 'none; 0 hour' in 'DMSO'	-1.3	2.63402966606951e-7	
+ENSG00000012048	homo sapiens	E-GEOD-46493	'Nutlin-3; 10 micromolar' vs 'DMSO; 0.1 percent'	-1.3	3.43150172510598e-7	
+AT4G21070	arabidopsis thaliana	E-GEOD-57145	'chr11-1, chr17-1 double mutant' vs 'wild type' at '8 day'	-1.3	5.11963206569582e-7	
+ENSBTAG00000022520	bos taurus	E-MEXP-1778	'Trypanosoma Congolense; 21 day' vs 'control; 0 day' in 'spleen; N'Dama'	1.3	7.68605135879664e-7	
+ENSG00000012048	homo sapiens	E-GEOD-48433	'MOLT-4; acute lymphoblastic leukemia; P10' vs 'MOLT-4; acute lymphoblastic leukemia; P0'	1.3	8.95169063849519e-7	
+ENSG00000012048	homo sapiens	E-GEOD-12452	'nasopharyngeal carcinoma' vs 'normal'	1.3	0.00000265815025633921	
+ENSG00000012048	homo sapiens	E-GEOD-50161	'glioblastoma' vs 'normal'	1.3	0.00000319468984781072	
+ENSG00000012048	homo sapiens	E-MEXP-930	'mesendoderm/endoderm progenitor cell' vs 'embryonic stem cell'	1.3	0.00000416088112257925	
+ENSG00000012048	homo sapiens	E-GEOD-66270	'tumour staging pT3; disease staging 2; neoplasm' vs 'normal tissue adjacent to neoplasm'	1.3	0.00000529387822062967	
+ENSG00000012048	homo sapiens	E-GEOD-33455	'PC3; converted to docetaxel resistant cells' vs 'PC3; none'	-1.3	0.00000568657944104052	
+ENSG00000012048	homo sapiens	E-GEOD-1692	'serum deprivation' vs 'asynchronous growth'	-1.3	0.00000579758150058533	
+ENSG00000012048	homo sapiens	E-MEXP-3496	'Enterococcus faecalis' at '1 day' vs 'none' at '1 day'	-1.3	0.00000786628324289142	
+ENSG00000012048	homo sapiens	E-GEOD-26262	'Pin1 knockout' vs 'control'	-1.3	0.0000115270449666154	
+ENSG00000012048	homo sapiens	E-GEOD-45757	'L3.3; CI-1040; 2 millimolar' vs 'L3.3; vehicle; '	-1.3	0.0000200231492653846	
+ENSMUSG00000017146	mus musculus	E-MTAB-2782	'14 day' vs '1 day'	-1.3	0.0000236004809334318	
+ENSMUSG00000017146	mus musculus	E-GEOD-37286	'pre-B acute lymphoblastic leukemia 8093; nilotinib; 3 day' vs 'pre-B acute lymphoblastic leukemia 8093; nilotinib; 0 day'	-1.3	0.0000439843251682759	
+ENSG00000012048	homo sapiens	E-MTAB-6235	'DDX54 siRNA 9' vs 'scrambled siRNA'	-1.3	0.0000474453516451403	
+ENSMUSG00000017146	mus musculus	E-GEOD-52405	'Influenza A virus (A/Puerto Rico/8/1934(H1N1)); 4 day' vs 'mock' in 'C57BL/6J'	1.3	0.0000562014696770276	
+ENSMUSG00000017146	mus musculus	E-GEOD-44907	'Mkl1-RFP with a deletion of the SAP domain' vs 'full length Mkl1-RFP'	-1.3	0.0000631342607298197	
+ENSG00000012048	homo sapiens	E-MEXP-2360	'activated B cell' vs 'memory B cell'	1.3	0.000066852902562772	
+ENSMUSG00000017146	mus musculus	E-MTAB-8344	'undifferentiated' vs 'differentiated; rosiglitazone' in 'AKR/J'	-1.3	0.000273573765875515	
+ENSG00000012048	homo sapiens	E-MTAB-5219	'10 day' vs '0 day'	-1.3	0.000287648687116566	
+ENSG00000012048	homo sapiens	E-GEOD-44392	'stimulated' vs 'unstimulated' in '3.3 microgram per milliliter; edelfosine'	1.3	0.000352102761613816	
+ENSMUSG00000017146	mus musculus	E-GEOD-16992	'24 hour before induction of differentiation' vs 'induction of differentiation'	1.3	0.000357252874036895	
+ENSG00000012048	homo sapiens	E-GEOD-12355	'Notch2-IC expression' vs 'control' at '3 day'	1.3	0.000387126682280002	
+ENSSSCG00000022101	sus scrofa	E-MTAB-5879	'anterior cruciate ligament transection surgery; 7 day; ligament repair surgery (BEAR)' vs 'no injury; no treatment' in 'female'	1.3	0.000427805077355018	
+ENSMUSG00000017146	mus musculus	E-GEOD-52157	'E2f8 knock-out' vs 'wild type'	1.3	0.000540873634143656	
+ENSMUSG00000017146	mus musculus	E-GEOD-29632	'Nrf knockout; air; 2 day' vs 'control; air; 2 day'	-1.3	0.00088575912118349	
+ENSG00000012048	homo sapiens	E-GEOD-22772	'overexpression of Deltex1' vs 'control'	1.3	0.00143957157992454	
+AT4G21070	arabidopsis thaliana	E-MEXP-1797	'40 micromolar; rotenone' vs '0.25 percent; methanol' at '12 hour'	-1.3	0.0015813971146922	
+ENSMUSG00000017146	mus musculus	E-MTAB-8580	'Ink4a/Arf-/-; EGFRvIII' vs 'wild type genotype' in 'co-culture'	1.3	0.0020133391772332	
+ENSG00000012048	homo sapiens	E-GEOD-12854	'PKA RI-alpha over expression' vs 'wild type'	1.3	0.00209132864739847	
+ENSG00000012048	homo sapiens	E-GEOD-19650	'intraductal papillary-mucinous carcinoma (IPMC)' vs 'normal'	1.3	0.00215440142347281	
+ENSBTAG00000022520	bos taurus	E-MEXP-1778	'Trypanosoma Congolense; 21 day' vs 'control; 0 day' in 'lymph node; N'Dama'	1.3	0.00222230183873347	
+ENSMUSG00000017146	mus musculus	E-GEOD-36016	'SARS coronavirus MA15' vs 'none' in 'IFNAR1 -/-' at '5 day'	1.3	0.00238553546323544	
+ENSMUSG00000017146	mus musculus	E-GEOD-33266	'SARS coronavirus MA15; 10^4 PFU' vs 'none' at '4 day'	1.3	0.00505606102153725	
+ENSMUSG00000017146	mus musculus	E-MTAB-7595	'H-Ras expression; c-Myc activation' vs 'wild type'	1.3	0.00919279737948432	
+ENSRNOG00000020701	rattus norvegicus	E-MTAB-104	'cancer; inoculation of cancer cell' vs 'normal; sham'	1.3	0.0128488874360429	
+ENSG00000012048	homo sapiens	E-MTAB-6008	'TRPS1 siRNA 1' vs 'scrambled control siRNA' in 'B42 subclone 11'	-1.3	0.013717557336356	
+ENSMUSG00000017146	mus musculus	E-GEOD-69556	'Pkhd1Cre; Pkd2 F/F' vs 'wild type'	1.3	0.0159779362976707	
+ENSMUSG00000017146	mus musculus	E-GEOD-16994	'Tyr mutant' vs 'wild type'	1.3	0.025587128416455	
+ENSG00000012048	homo sapiens	E-GEOD-18105	'metastasis; tumor' vs 'metastasis; normal adjacent tissue'	1.3	0.0284689641431599	
+ENSG00000012048	homo sapiens	E-GEOD-56517	'U87MG; MSCV-HOXA9' vs 'U87MG; control'	1.3	0.0350605687891317	
+ENSG00000012048	homo sapiens	E-MTAB-8480	'MEF2D-HNFNPUL1 knockdown by siRNA' vs 'luciferase siRNA'	1.2	8.32931196511528e-148	
+ENSG00000012048	homo sapiens	E-GEOD-60548	'doxycycline; 0.5 microgram per milliliter; Day 3 post Neurogenin induction' vs 'control'	-1.2	1.26704673916229e-31	
+ENSG00000012048	homo sapiens	E-MTAB-7808	'doxycycline' vs 'none' in 'Caki1'	-1.2	2.38071879222925e-25	
+ENSMUSG00000017146	mus musculus	E-GEOD-33141	'Nrl-/-' vs 'wild type'	-1.2	8.33938974346441e-15	
+ENSG00000012048	homo sapiens	E-GEOD-48812	'sulforaphane; normal' at '24 hour' vs 'DMSO; normal' at '24 hour'	-1.2	1.60053291635906e-12	
+AT4G21070	arabidopsis thaliana	E-GEOD-116582	'top3A-2' vs 'wild type genotype'	1.2	9.06216194275832e-12	
+ENSG00000012048	homo sapiens	E-MTAB-7773	'TGFb1' vs 'none' in 'pcDNA3 empty vector'	-1.2	2.74610333634846e-9	
+ENSG00000012048	homo sapiens	E-GEOD-59612	'contrast-enhancing core; glioma' vs 'normal'	1.2	7.26671599681287e-9	
+ENSMUSG00000017146	mus musculus	E-GEOD-52405	'SARS coronavirus MA15; 4 day' vs 'mock' in 'NOD/ShiLtJ'	1.2	1.21827086926666e-8	
+ENSRNOG00000020701	rattus norvegicus	E-CURD-71	'gentamicin; 10 milligram per kilogram' vs 'none' in 'gentamicin; liver' at '3 hour'	-1.2	2.86050859581963e-8	
+AT4G21070	arabidopsis thaliana	E-GEOD-111812	'se-2; atxr5; atxr6 triple loss of function mutant' vs 'wild type genotype'	1.2	4.10517500370424e-8	
+AT4G21070	arabidopsis thaliana	E-GEOD-72806	'heat stress' vs 'none'	-1.2	5.77826207970034e-8	
+ENSMUSG00000017146	mus musculus	E-GEOD-38218	'R6/2' vs 'wild type genotype'	1.2	7.28680680020649e-8	
+ENSMUSG00000017146	mus musculus	E-GEOD-52405	'SARS coronavirus MA15; 2 day' vs 'mock' in 'C57BL/6J'	1.2	1.04490606925041e-7	
+ENSMUSG00000017146	mus musculus	E-TABM-672	'6 day' vs '0 day'	-1.2	6.39950610152979e-7	
+ENSG00000012048	homo sapiens	E-GEOD-48433	'MOLT-4; acute lymphoblastic leukemia; P01' vs 'MOLT-4; acute lymphoblastic leukemia; P0'	1.2	0.00000107165529294664	
+ENSMUSG00000017146	mus musculus	E-MTAB-8834	'doxycycline; 200 nanogram per milliliter; neoplasm; 5 day' vs 'none; normal; 0 day'	1.2	0.00000291805859100111	
+ENSG00000012048	homo sapiens	E-GEOD-18105	'non metastasis; tumor' vs 'non metastasis; normal adjacent tissue'	1.2	0.00000359170578981233	
+ENSG00000012048	homo sapiens	E-GEOD-49284	'EPZ6438; lowest cytotoxic concentration' vs 'DMSO' in 'WSU_DLCL2' at '4 day'	-1.2	0.00000422277900347017	
+ENSG00000012048	homo sapiens	E-GEOD-10879	'MCF-7 clone 2A' vs 'MCF-7'	1.2	0.00000430218546932327	
+ENSMUSG00000017146	mus musculus	E-MTAB-5399	'p19Arf and interferon beta' vs 'eGFP control'	-1.2	0.00000444417338331296	
+ENSG00000012048	homo sapiens	E-GEOD-45757	'Panc-8.13; CI-1040; 2 millimolar' vs 'Panc-8.13; vehicle; '	-1.2	0.00000482580051252652	
+ENSG00000012048	homo sapiens	E-GEOD-22533	'fulvestrant' vs 'ethanol' in 'MCF-7/LTED'	-1.2	0.00000509021688124894	
+ENSG00000012048	homo sapiens	E-GEOD-48433	'MOLT-4; acute lymphoblastic leukemia; P04' vs 'MOLT-4; acute lymphoblastic leukemia; P0'	1.2	0.0000062521267075622	
+ENSG00000012048	homo sapiens	E-GEOD-66048	'BRD4 inhibitor JQ1' vs 'none' in 'Mel270'	-1.2	0.00000860015153224058	
+ENSG00000012048	homo sapiens	E-GEOD-52989	'16 hour' vs '0 hour'	1.2	0.0000111032051604857	
+ENSG00000012048	homo sapiens	E-GEOD-57494	'DMSO' in 'stimulated with interferon gamma and lipopolysaccharide' vs 'none' at '6 hour'	-1.2	0.0000132420388932369	
+AT4G21070	arabidopsis thaliana	E-GEOD-29364	'cycloheximide' vs 'mock'	-1.2	0.0000133748247327864	
+ENSG00000012048	homo sapiens	E-GEOD-62673	'deprived of isoleucine' vs 'control media' in 'MCF7' at '24 hour'	-1.2	0.0000171587144703859	
+ENSG00000012048	homo sapiens	E-GEOD-48433	'HOP-62; adenocarcinoma of lung; P04' vs 'HOP-62; adenocarcinoma of lung; P0'	1.2	0.000020814108358272	
+ENSBTAG00000022520	bos taurus	E-MEXP-1778	'Trypanosoma Congolense; 35 day' vs 'control; 0 day' in 'spleen; N'Dama'	1.2	0.00002318864799207	
+ENSG00000012048	homo sapiens	E-GEOD-62673	'deprived of Methionine' vs 'control media' in 'MCF7' at '24 hour'	-1.2	0.0000244190626151626	
+ENSSSCG00000022101	sus scrofa	E-MTAB-5879	'anterior cruciate ligament transection surgery; 7 day; ligament reconstruction surgery' vs 'no injury; no treatment' in 'female'	1.2	0.0000287245042287738	
+ENSG00000012048	homo sapiens	E-GEOD-28542	'7.5 micromolar CG-1521' vs 'vehicle' in 'SUM149PT'	-1.2	0.0000317198985205647	
+ENSMUSG00000017146	mus musculus	E-GEOD-56135	'oral hard palate epithelium' vs 'tail skin epithelium'	-1.2	0.0000419150277473174	
+ENSG00000012048	homo sapiens	E-GEOD-45757	'Panc-6.03; CI-1040; 2 millimolar' vs 'Panc-6.03; vehicle; '	-1.2	0.0000438400864440464	
+ENSMUSG00000017146	mus musculus	E-MEXP-1942	'Mycobacterium tuberculosis; C57BL/6J; 70 day' vs 'control; C57BL/6J; 0 day'	1.2	0.0000575506684954166	
+ENSMUSG00000017146	mus musculus	E-MTAB-7062	'TUT4; TUT7 double knockout' vs 'wild type'	1.2	0.0000664125635206938	
+AT4G21070	arabidopsis thaliana	E-TABM-1009	'sucrose; 1 percent' vs 'none' in 'RBRcs mutant'	1.2	0.0000771696722389125	
+ENSG00000012048	homo sapiens	E-MTAB-3645	'Cisplatin' vs 'None' in 'A2780cis; Hypoxia'	-1.2	0.0000980465780047607	
+ENSSSCG00000022101	sus scrofa	E-MTAB-7435	'skeletal muscle tissue' vs 'liver' in 'high residual feed intake'	-1.2	0.000100807630280318	
+ENSMUSG00000017146	mus musculus	E-MEXP-1942	'Mycobacterium tuberculosis; DBA/2J congenic; 70 day' vs 'control; DBA/2J congenic; 0 day'	1.2	0.00028606532543556	
+ENSGALG00000002781	gallus gallus	E-MTAB-7276	'FPVΔ024' vs 'wild type genotype' in 'Fowlpox virus'	1.2	0.000292682855793495	
+ENSMUSG00000017146	mus musculus	E-GEOD-36016	'STAT1 -/-' vs 'wild type genotype' in 'SARS coronavirus MA15' at '9 day'	1.2	0.000312258688261704	
+ENSMUSG00000017146	mus musculus	E-GEOD-52405	'SARS coronavirus MA15; 2 day' vs 'mock' in 'PWK/PhJ'	1.2	0.000360009681873011	
+ENSG00000012048	homo sapiens	E-GEOD-19249	'lung cancer' vs 'normal' in 'lung; Fresh-frozen tissue'	1.2	0.000396058124568225	
+ENSG00000012048	homo sapiens	E-GEOD-38941	'acute liver failure' vs 'normal'	-1.2	0.000454073056183543	
+ENSMUSG00000017146	mus musculus	E-MEXP-1942	'Mycobacterium tuberculosis; D2.B6-Chr7 congenic; 30 day' vs 'control; D2.B6-Chr7 congenic; 0 day'	1.2	0.000474227090856981	
+ENSG00000012048	homo sapiens	E-GEOD-52989	'48 hour' vs '0 hour'	1.2	0.00047667572786201	
+ENSG00000012048	homo sapiens	E-MTAB-6008	'TRPS1 siRNA 2' vs 'none' in 'B42 subclone 16'	-1.2	0.000491170999137146	
+ENSMUSG00000017146	mus musculus	E-GEOD-6766	'500 micromolar palmitate' vs '1 volume percent bovine serum albumin'	-1.2	0.000509887495515786	
+ENSG00000012048	homo sapiens	E-MTAB-3645	'Hypoxia' vs 'Normoxia' in 'A2780; Cisplatin'	-1.2	0.000512476148325125	
+ENSMUSG00000017146	mus musculus	E-MTAB-1035	'adult definitive erythroid cell' vs 'primitive erythroid cell' in 'basophilic erythroblast'	1.2	0.000523210375835998	
+ENSG00000012048	homo sapiens	E-MTAB-5121	'methyltrienolone; 1 nanomolar' vs 'ethanol' in 'stable expression of GATA2' at '48 hour'	-1.2	0.000569123080385595	
+ENSGALG00000002781	gallus gallus	E-MTAB-7276	'FPVΔ044' vs 'wild type genotype' in 'Fowlpox virus'	1.2	0.000578199997715585	
+ENSMUSG00000017146	mus musculus	E-MEXP-1733	'Albumin Cre+/-;Hnf4a fl/fl' vs 'wild type genotype'	-1.2	0.000598532890345207	
+ENSMUSG00000017146	mus musculus	E-GEOD-3621	'27 week; R6/1 transgenic' vs '27 week; wild_type'	1.2	0.000624402649976917	
+ENSGALG00000002781	gallus gallus	E-MTAB-6038	'Newcastle disease virus LaSota strain' vs 'none' in 'Leghorn' at '6 day'	1.2	0.00086649844892819	
+ENSMUSG00000017146	mus musculus	E-MTAB-5319	'tamoxifen; autosomal dominant polycystic kidney disease' vs 'none; normal'	1.2	0.000938951325495275	
+ENSG00000012048	homo sapiens	E-MTAB-6298	'24 hours with hMSC Osteogenic Bullet Kit' vs 'none' in 'polysome'	-1.2	0.000998887966503781	
+ENSG00000012048	homo sapiens	E-GEOD-51258	'doxyxylcline-mediated overexpression of ERG' vs 'control'	-1.2	0.00120923613127357	
+ENSG00000012048	homo sapiens	E-GEOD-49439	'differentiated; hAKPC-P' vs 'undifferentiated; hAKPC-P'	-1.2	0.00182747088857924	
+ENSG00000012048	homo sapiens	E-GEOD-66354	'supratentorial ependymoma' vs 'normal'	1.2	0.00194684896018342	
+ENSRNOG00000020701	rattus norvegicus	E-CURD-67	'ticlopidine; 300 milligram per kilogram' vs 'none' in 'ticlopidine; liver' at '4 day'	1.2	0.00265692894511738	
+ENSG00000012048	homo sapiens	E-MTAB-5231	'adenocarcinoma' vs 'normal tissue adjacent to adenocarcinoma'	1.2	0.0031763927784264	
+ENSG00000012048	homo sapiens	E-GEOD-71671	'EZH2 inhibitor; 10 micromolar' vs 'none'	-1.2	0.00323591954559118	
+AT4G21070	arabidopsis thaliana	E-GEOD-40245	'tor mutant' vs 'wild type' in 'glucose; 15 micromolar'	-1.2	0.00493385426886008	
+AT4G21070	arabidopsis thaliana	E-MTAB-8478	'anac017 T-DNA mutant' vs 'wild type genotype' at '0 day'	-1.2	0.006326155468911	
+ENSMUSG00000017146	mus musculus	E-GEOD-42100	'stabilization-competent' vs 'stabilization-incompetent' in '22 day; secondary reprogramming cell'	1.2	0.00824542716174019	
+ENSMUSG00000017146	mus musculus	E-MTAB-4035	'Sik1 knockout; gonad adipose tissue' vs 'wild type genotype; gonad adipose tissue'	-1.2	0.0131212542929489	
+ENSMUSG00000017146	mus musculus	E-GEOD-76588	'5 day; Ad-VEGF-A164' vs '0 day; control'	1.2	0.014015304641297	
+ENSG00000012048	homo sapiens	E-GEOD-78936	'schizophrenia' vs 'normal' in 'Brodmann (1909) area 24'	1.2	0.0146786124340985	
+ENSRNOG00000020701	rattus norvegicus	E-CURD-62	'ethionamide; 300 milligram per kilogram' vs 'none' in 'ethionamide; liver' at '4 day'	1.2	0.0149700715327358	
+ENSMUSG00000017146	mus musculus	E-GEOD-39082	'expanded on HUVEC and m5GF in the presence of mD1R for 7 days' vs 'control'	-1.2	0.0150454699892397	
+ENSMUSG00000017146	mus musculus	E-ERAD-132	'Salmonella enterica serovar Typhimurium' vs 'control' in 'derived macrophage from E14 cell line'	-1.2	0.0156975701560641	
+AT4G21070	arabidopsis thaliana	E-GEOD-62256	'Sei-0 x Col-0 F1 hybrid' vs 'Sei-0' in 'Pseudomonas syringae pv. tomato str. DC3000' at '1 day'	1.2	0.0161574096774294	
+ENSG00000012048	homo sapiens	E-GEOD-19665	'cancer tissue' vs 'surrounding noncancerous tissue' in 'hepatitis C virus induced hepatocellular carcinoma'	1.2	0.0164132198691616	
+AT4G21070	arabidopsis thaliana	E-GEOD-37553	'Meloidogyne incognita infested region' vs 'Meloidogyne incognita non-infested region' at '21 day'	1.2	0.0203447164502507	
+ENSMUSG00000017146	mus musculus	E-GEOD-53321	'nutlin-3a; polarized with interleukin 4 and interleukin 13.' vs 'untreated'	-1.2	0.0206652722808529	
+AT4G21070	arabidopsis thaliana	E-GEOD-62256	'Sei-0 x Col-0 F1 hybrid' vs 'Sei-0' in 'Pseudomonas syringae pv. tomato str. DC3000' at '3 day'	1.2	0.0229912813600114	
+AT4G21070	arabidopsis thaliana	E-GEOD-18225	'dyt1 mutant' vs 'wild type'	1.2	0.0354434415299592	
+ENSBTAG00000022520	bos taurus	E-GEOD-38512	'transfer of  embryos produced by somatic cell nuclear transfer' vs 'fibroblast'	1.2	0.0381409317377297	
+ENSMUSG00000017146	mus musculus	E-GEOD-44651	'human chorionic gonadotropin; 5 International Unit' vs 'none' in 'wild type'	-1.2	0.0390331558238431	
+ENSG00000012048	homo sapiens	E-MTAB-7591	'SOX2 overexpression' vs 'wild type' in 'U-2982'	1.1	2.92424682099702e-101	
+ENSG00000012048	homo sapiens	E-GEOD-60585	'siRNAs against NELF' vs 'control' in 'whole-cell RNA'	1.1	4.58046749970209e-38	
+ENSG00000012048	homo sapiens	E-GEOD-51403	'17beta-estradiol; 10 nanomolar' vs 'vehicle'	1.1	1.43755299803726e-36	
+ENSG00000012048	homo sapiens	E-GEOD-60585	'siRNAs against NELF' vs 'control' in 'ribosomal RNA depleted whole cell RNA'	1.1	1.22427761503371e-31	
+ENSMUSG00000017146	mus musculus	E-MTAB-9806	'Debaryomyces hansenii' at '12 hour' vs 'none' at '0 hour'	-1.1	1.93440851796354e-24	
+ENSG00000012048	homo sapiens	E-GEOD-75852	' neural stem cell' vs 'induced pluripotent stem cell' in 'Ataxia-telangiectasia'	-1.1	3.52571134150974e-17	
+ENSG00000012048	homo sapiens	E-MTAB-7294	'Enzalutamide, 1 micromolar' vs 'vehicle' at '48 hour'	-1.1	9.56935768584474e-12	
+ENSG00000012048	homo sapiens	E-GEOD-52778	'dexamethasone' vs 'untreated'	-1.1	2.70581969091056e-10	
+ENSG00000012048	homo sapiens	E-MTAB-5618	'giantin knockout' vs 'wild type'	-1.1	7.13146268744466e-10	
+ENSMUSG00000017146	mus musculus	E-MTAB-6723	'gamma radiation; 8 Gray' vs 'none' in 'Lgr5-Cre-ERT2'	-1.1	1.15091440810274e-8	
+ENSG00000012048	homo sapiens	E-GEOD-41586	'5-aza-deoxy-cytidine; 10 micromolar' vs 'none'	1.1	2.35952721490258e-8	
+ENSG00000012048	homo sapiens	E-GEOD-54962	'50 uM Enterobactin' vs 'control'	-1.1	3.14985842476644e-8	
+ENSMUSG00000017146	mus musculus	E-ERAD-181	'Trichuris muris' vs 'control' in 'mesenteric lymph node'	1.1	1.52277933031915e-7	
+ENSRNOG00000020701	rattus norvegicus	E-CURD-74	'puromycin aminonucleoside; 120 milligram per kilogram' vs 'none' in 'puromycin aminonucleoside; liver' at '6 hour'	1.1	1.70703539592196e-7	
+ENSMUSG00000017146	mus musculus	E-GEOD-43713	'MG132; 1 micromolar' vs 'DMSO' in 'CHOP-/-'	1.1	3.11968825952296e-7	
+ENSG00000012048	homo sapiens	E-GEOD-43767	'lung adenocarcinoma' vs 'normal' in 'adult'	1.1	0.00000116055929034521	
+ENSG00000012048	homo sapiens	E-GEOD-48433	'HOP-62; adenocarcinoma of lung; P10' vs 'HOP-62; adenocarcinoma of lung; P0'	1.1	0.00000121484326537978	
+ENSG00000012048	homo sapiens	E-GEOD-8597	'cycloheximide; control (ethanol vehicle)' vs 'DMSO control; control (ethanol vehicle)'	-1.1	0.00000280800533899079	
+ENSG00000012048	homo sapiens	E-GEOD-12446	'estradiol' vs 'control'	1.1	0.00000326007037940361	
+ENSMUSG00000017146	mus musculus	E-MTAB-7546	'epithelium-specific Bcl9; Bcl9l knockout and mutant beta-catenin expression' vs 'wild type'	1.1	0.00000415090905017134	
+ENSMUSG00000017146	mus musculus	E-MTAB-9361	'RBM20 antisense oligonucleotide' vs 'none' in 'wild type genotype'	1.1	0.00000480242465384646	
+ENSG00000012048	homo sapiens	E-GEOD-66354	'posterior fossa group A ependymoma' vs 'normal'	1.1	0.00000551059008484463	
+ENSG00000012048	homo sapiens	E-GEOD-49284	'EPZ6438; lowest cytotoxic concentration' vs 'DMSO' in 'WSU_DLCL2' at '6 day'	-1.1	0.00000765828722765121	
+ENSG00000012048	homo sapiens	E-GEOD-41364	'5 micromolar; 5-Aza' vs 'vehicle'	1.1	0.0000114068263141389	
+ENSMUSG00000017146	mus musculus	E-MTAB-8834	'doxycycline; 200 nanogram per milliliter; neoplasm; 12 day' vs 'none; normal; 0 day'	-1.1	0.0000117655814914807	
+ENSG00000012048	homo sapiens	E-GEOD-48433	'786-0; renal adenocarcinoma; P04' vs '786-0; renal adenocarcinoma; P0'	1.1	0.0000285256559261593	
+ENSMUSG00000017146	mus musculus	E-MTAB-5399	'p19Arf' vs 'eGFP control'	-1.1	0.000052726164827432	
+ENSBTAG00000022520	bos taurus	E-MEXP-1778	'Trypanosoma Congolense; 21 day' vs 'control; 0 day' in 'spleen; Boran'	1.1	0.0000611255146512712	
+ENSG00000012048	homo sapiens	E-MEXP-563	transduction of 'hTERT, HPVE6, HPVE7, SV40t, hRas' vs 'none'	1.1	0.0000772334248332998	
+ENSG00000012048	homo sapiens	E-MEXP-1996	'ACO2-V5 overexpression 
