@@ -9,6 +9,7 @@ It will result in 3 files,
 2)containing experiment accessions for each ATLAS id
 3)  Experiment information for each accession 
 
+
 ### singlecell_expression_atlas_api("<q_uery>")
 #### singleExpression.py
 This is a program that uses EBI search to pull some information out of single cell expression atlas
@@ -18,10 +19,14 @@ It will result in 3 files,
 2) containing experiment accessions
 3)  Experiment information for each accession 
 
+--- 
+
 ### parserAtlas('<file.tsv>')
 #### AtlasTSVtoJSON.py
 This is a script to parse the .tsv file outputed by Expression ATLAS. 
 Input files can be gather here: https://www.ebi.ac.uk/gxa/home
+
+--- 
 
 ### get_atlas_files('<url_ftp>')
 #### ftp_atlas.py
@@ -35,6 +40,8 @@ This directory contains atlas experiment information. You can also Unzip the fil
 This is a program to pull single cell experiment idf files
 This program goes to this directory: http://ftp.ebi.ac.uk/pub/databases/microarray/data/atlas/sc-experiments/
 and pulls files that end in idf.txt  You can also Unzip the files in sc-atlas_files.zip
+ 
+ --- 
 
 ### get__current_atlas_files()
 ### get_current_SC_atlas_files()
@@ -42,6 +49,8 @@ and pulls files that end in idf.txt  You can also Unzip the files in sc-atlas_fi
 These programs creates a list of experiment files in each respective local directory
 It removes the idf.txt extensions  to match the ftp experiment folder. 
  You can also Unzip the files in atlas_files.zip and sc-atlas_files.zip
+ 
+ --- 
 
 ### getexperimentIDF(<hugo_ref_info.json>)
 #### atlasexperimentIDF.py
