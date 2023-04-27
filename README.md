@@ -28,23 +28,24 @@ Input files can be gather here: https://www.ebi.ac.uk/gxa/home
 This is a program to pull atlas experiment idf files
 This program goes to this directory: http://ftp.ebi.ac.uk/pub/databases/microarray/data/atlas/experiments/
 and pulls files that end in idf.txt. it should ignore files that don't start with "E-"
-This directory contains atlas experiment information. 
+This directory contains atlas experiment information. You can also Unzip the files in atlas_files.zip
 
 ### get_sc_atlas_files('<url>')
 #### sc_atlas_ftp.py
 This is a program to pull single cell experiment idf files
 This program goes to this directory: http://ftp.ebi.ac.uk/pub/databases/microarray/data/atlas/sc-experiments/
-and pulls files that end in idf.txt
+and pulls files that end in idf.txt  You can also Unzip the files in sc-atlas_files.zip
 
-### get_atlas_files()
-### get_SC_atlas_files()
+### get__current_atlas_files()
+### get_current_SC_atlas_files()
 #### currentfiles.py
 These programs creates a list of experiment files in each respective local directory
-It removes the idf.txt extensions  to match the ftp experiment folder
+It removes the idf.txt extensions  to match the ftp experiment folder. 
+ You can also Unzip the files in atlas_files.zip and sc-atlas_files.zip
 
 ### getexperimentIDF(<hugo_ref_info.json>)
 #### atlasexperimentIDF.py
 expression_atlas_api generates a list of accession ids, named <<hugo_ref>>_info.json
 This takes the list of acc ids and copies the idf.txt files to a new folder for that
-hugo reference
+hugo reference. You can also Unzip the files in atlas_files.zip
 
