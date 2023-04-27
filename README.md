@@ -6,7 +6,7 @@ The query must be a hugo reference for this block of code to work.
 This is a program that uses EBI search to pull some information out of expression atlas
 It will result in 3 files,
 1) containing the ATLAS ids of a hugo_ref, 
-2)containing experiment accessions for each ATLAS id
+2) containing experiment accessions for each ATLAS id
 3)  Experiment information for each accession 
 
 
